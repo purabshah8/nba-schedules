@@ -1,0 +1,991 @@
+DateTime,Away,Home
+"Sun, Dec 25, 2011 1:30 pm",Miami Heat,Dallas Mavericks
+"Sun, Dec 25, 2011 7:30 pm",Los Angeles Clippers,Golden State Warriors
+"Sun, Dec 25, 2011 2:00 pm",Chicago Bulls,Los Angeles Lakers
+"Sun, Dec 25, 2011 12:00 pm",Boston Celtics,New York Knicks
+"Sun, Dec 25, 2011 7:00 pm",Orlando Magic,Oklahoma City Thunder
+"Mon, Dec 26, 2011 7:00 pm",Milwaukee Bucks,Charlotte Bobcats
+"Mon, Dec 26, 2011 7:00 pm",Toronto Raptors,Cleveland Cavaliers
+"Mon, Dec 26, 2011 7:30 pm",Denver Nuggets,Dallas Mavericks
+"Mon, Dec 26, 2011 7:30 pm",Chicago Bulls,Golden State Warriors
+"Mon, Dec 26, 2011 7:00 pm",Detroit Pistons,Indiana Pacers
+"Mon, Dec 26, 2011 7:00 pm",Oklahoma City Thunder,Minnesota Timberwolves
+"Mon, Dec 26, 2011 7:00 pm",Houston Rockets,Orlando Magic
+"Mon, Dec 26, 2011 7:00 pm",New Orleans Hornets,Phoenix Suns
+"Mon, Dec 26, 2011 7:00 pm",Philadelphia 76ers,Portland Trail Blazers
+"Mon, Dec 26, 2011 7:00 pm",Los Angeles Lakers,Sacramento Kings
+"Mon, Dec 26, 2011 7:30 pm",Memphis Grizzlies,San Antonio Spurs
+"Mon, Dec 26, 2011 7:00 pm",New Jersey Nets,Washington Wizards
+"Tue, Dec 27, 2011 7:30 pm",Utah Jazz,Los Angeles Lakers
+"Tue, Dec 27, 2011 8:00 pm",Boston Celtics,Miami Heat
+"Tue, Dec 27, 2011 7:30 pm",Minnesota Timberwolves,Milwaukee Bucks
+"Tue, Dec 27, 2011 7:30 pm",Atlanta Hawks,New Jersey Nets
+"Tue, Dec 27, 2011 7:00 pm",Sacramento Kings,Portland Trail Blazers
+"Wed, Dec 28, 2011 7:30 pm",Washington Wizards,Atlanta Hawks
+"Wed, Dec 28, 2011 7:00 pm",Miami Heat,Charlotte Bobcats
+"Wed, Dec 28, 2011 7:00 pm",Utah Jazz,Denver Nuggets
+"Wed, Dec 28, 2011 7:30 pm",Cleveland Cavaliers,Detroit Pistons
+"Wed, Dec 28, 2011 7:30 pm",New York Knicks,Golden State Warriors
+"Wed, Dec 28, 2011 7:00 pm",Oklahoma City Thunder,Memphis Grizzlies
+"Wed, Dec 28, 2011 7:00 pm",Boston Celtics,New Orleans Hornets
+"Wed, Dec 28, 2011 7:00 pm",Philadelphia 76ers,Phoenix Suns
+"Wed, Dec 28, 2011 7:30 pm",Los Angeles Clippers,San Antonio Spurs
+"Wed, Dec 28, 2011 6:00 pm",Indiana Pacers,Toronto Raptors
+"Thu, Dec 29, 2011 7:00 pm",San Antonio Spurs,Houston Rockets
+"Thu, Dec 29, 2011 7:30 pm",New York Knicks,Los Angeles Lakers
+"Thu, Dec 29, 2011 7:00 pm",Dallas Mavericks,Oklahoma City Thunder
+"Thu, Dec 29, 2011 7:00 pm",New Jersey Nets,Orlando Magic
+"Thu, Dec 29, 2011 7:00 pm",Denver Nuggets,Portland Trail Blazers
+"Thu, Dec 29, 2011 7:00 pm",Chicago Bulls,Sacramento Kings
+"Fri, Dec 30, 2011 7:30 pm",New Jersey Nets,Atlanta Hawks
+"Fri, Dec 30, 2011 7:30 pm",Detroit Pistons,Boston Celtics
+"Fri, Dec 30, 2011 7:00 pm",Orlando Magic,Charlotte Bobcats
+"Fri, Dec 30, 2011 7:30 pm",Toronto Raptors,Dallas Mavericks
+"Fri, Dec 30, 2011 7:00 pm",Cleveland Cavaliers,Indiana Pacers
+"Fri, Dec 30, 2011 7:30 pm",Chicago Bulls,Los Angeles Clippers
+"Fri, Dec 30, 2011 7:00 pm",Houston Rockets,Memphis Grizzlies
+"Fri, Dec 30, 2011 7:30 pm",Washington Wizards,Milwaukee Bucks
+"Fri, Dec 30, 2011 7:00 pm",Miami Heat,Minnesota Timberwolves
+"Fri, Dec 30, 2011 7:00 pm",Phoenix Suns,New Orleans Hornets
+"Fri, Dec 30, 2011 7:00 pm",Philadelphia 76ers,Utah Jazz
+"Sat, Dec 31, 2011 6:00 pm",Indiana Pacers,Detroit Pistons
+"Sat, Dec 31, 2011 6:00 pm",Philadelphia 76ers,Golden State Warriors
+"Sat, Dec 31, 2011 6:00 pm",Atlanta Hawks,Houston Rockets
+"Sat, Dec 31, 2011 12:30 pm",Denver Nuggets,Los Angeles Lakers
+"Sat, Dec 31, 2011 7:00 pm",Phoenix Suns,Oklahoma City Thunder
+"Sat, Dec 31, 2011 5:00 pm",New York Knicks,Sacramento Kings
+"Sat, Dec 31, 2011 7:30 pm",Utah Jazz,San Antonio Spurs
+"Sun, Jan 1, 2012 7:00 pm",Memphis Grizzlies,Chicago Bulls
+"Sun, Jan 1, 2012 6:00 pm",New Jersey Nets,Cleveland Cavaliers
+"Sun, Jan 1, 2012 6:00 pm",Los Angeles Lakers,Denver Nuggets
+"Sun, Jan 1, 2012 6:30 pm",Portland Trail Blazers,Los Angeles Clippers
+"Sun, Jan 1, 2012 6:00 pm",Charlotte Bobcats,Miami Heat
+"Sun, Jan 1, 2012 6:00 pm",Dallas Mavericks,Minnesota Timberwolves
+"Sun, Jan 1, 2012 6:00 pm",Toronto Raptors,Orlando Magic
+"Sun, Jan 1, 2012 6:00 pm",New Orleans Hornets,Sacramento Kings
+"Sun, Jan 1, 2012 6:00 pm",Boston Celtics,Washington Wizards
+"Mon, Jan 2, 2012 7:30 pm",Washington Wizards,Boston Celtics
+"Mon, Jan 2, 2012 7:30 pm",Oklahoma City Thunder,Dallas Mavericks
+"Mon, Jan 2, 2012 7:00 pm",Milwaukee Bucks,Denver Nuggets
+"Mon, Jan 2, 2012 7:30 pm",Orlando Magic,Detroit Pistons
+"Mon, Jan 2, 2012 7:30 pm",Atlanta Hawks,Miami Heat
+"Mon, Jan 2, 2012 7:00 pm",San Antonio Spurs,Minnesota Timberwolves
+"Mon, Jan 2, 2012 7:30 pm",Indiana Pacers,New Jersey Nets
+"Mon, Jan 2, 2012 7:30 pm",Toronto Raptors,New York Knicks
+"Mon, Jan 2, 2012 1:30 pm",Golden State Warriors,Phoenix Suns
+"Mon, Jan 2, 2012 7:00 pm",New Orleans Hornets,Utah Jazz
+"Tue, Jan 3, 2012 7:00 pm",Atlanta Hawks,Chicago Bulls
+"Tue, Jan 3, 2012 7:00 pm",Charlotte Bobcats,Cleveland Cavaliers
+"Tue, Jan 3, 2012 7:30 pm",Houston Rockets,Los Angeles Lakers
+"Tue, Jan 3, 2012 7:00 pm",Sacramento Kings,Memphis Grizzlies
+"Tue, Jan 3, 2012 7:00 pm",Portland Trail Blazers,Oklahoma City Thunder
+"Tue, Jan 3, 2012 7:00 pm",Milwaukee Bucks,Utah Jazz
+"Wed, Jan 4, 2012 7:30 pm",New Jersey Nets,Boston Celtics
+"Wed, Jan 4, 2012 7:30 pm",Phoenix Suns,Dallas Mavericks
+"Wed, Jan 4, 2012 7:00 pm",Sacramento Kings,Denver Nuggets
+"Wed, Jan 4, 2012 7:30 pm",Chicago Bulls,Detroit Pistons
+"Wed, Jan 4, 2012 7:30 pm",Houston Rockets,Los Angeles Clippers
+"Wed, Jan 4, 2012 7:30 pm",Indiana Pacers,Miami Heat
+"Wed, Jan 4, 2012 7:00 pm",Memphis Grizzlies,Minnesota Timberwolves
+"Wed, Jan 4, 2012 7:00 pm",Philadelphia 76ers,New Orleans Hornets
+"Wed, Jan 4, 2012 7:30 pm",Charlotte Bobcats,New York Knicks
+"Wed, Jan 4, 2012 7:00 pm",Washington Wizards,Orlando Magic
+"Wed, Jan 4, 2012 7:30 pm",Golden State Warriors,San Antonio Spurs
+"Wed, Jan 4, 2012 7:00 pm",Cleveland Cavaliers,Toronto Raptors
+"Thu, Jan 5, 2012 8:00 pm",Miami Heat,Atlanta Hawks
+"Thu, Jan 5, 2012 7:30 pm",Los Angeles Lakers,Portland Trail Blazers
+"Thu, Jan 5, 2012 7:00 pm",Milwaukee Bucks,Sacramento Kings
+"Thu, Jan 5, 2012 7:30 pm",Dallas Mavericks,San Antonio Spurs
+"Fri, Jan 6, 2012 7:30 pm",Indiana Pacers,Boston Celtics
+"Fri, Jan 6, 2012 7:00 pm",Atlanta Hawks,Charlotte Bobcats
+"Fri, Jan 6, 2012 7:30 pm",Golden State Warriors,Los Angeles Lakers
+"Fri, Jan 6, 2012 7:00 pm",Cleveland Cavaliers,Minnesota Timberwolves
+"Fri, Jan 6, 2012 7:00 pm",Denver Nuggets,New Orleans Hornets
+"Fri, Jan 6, 2012 7:00 pm",Houston Rockets,Oklahoma City Thunder
+"Fri, Jan 6, 2012 8:00 pm",Chicago Bulls,Orlando Magic
+"Fri, Jan 6, 2012 7:00 pm",Detroit Pistons,Philadelphia 76ers
+"Fri, Jan 6, 2012 8:30 pm",Portland Trail Blazers,Phoenix Suns
+"Fri, Jan 6, 2012 7:00 pm",New Jersey Nets,Toronto Raptors
+"Fri, Jan 6, 2012 7:00 pm",Memphis Grizzlies,Utah Jazz
+"Fri, Jan 6, 2012 7:00 pm",New York Knicks,Washington Wizards
+"Sat, Jan 7, 2012 7:00 pm",Chicago Bulls,Atlanta Hawks
+"Sat, Jan 7, 2012 8:00 pm",New Orleans Hornets,Dallas Mavericks
+"Sat, Jan 7, 2012 7:30 pm",New York Knicks,Detroit Pistons
+"Sat, Jan 7, 2012 7:30 pm",Utah Jazz,Golden State Warriors
+"Sat, Jan 7, 2012 7:00 pm",Oklahoma City Thunder,Houston Rockets
+"Sat, Jan 7, 2012 7:00 pm",Charlotte Bobcats,Indiana Pacers
+"Sat, Jan 7, 2012 7:30 pm",Milwaukee Bucks,Los Angeles Clippers
+"Sat, Jan 7, 2012 7:30 pm",Miami Heat,New Jersey Nets
+"Sat, Jan 7, 2012 8:00 pm",Toronto Raptors,Philadelphia 76ers
+"Sat, Jan 7, 2012 7:30 pm",Denver Nuggets,San Antonio Spurs
+"Sun, Jan 8, 2012 6:30 pm",Memphis Grizzlies,Los Angeles Lakers
+"Sun, Jan 8, 2012 6:00 pm",San Antonio Spurs,Oklahoma City Thunder
+"Sun, Jan 8, 2012 6:00 pm",Milwaukee Bucks,Phoenix Suns
+"Sun, Jan 8, 2012 6:00 pm",Cleveland Cavaliers,Portland Trail Blazers
+"Sun, Jan 8, 2012 3:00 pm",Orlando Magic,Sacramento Kings
+"Sun, Jan 8, 2012 1:00 pm",Minnesota Timberwolves,Washington Wizards
+"Mon, Jan 9, 2012 7:00 pm",Detroit Pistons,Chicago Bulls
+"Mon, Jan 9, 2012 7:00 pm",New Orleans Hornets,Denver Nuggets
+"Mon, Jan 9, 2012 7:30 pm",Atlanta Hawks,New Jersey Nets
+"Mon, Jan 9, 2012 7:30 pm",Charlotte Bobcats,New York Knicks
+"Mon, Jan 9, 2012 7:00 pm",Indiana Pacers,Philadelphia 76ers
+"Mon, Jan 9, 2012 7:00 pm",Minnesota Timberwolves,Toronto Raptors
+"Tue, Jan 10, 2012 7:00 pm",Houston Rockets,Charlotte Bobcats
+"Tue, Jan 10, 2012 7:30 pm",Dallas Mavericks,Detroit Pistons
+"Tue, Jan 10, 2012 7:30 pm",Miami Heat,Golden State Warriors
+"Tue, Jan 10, 2012 7:30 pm",Phoenix Suns,Los Angeles Lakers
+"Tue, Jan 10, 2012 7:00 pm",Oklahoma City Thunder,Memphis Grizzlies
+"Tue, Jan 10, 2012 7:00 pm",San Antonio Spurs,Milwaukee Bucks
+"Tue, Jan 10, 2012 7:00 pm",Chicago Bulls,Minnesota Timberwolves
+"Tue, Jan 10, 2012 7:00 pm",Sacramento Kings,Philadelphia 76ers
+"Tue, Jan 10, 2012 7:00 pm",Los Angeles Clippers,Portland Trail Blazers
+"Tue, Jan 10, 2012 7:00 pm",Cleveland Cavaliers,Utah Jazz
+"Tue, Jan 10, 2012 7:00 pm",Toronto Raptors,Washington Wizards
+"Wed, Jan 11, 2012 8:00 pm",Dallas Mavericks,Boston Celtics
+"Wed, Jan 11, 2012 7:00 pm",Washington Wizards,Chicago Bulls
+"Wed, Jan 11, 2012 7:00 pm",New Jersey Nets,Denver Nuggets
+"Wed, Jan 11, 2012 7:00 pm",Atlanta Hawks,Indiana Pacers
+"Wed, Jan 11, 2012 7:30 pm",Miami Heat,Los Angeles Clippers
+"Wed, Jan 11, 2012 7:00 pm",Oklahoma City Thunder,New Orleans Hornets
+"Wed, Jan 11, 2012 7:30 pm",Philadelphia 76ers,New York Knicks
+"Wed, Jan 11, 2012 7:00 pm",Orlando Magic,Portland Trail Blazers
+"Wed, Jan 11, 2012 7:30 pm",Houston Rockets,San Antonio Spurs
+"Wed, Jan 11, 2012 7:00 pm",Sacramento Kings,Toronto Raptors
+"Wed, Jan 11, 2012 7:00 pm",Los Angeles Lakers,Utah Jazz
+"Thu, Jan 12, 2012 7:30 pm",Charlotte Bobcats,Atlanta Hawks
+"Thu, Jan 12, 2012 7:30 pm",Orlando Magic,Golden State Warriors
+"Thu, Jan 12, 2012 7:00 pm",New York Knicks,Memphis Grizzlies
+"Thu, Jan 12, 2012 7:00 pm",Detroit Pistons,Milwaukee Bucks
+"Thu, Jan 12, 2012 7:00 pm",Cleveland Cavaliers,Phoenix Suns
+"Fri, Jan 13, 2012 8:00 pm",Chicago Bulls,Boston Celtics
+"Fri, Jan 13, 2012 7:00 pm",Detroit Pistons,Charlotte Bobcats
+"Fri, Jan 13, 2012 7:30 pm",Milwaukee Bucks,Dallas Mavericks
+"Fri, Jan 13, 2012 8:30 pm",Miami Heat,Denver Nuggets
+"Fri, Jan 13, 2012 7:00 pm",Sacramento Kings,Houston Rockets
+"Fri, Jan 13, 2012 7:30 pm",Cleveland Cavaliers,Los Angeles Lakers
+"Fri, Jan 13, 2012 7:00 pm",Minnesota Timberwolves,New Orleans Hornets
+"Fri, Jan 13, 2012 7:00 pm",Washington Wizards,Philadelphia 76ers
+"Fri, Jan 13, 2012 7:00 pm",New Jersey Nets,Phoenix Suns
+"Fri, Jan 13, 2012 7:30 pm",Portland Trail Blazers,San Antonio Spurs
+"Fri, Jan 13, 2012 7:00 pm",Indiana Pacers,Toronto Raptors
+"Sat, Jan 14, 2012 7:00 pm",Minnesota Timberwolves,Atlanta Hawks
+"Sat, Jan 14, 2012 7:00 pm",Golden State Warriors,Charlotte Bobcats
+"Sat, Jan 14, 2012 7:00 pm",Toronto Raptors,Chicago Bulls
+"Sat, Jan 14, 2012 8:00 pm",Sacramento Kings,Dallas Mavericks
+"Sat, Jan 14, 2012 7:00 pm",Portland Trail Blazers,Houston Rockets
+"Sat, Jan 14, 2012 7:00 pm",Boston Celtics,Indiana Pacers
+"Sat, Jan 14, 2012 7:30 pm",Los Angeles Lakers,Los Angeles Clippers
+"Sat, Jan 14, 2012 7:00 pm",New Orleans Hornets,Memphis Grizzlies
+"Sat, Jan 14, 2012 7:00 pm",New York Knicks,Oklahoma City Thunder
+"Sat, Jan 14, 2012 7:00 pm",New Jersey Nets,Utah Jazz
+"Sat, Jan 14, 2012 7:00 pm",Philadelphia 76ers,Washington Wizards
+"Sun, Jan 15, 2012 6:00 pm",Utah Jazz,Denver Nuggets
+"Sun, Jan 15, 2012 6:00 pm",Golden State Warriors,Detroit Pistons
+"Sun, Jan 15, 2012 8:00 pm",Phoenix Suns,San Antonio Spurs
+"Mon, Jan 16, 2012 4:00 pm",Toronto Raptors,Atlanta Hawks
+"Mon, Jan 16, 2012 8:00 pm",Oklahoma City Thunder,Boston Celtics
+"Mon, Jan 16, 2012 2:00 pm",Cleveland Cavaliers,Charlotte Bobcats
+"Mon, Jan 16, 2012 12:30 pm",New Jersey Nets,Los Angeles Clippers
+"Mon, Jan 16, 2012 7:30 pm",Dallas Mavericks,Los Angeles Lakers
+"Mon, Jan 16, 2012 12:00 pm",Chicago Bulls,Memphis Grizzlies
+"Mon, Jan 16, 2012 7:00 pm",Sacramento Kings,Minnesota Timberwolves
+"Mon, Jan 16, 2012 2:00 pm",Portland Trail Blazers,New Orleans Hornets
+"Mon, Jan 16, 2012 1:00 pm",Orlando Magic,New York Knicks
+"Mon, Jan 16, 2012 2:00 pm",Milwaukee Bucks,Philadelphia 76ers
+"Mon, Jan 16, 2012 2:00 pm",Houston Rockets,Washington Wizards
+"Tue, Jan 17, 2012 7:00 pm",Phoenix Suns,Chicago Bulls
+"Tue, Jan 17, 2012 7:00 pm",Golden State Warriors,Cleveland Cavaliers
+"Tue, Jan 17, 2012 7:00 pm",Detroit Pistons,Houston Rockets
+"Tue, Jan 17, 2012 7:30 pm",San Antonio Spurs,Miami Heat
+"Tue, Jan 17, 2012 7:00 pm",Denver Nuggets,Milwaukee Bucks
+"Tue, Jan 17, 2012 7:00 pm",Charlotte Bobcats,Orlando Magic
+"Tue, Jan 17, 2012 7:00 pm",Los Angeles Clippers,Utah Jazz
+"Wed, Jan 18, 2012 8:00 pm",Portland Trail Blazers,Atlanta Hawks
+"Wed, Jan 18, 2012 7:30 pm",Toronto Raptors,Boston Celtics
+"Wed, Jan 18, 2012 7:30 pm",Dallas Mavericks,Los Angeles Clippers
+"Wed, Jan 18, 2012 7:00 pm",Detroit Pistons,Minnesota Timberwolves
+"Wed, Jan 18, 2012 7:30 pm",Golden State Warriors,New Jersey Nets
+"Wed, Jan 18, 2012 7:00 pm",Memphis Grizzlies,New Orleans Hornets
+"Wed, Jan 18, 2012 7:30 pm",Phoenix Suns,New York Knicks
+"Wed, Jan 18, 2012 7:00 pm",San Antonio Spurs,Orlando Magic
+"Wed, Jan 18, 2012 7:00 pm",Denver Nuggets,Philadelphia 76ers
+"Wed, Jan 18, 2012 7:00 pm",Indiana Pacers,Sacramento Kings
+"Wed, Jan 18, 2012 7:00 pm",Oklahoma City Thunder,Washington Wizards
+"Thu, Jan 19, 2012 7:00 pm",New Orleans Hornets,Houston Rockets
+"Thu, Jan 19, 2012 8:00 pm",Los Angeles Lakers,Miami Heat
+"Thu, Jan 19, 2012 8:30 pm",Dallas Mavericks,Utah Jazz
+"Fri, Jan 20, 2012 7:30 pm",Phoenix Suns,Boston Celtics
+"Fri, Jan 20, 2012 7:30 pm",Chicago Bulls,Cleveland Cavaliers
+"Fri, Jan 20, 2012 7:30 pm",Memphis Grizzlies,Detroit Pistons
+"Fri, Jan 20, 2012 7:30 pm",Indiana Pacers,Golden State Warriors
+"Fri, Jan 20, 2012 7:30 pm",Minnesota Timberwolves,Los Angeles Clippers
+"Fri, Jan 20, 2012 7:30 pm",Milwaukee Bucks,New York Knicks
+"Fri, Jan 20, 2012 8:00 pm",Los Angeles Lakers,Orlando Magic
+"Fri, Jan 20, 2012 7:00 pm",Atlanta Hawks,Philadelphia 76ers
+"Fri, Jan 20, 2012 7:30 pm",Sacramento Kings,San Antonio Spurs
+"Fri, Jan 20, 2012 7:00 pm",Portland Trail Blazers,Toronto Raptors
+"Fri, Jan 20, 2012 7:00 pm",Denver Nuggets,Washington Wizards
+"Sat, Jan 21, 2012 7:00 pm",Cleveland Cavaliers,Atlanta Hawks
+"Sat, Jan 21, 2012 7:00 pm",Charlotte Bobcats,Chicago Bulls
+"Sat, Jan 21, 2012 7:30 pm",Portland Trail Blazers,Detroit Pistons
+"Sat, Jan 21, 2012 7:00 pm",San Antonio Spurs,Houston Rockets
+"Sat, Jan 21, 2012 7:00 pm",Sacramento Kings,Memphis Grizzlies
+"Sat, Jan 21, 2012 7:30 pm",Philadelphia 76ers,Miami Heat
+"Sat, Jan 21, 2012 8:00 pm",Oklahoma City Thunder,New Jersey Nets
+"Sat, Jan 21, 2012 7:00 pm",Dallas Mavericks,New Orleans Hornets
+"Sat, Jan 21, 2012 7:30 pm",Denver Nuggets,New York Knicks
+"Sat, Jan 21, 2012 7:00 pm",Minnesota Timberwolves,Utah Jazz
+"Sun, Jan 22, 2012 12:30 pm",Toronto Raptors,Los Angeles Clippers
+"Sun, Jan 22, 2012 6:30 pm",Indiana Pacers,Los Angeles Lakers
+"Sun, Jan 22, 2012 6:00 pm",Milwaukee Bucks,Miami Heat
+"Sun, Jan 22, 2012 6:00 pm",Charlotte Bobcats,New Jersey Nets
+"Sun, Jan 22, 2012 1:00 pm",Boston Celtics,Washington Wizards
+"Mon, Jan 23, 2012 7:30 pm",Orlando Magic,Boston Celtics
+"Mon, Jan 23, 2012 7:00 pm",New Jersey Nets,Chicago Bulls
+"Mon, Jan 23, 2012 7:30 pm",Phoenix Suns,Dallas Mavericks
+"Mon, Jan 23, 2012 7:30 pm",Memphis Grizzlies,Golden State Warriors
+"Mon, Jan 23, 2012 7:00 pm",Atlanta Hawks,Milwaukee Bucks
+"Mon, Jan 23, 2012 7:00 pm",Houston Rockets,Minnesota Timberwolves
+"Mon, Jan 23, 2012 7:00 pm",San Antonio Spurs,New Orleans Hornets
+"Mon, Jan 23, 2012 7:00 pm",Detroit Pistons,Oklahoma City Thunder
+"Mon, Jan 23, 2012 7:00 pm",Washington Wizards,Philadelphia 76ers
+"Mon, Jan 23, 2012 7:00 pm",Sacramento Kings,Portland Trail Blazers
+"Tue, Jan 24, 2012 7:00 pm",New York Knicks,Charlotte Bobcats
+"Tue, Jan 24, 2012 7:00 pm",Orlando Magic,Indiana Pacers
+"Tue, Jan 24, 2012 7:30 pm",Cleveland Cavaliers,Miami Heat
+"Tue, Jan 24, 2012 7:00 pm",Toronto Raptors,Phoenix Suns
+"Tue, Jan 24, 2012 7:00 pm",Memphis Grizzlies,Portland Trail Blazers
+"Wed, Jan 25, 2012 7:00 pm",Indiana Pacers,Chicago Bulls
+"Wed, Jan 25, 2012 7:00 pm",New York Knicks,Cleveland Cavaliers
+"Wed, Jan 25, 2012 7:30 pm",Minnesota Timberwolves,Dallas Mavericks
+"Wed, Jan 25, 2012 7:30 pm",Miami Heat,Detroit Pistons
+"Wed, Jan 25, 2012 7:30 pm",Portland Trail Blazers,Golden State Warriors
+"Wed, Jan 25, 2012 7:00 pm",Milwaukee Bucks,Houston Rockets
+"Wed, Jan 25, 2012 7:30 pm",Los Angeles Clippers,Los Angeles Lakers
+"Wed, Jan 25, 2012 7:00 pm",New Orleans Hornets,Oklahoma City Thunder
+"Wed, Jan 25, 2012 7:00 pm",New Jersey Nets,Philadelphia 76ers
+"Wed, Jan 25, 2012 7:00 pm",Denver Nuggets,Sacramento Kings
+"Wed, Jan 25, 2012 7:30 pm",Atlanta Hawks,San Antonio Spurs
+"Wed, Jan 25, 2012 7:00 pm",Toronto Raptors,Utah Jazz
+"Wed, Jan 25, 2012 7:00 pm",Charlotte Bobcats,Washington Wizards
+"Thu, Jan 26, 2012 7:30 pm",Memphis Grizzlies,Los Angeles Clippers
+"Thu, Jan 26, 2012 8:00 pm",Boston Celtics,Orlando Magic
+"Fri, Jan 27, 2012 7:30 pm",Indiana Pacers,Boston Celtics
+"Fri, Jan 27, 2012 7:00 pm",Milwaukee Bucks,Chicago Bulls
+"Fri, Jan 27, 2012 7:30 pm",New Jersey Nets,Cleveland Cavaliers
+"Fri, Jan 27, 2012 7:30 pm",Utah Jazz,Dallas Mavericks
+"Fri, Jan 27, 2012 7:00 pm",Toronto Raptors,Denver Nuggets
+"Fri, Jan 27, 2012 7:30 pm",Atlanta Hawks,Detroit Pistons
+"Fri, Jan 27, 2012 7:30 pm",Oklahoma City Thunder,Golden State Warriors
+"Fri, Jan 27, 2012 7:00 pm",Washington Wizards,Houston Rockets
+"Fri, Jan 27, 2012 8:00 pm",New York Knicks,Miami Heat
+"Fri, Jan 27, 2012 7:00 pm",San Antonio Spurs,Minnesota Timberwolves
+"Fri, Jan 27, 2012 7:00 pm",Orlando Magic,New Orleans Hornets
+"Fri, Jan 27, 2012 7:00 pm",Charlotte Bobcats,Philadelphia 76ers
+"Fri, Jan 27, 2012 7:00 pm",Phoenix Suns,Portland Trail Blazers
+"Sat, Jan 28, 2012 7:00 pm",Washington Wizards,Charlotte Bobcats
+"Sat, Jan 28, 2012 7:00 pm",New York Knicks,Houston Rockets
+"Sat, Jan 28, 2012 7:30 pm",Los Angeles Lakers,Milwaukee Bucks
+"Sat, Jan 28, 2012 7:00 pm",Detroit Pistons,Philadelphia 76ers
+"Sat, Jan 28, 2012 7:00 pm",Memphis Grizzlies,Phoenix Suns
+"Sat, Jan 28, 2012 7:00 pm",Sacramento Kings,Utah Jazz
+"Sun, Jan 29, 2012 6:00 pm",Cleveland Cavaliers,Boston Celtics
+"Sun, Jan 29, 2012 5:30 pm",San Antonio Spurs,Dallas Mavericks
+"Sun, Jan 29, 2012 6:00 pm",Los Angeles Clippers,Denver Nuggets
+"Sun, Jan 29, 2012 3:30 pm",Chicago Bulls,Miami Heat
+"Sun, Jan 29, 2012 6:00 pm",Los Angeles Lakers,Minnesota Timberwolves
+"Sun, Jan 29, 2012 6:00 pm",Toronto Raptors,New Jersey Nets
+"Sun, Jan 29, 2012 6:00 pm",Atlanta Hawks,New Orleans Hornets
+"Sun, Jan 29, 2012 6:00 pm",Indiana Pacers,Orlando Magic
+"Mon, Jan 30, 2012 7:00 pm",Minnesota Timberwolves,Houston Rockets
+"Mon, Jan 30, 2012 7:30 pm",Oklahoma City Thunder,Los Angeles Clippers
+"Mon, Jan 30, 2012 7:00 pm",San Antonio Spurs,Memphis Grizzlies
+"Mon, Jan 30, 2012 7:30 pm",New Orleans Hornets,Miami Heat
+"Mon, Jan 30, 2012 7:00 pm",Detroit Pistons,Milwaukee Bucks
+"Mon, Jan 30, 2012 7:00 pm",Orlando Magic,Philadelphia 76ers
+"Mon, Jan 30, 2012 7:00 pm",Dallas Mavericks,Phoenix Suns
+"Mon, Jan 30, 2012 7:00 pm",Portland Trail Blazers,Utah Jazz
+"Mon, Jan 30, 2012 7:00 pm",Chicago Bulls,Washington Wizards
+"Tue, Jan 31, 2012 7:00 pm",Boston Celtics,Cleveland Cavaliers
+"Tue, Jan 31, 2012 7:30 pm",Sacramento Kings,Golden State Warriors
+"Tue, Jan 31, 2012 7:00 pm",New Jersey Nets,Indiana Pacers
+"Tue, Jan 31, 2012 7:30 pm",Charlotte Bobcats,Los Angeles Lakers
+"Tue, Jan 31, 2012 7:00 pm",Denver Nuggets,Memphis Grizzlies
+"Tue, Jan 31, 2012 7:30 pm",Detroit Pistons,New York Knicks
+"Tue, Jan 31, 2012 7:00 pm",Atlanta Hawks,Toronto Raptors
+"Wed, Feb 1, 2012 7:30 pm",Toronto Raptors,Boston Celtics
+"Wed, Feb 1, 2012 7:00 pm",Oklahoma City Thunder,Dallas Mavericks
+"Wed, Feb 1, 2012 7:00 pm",Miami Heat,Milwaukee Bucks
+"Wed, Feb 1, 2012 7:00 pm",Indiana Pacers,Minnesota Timberwolves
+"Wed, Feb 1, 2012 7:30 pm",Detroit Pistons,New Jersey Nets
+"Wed, Feb 1, 2012 7:00 pm",Phoenix Suns,New Orleans Hornets
+"Wed, Feb 1, 2012 7:00 pm",Washington Wizards,Orlando Magic
+"Wed, Feb 1, 2012 7:00 pm",Chicago Bulls,Philadelphia 76ers
+"Wed, Feb 1, 2012 7:00 pm",Charlotte Bobcats,Portland Trail Blazers
+"Wed, Feb 1, 2012 7:30 pm",Houston Rockets,San Antonio Spurs
+"Wed, Feb 1, 2012 8:30 pm",Los Angeles Clippers,Utah Jazz
+"Thu, Feb 2, 2012 7:30 pm",Memphis Grizzlies,Atlanta Hawks
+"Thu, Feb 2, 2012 7:30 pm",Utah Jazz,Golden State Warriors
+"Thu, Feb 2, 2012 7:30 pm",Denver Nuggets,Los Angeles Clippers
+"Thu, Feb 2, 2012 8:00 pm",Chicago Bulls,New York Knicks
+"Thu, Feb 2, 2012 7:00 pm",Portland Trail Blazers,Sacramento Kings
+"Thu, Feb 2, 2012 7:30 pm",New Orleans Hornets,San Antonio Spurs
+"Fri, Feb 3, 2012 8:00 pm",New York Knicks,Boston Celtics
+"Fri, Feb 3, 2012 7:30 pm",Indiana Pacers,Dallas Mavericks
+"Fri, Feb 3, 2012 8:30 pm",Los Angeles Lakers,Denver Nuggets
+"Fri, Feb 3, 2012 7:30 pm",Milwaukee Bucks,Detroit Pistons
+"Fri, Feb 3, 2012 7:00 pm",Phoenix Suns,Houston Rockets
+"Fri, Feb 3, 2012 7:30 pm",Minnesota Timberwolves,New Jersey Nets
+"Fri, Feb 3, 2012 7:00 pm",Memphis Grizzlies,Oklahoma City Thunder
+"Fri, Feb 3, 2012 7:00 pm",Cleveland Cavaliers,Orlando Magic
+"Fri, Feb 3, 2012 7:00 pm",Miami Heat,Philadelphia 76ers
+"Fri, Feb 3, 2012 7:00 pm",Washington Wizards,Toronto Raptors
+"Sat, Feb 4, 2012 7:00 pm",Philadelphia 76ers,Atlanta Hawks
+"Sat, Feb 4, 2012 7:30 pm",Dallas Mavericks,Cleveland Cavaliers
+"Sat, Feb 4, 2012 7:30 pm",New Orleans Hornets,Detroit Pistons
+"Sat, Feb 4, 2012 7:00 pm",Orlando Magic,Indiana Pacers
+"Sat, Feb 4, 2012 7:30 pm",Chicago Bulls,Milwaukee Bucks
+"Sat, Feb 4, 2012 7:00 pm",Houston Rockets,Minnesota Timberwolves
+"Sat, Feb 4, 2012 7:30 pm",New Jersey Nets,New York Knicks
+"Sat, Feb 4, 2012 7:00 pm",Charlotte Bobcats,Phoenix Suns
+"Sat, Feb 4, 2012 7:00 pm",Denver Nuggets,Portland Trail Blazers
+"Sat, Feb 4, 2012 7:00 pm",Golden State Warriors,Sacramento Kings
+"Sat, Feb 4, 2012 7:30 pm",Oklahoma City Thunder,San Antonio Spurs
+"Sat, Feb 4, 2012 7:00 pm",Los Angeles Lakers,Utah Jazz
+"Sat, Feb 4, 2012 7:00 pm",Los Angeles Clippers,Washington Wizards
+"Sun, Feb 5, 2012 12:00 pm",Memphis Grizzlies,Boston Celtics
+"Sun, Feb 5, 2012 1:00 pm",Toronto Raptors,Miami Heat
+"Mon, Feb 6, 2012 7:30 pm",Phoenix Suns,Atlanta Hawks
+"Mon, Feb 6, 2012 7:00 pm",Houston Rockets,Denver Nuggets
+"Mon, Feb 6, 2012 7:00 pm",San Antonio Spurs,Memphis Grizzlies
+"Mon, Feb 6, 2012 7:30 pm",Chicago Bulls,New Jersey Nets
+"Mon, Feb 6, 2012 7:00 pm",Sacramento Kings,New Orleans Hornets
+"Mon, Feb 6, 2012 7:30 pm",Utah Jazz,New York Knicks
+"Mon, Feb 6, 2012 7:00 pm",Los Angeles Clippers,Orlando Magic
+"Mon, Feb 6, 2012 7:00 pm",Los Angeles Lakers,Philadelphia 76ers
+"Mon, Feb 6, 2012 7:00 pm",Oklahoma City Thunder,Portland Trail Blazers
+"Mon, Feb 6, 2012 7:00 pm",Toronto Raptors,Washington Wizards
+"Tue, Feb 7, 2012 7:30 pm",Charlotte Bobcats,Boston Celtics
+"Tue, Feb 7, 2012 7:30 pm",Oklahoma City Thunder,Golden State Warriors
+"Tue, Feb 7, 2012 7:00 pm",Utah Jazz,Indiana Pacers
+"Tue, Feb 7, 2012 7:30 pm",Cleveland Cavaliers,Miami Heat
+"Tue, Feb 7, 2012 7:00 pm",Phoenix Suns,Milwaukee Bucks
+"Tue, Feb 7, 2012 7:00 pm",Sacramento Kings,Minnesota Timberwolves
+"Wed, Feb 8, 2012 7:30 pm",Indiana Pacers,Atlanta Hawks
+"Wed, Feb 8, 2012 7:00 pm",Los Angeles Clippers,Cleveland Cavaliers
+"Wed, Feb 8, 2012 7:00 pm",Dallas Mavericks,Denver Nuggets
+"Wed, Feb 8, 2012 7:00 pm",Minnesota Timberwolves,Memphis Grizzlies
+"Wed, Feb 8, 2012 7:30 pm",Detroit Pistons,New Jersey Nets
+"Wed, Feb 8, 2012 7:00 pm",Chicago Bulls,New Orleans Hornets
+"Wed, Feb 8, 2012 7:00 pm",Miami Heat,Orlando Magic
+"Wed, Feb 8, 2012 7:00 pm",San Antonio Spurs,Philadelphia 76ers
+"Wed, Feb 8, 2012 7:00 pm",Houston Rockets,Portland Trail Blazers
+"Wed, Feb 8, 2012 7:00 pm",Milwaukee Bucks,Toronto Raptors
+"Wed, Feb 8, 2012 7:00 pm",New York Knicks,Washington Wizards
+"Thu, Feb 9, 2012 8:00 pm",Los Angeles Lakers,Boston Celtics
+"Thu, Feb 9, 2012 7:00 pm",Golden State Warriors,Denver Nuggets
+"Thu, Feb 9, 2012 7:00 pm",Houston Rockets,Phoenix Suns
+"Thu, Feb 9, 2012 7:30 pm",Oklahoma City Thunder,Sacramento Kings
+"Fri, Feb 10, 2012 7:00 pm",Chicago Bulls,Charlotte Bobcats
+"Fri, Feb 10, 2012 7:30 pm",Milwaukee Bucks,Cleveland Cavaliers
+"Fri, Feb 10, 2012 7:30 pm",New Jersey Nets,Detroit Pistons
+"Fri, Feb 10, 2012 7:00 pm",Indiana Pacers,Memphis Grizzlies
+"Fri, Feb 10, 2012 7:00 pm",Dallas Mavericks,Minnesota Timberwolves
+"Fri, Feb 10, 2012 7:00 pm",Portland Trail Blazers,New Orleans Hornets
+"Fri, Feb 10, 2012 8:00 pm",Los Angeles Lakers,New York Knicks
+"Fri, Feb 10, 2012 7:00 pm",Atlanta Hawks,Orlando Magic
+"Fri, Feb 10, 2012 7:00 pm",Los Angeles Clippers,Philadelphia 76ers
+"Fri, Feb 10, 2012 7:00 pm",Boston Celtics,Toronto Raptors
+"Fri, Feb 10, 2012 8:30 pm",Oklahoma City Thunder,Utah Jazz
+"Fri, Feb 10, 2012 7:00 pm",Miami Heat,Washington Wizards
+"Sat, Feb 11, 2012 7:00 pm",Los Angeles Clippers,Charlotte Bobcats
+"Sat, Feb 11, 2012 7:30 pm",Philadelphia 76ers,Cleveland Cavaliers
+"Sat, Feb 11, 2012 7:30 pm",Portland Trail Blazers,Dallas Mavericks
+"Sat, Feb 11, 2012 7:00 pm",Denver Nuggets,Indiana Pacers
+"Sat, Feb 11, 2012 8:00 pm",Orlando Magic,Milwaukee Bucks
+"Sat, Feb 11, 2012 7:00 pm",New York Knicks,Minnesota Timberwolves
+"Sat, Feb 11, 2012 8:00 pm",San Antonio Spurs,New Jersey Nets
+"Sat, Feb 11, 2012 7:00 pm",Phoenix Suns,Sacramento Kings
+"Sun, Feb 12, 2012 7:00 pm",Miami Heat,Atlanta Hawks
+"Sun, Feb 12, 2012 3:30 pm",Chicago Bulls,Boston Celtics
+"Sun, Feb 12, 2012 6:00 pm",Washington Wizards,Detroit Pistons
+"Sun, Feb 12, 2012 6:00 pm",Houston Rockets,Golden State Warriors
+"Sun, Feb 12, 2012 8:30 pm",Utah Jazz,Memphis Grizzlies
+"Sun, Feb 12, 2012 1:00 pm",Los Angeles Lakers,Toronto Raptors
+"Mon, Feb 13, 2012 7:00 pm",Philadelphia 76ers,Charlotte Bobcats
+"Mon, Feb 13, 2012 7:30 pm",Los Angeles Clippers,Dallas Mavericks
+"Mon, Feb 13, 2012 7:30 pm",Phoenix Suns,Golden State Warriors
+"Mon, Feb 13, 2012 7:00 pm",Miami Heat,Milwaukee Bucks
+"Mon, Feb 13, 2012 7:00 pm",Utah Jazz,New Orleans Hornets
+"Mon, Feb 13, 2012 7:00 pm",Minnesota Timberwolves,Orlando Magic
+"Tue, Feb 14, 2012 7:00 pm",Sacramento Kings,Chicago Bulls
+"Tue, Feb 14, 2012 7:00 pm",Phoenix Suns,Denver Nuggets
+"Tue, Feb 14, 2012 7:30 pm",San Antonio Spurs,Detroit Pistons
+"Tue, Feb 14, 2012 7:00 pm",Miami Heat,Indiana Pacers
+"Tue, Feb 14, 2012 7:30 pm",Atlanta Hawks,Los Angeles Lakers
+"Tue, Feb 14, 2012 7:00 pm",Houston Rockets,Memphis Grizzlies
+"Tue, Feb 14, 2012 7:00 pm",Utah Jazz,Oklahoma City Thunder
+"Tue, Feb 14, 2012 7:00 pm",Washington Wizards,Portland Trail Blazers
+"Tue, Feb 14, 2012 7:00 pm",New York Knicks,Toronto Raptors
+"Wed, Feb 15, 2012 7:30 pm",Detroit Pistons,Boston Celtics
+"Wed, Feb 15, 2012 7:30 pm",Indiana Pacers,Cleveland Cavaliers
+"Wed, Feb 15, 2012 7:30 pm",Denver Nuggets,Dallas Mavericks
+"Wed, Feb 15, 2012 7:00 pm",Portland Trail Blazers,Golden State Warriors
+"Wed, Feb 15, 2012 7:00 pm",Oklahoma City Thunder,Houston Rockets
+"Wed, Feb 15, 2012 7:30 pm",Washington Wizards,Los Angeles Clippers
+"Wed, Feb 15, 2012 7:00 pm",New Orleans Hornets,Milwaukee Bucks
+"Wed, Feb 15, 2012 7:00 pm",Charlotte Bobcats,Minnesota Timberwolves
+"Wed, Feb 15, 2012 7:30 pm",Memphis Grizzlies,New Jersey Nets
+"Wed, Feb 15, 2012 7:30 pm",Sacramento Kings,New York Knicks
+"Wed, Feb 15, 2012 7:00 pm",Philadelphia 76ers,Orlando Magic
+"Wed, Feb 15, 2012 7:00 pm",Atlanta Hawks,Phoenix Suns
+"Wed, Feb 15, 2012 7:00 pm",San Antonio Spurs,Toronto Raptors
+"Thu, Feb 16, 2012 7:00 pm",Boston Celtics,Chicago Bulls
+"Thu, Feb 16, 2012 7:00 pm",New Jersey Nets,Indiana Pacers
+"Thu, Feb 16, 2012 7:30 pm",Los Angeles Clippers,Portland Trail Blazers
+"Fri, Feb 17, 2012 7:30 pm",Miami Heat,Cleveland Cavaliers
+"Fri, Feb 17, 2012 7:30 pm",Sacramento Kings,Detroit Pistons
+"Fri, Feb 17, 2012 7:00 pm",Minnesota Timberwolves,Houston Rockets
+"Fri, Feb 17, 2012 7:30 pm",Phoenix Suns,Los Angeles Lakers
+"Fri, Feb 17, 2012 7:00 pm",Denver Nuggets,Memphis Grizzlies
+"Fri, Feb 17, 2012 8:00 pm",New Orleans Hornets,New York Knicks
+"Fri, Feb 17, 2012 7:00 pm",Golden State Warriors,Oklahoma City Thunder
+"Fri, Feb 17, 2012 7:00 pm",Milwaukee Bucks,Orlando Magic
+"Fri, Feb 17, 2012 8:00 pm",Dallas Mavericks,Philadelphia 76ers
+"Fri, Feb 17, 2012 7:00 pm",Charlotte Bobcats,Toronto Raptors
+"Fri, Feb 17, 2012 7:00 pm",Washington Wizards,Utah Jazz
+"Sat, Feb 18, 2012 3:00 pm",New Jersey Nets,Chicago Bulls
+"Sat, Feb 18, 2012 12:30 pm",San Antonio Spurs,Los Angeles Clippers
+"Sat, Feb 18, 2012 7:00 pm",Golden State Warriors,Memphis Grizzlies
+"Sat, Feb 18, 2012 7:00 pm",Atlanta Hawks,Portland Trail Blazers
+"Sun, Feb 19, 2012 6:00 pm",Sacramento Kings,Cleveland Cavaliers
+"Sun, Feb 19, 2012 6:00 pm",Boston Celtics,Detroit Pistons
+"Sun, Feb 19, 2012 6:00 pm",Utah Jazz,Houston Rockets
+"Sun, Feb 19, 2012 6:00 pm",Charlotte Bobcats,Indiana Pacers
+"Sun, Feb 19, 2012 3:30 pm",Orlando Magic,Miami Heat
+"Sun, Feb 19, 2012 6:00 pm",Philadelphia 76ers,Minnesota Timberwolves
+"Sun, Feb 19, 2012 7:00 pm",Milwaukee Bucks,New Jersey Nets
+"Sun, Feb 19, 2012 1:00 pm",Dallas Mavericks,New York Knicks
+"Sun, Feb 19, 2012 7:00 pm",Denver Nuggets,Oklahoma City Thunder
+"Sun, Feb 19, 2012 6:00 pm",Los Angeles Lakers,Phoenix Suns
+"Mon, Feb 20, 2012 3:00 pm",Atlanta Hawks,Chicago Bulls
+"Mon, Feb 20, 2012 7:00 pm",Boston Celtics,Dallas Mavericks
+"Mon, Feb 20, 2012 7:00 pm",Minnesota Timberwolves,Denver Nuggets
+"Mon, Feb 20, 2012 7:30 pm",Los Angeles Clippers,Golden State Warriors
+"Mon, Feb 20, 2012 7:00 pm",Memphis Grizzlies,Houston Rockets
+"Mon, Feb 20, 2012 7:30 pm",Portland Trail Blazers,Los Angeles Lakers
+"Mon, Feb 20, 2012 7:00 pm",Orlando Magic,Milwaukee Bucks
+"Mon, Feb 20, 2012 7:30 pm",New Jersey Nets,New York Knicks
+"Mon, Feb 20, 2012 7:00 pm",New Orleans Hornets,Oklahoma City Thunder
+"Mon, Feb 20, 2012 7:00 pm",Washington Wizards,Phoenix Suns
+"Mon, Feb 20, 2012 7:00 pm",San Antonio Spurs,Utah Jazz
+"Tue, Feb 21, 2012 7:00 pm",Detroit Pistons,Cleveland Cavaliers
+"Tue, Feb 21, 2012 7:00 pm",New Orleans Hornets,Indiana Pacers
+"Tue, Feb 21, 2012 7:00 pm",Philadelphia 76ers,Memphis Grizzlies
+"Tue, Feb 21, 2012 7:30 pm",Sacramento Kings,Miami Heat
+"Tue, Feb 21, 2012 7:00 pm",San Antonio Spurs,Portland Trail Blazers
+"Wed, Feb 22, 2012 7:00 pm",Indiana Pacers,Charlotte Bobcats
+"Wed, Feb 22, 2012 7:00 pm",Milwaukee Bucks,Chicago Bulls
+"Wed, Feb 22, 2012 7:00 pm",New Orleans Hornets,Cleveland Cavaliers
+"Wed, Feb 22, 2012 8:30 pm",Los Angeles Lakers,Dallas Mavericks
+"Wed, Feb 22, 2012 7:00 pm",Philadelphia 76ers,Houston Rockets
+"Wed, Feb 22, 2012 7:30 pm",Denver Nuggets,Los Angeles Clippers
+"Wed, Feb 22, 2012 7:00 pm",Utah Jazz,Minnesota Timberwolves
+"Wed, Feb 22, 2012 7:30 pm",Orlando Magic,New Jersey Nets
+"Wed, Feb 22, 2012 7:30 pm",Atlanta Hawks,New York Knicks
+"Wed, Feb 22, 2012 6:00 pm",Boston Celtics,Oklahoma City Thunder
+"Wed, Feb 22, 2012 7:00 pm",Golden State Warriors,Phoenix Suns
+"Wed, Feb 22, 2012 7:00 pm",Detroit Pistons,Toronto Raptors
+"Wed, Feb 22, 2012 7:00 pm",Sacramento Kings,Washington Wizards
+"Thu, Feb 23, 2012 7:30 pm",Orlando Magic,Atlanta Hawks
+"Thu, Feb 23, 2012 7:00 pm",San Antonio Spurs,Denver Nuggets
+"Thu, Feb 23, 2012 7:00 pm",New York Knicks,Miami Heat
+"Thu, Feb 23, 2012 8:30 pm",Los Angeles Lakers,Oklahoma City Thunder
+"Tue, Feb 28, 2012 7:00 pm",New Orleans Hornets,Chicago Bulls
+"Tue, Feb 28, 2012 7:00 pm",Boston Celtics,Cleveland Cavaliers
+"Tue, Feb 28, 2012 7:30 pm",New Jersey Nets,Dallas Mavericks
+"Tue, Feb 28, 2012 7:30 pm",Philadelphia 76ers,Detroit Pistons
+"Tue, Feb 28, 2012 7:00 pm",Toronto Raptors,Houston Rockets
+"Tue, Feb 28, 2012 7:00 pm",Golden State Warriors,Indiana Pacers
+"Tue, Feb 28, 2012 7:30 pm",Minnesota Timberwolves,Los Angeles Clippers
+"Tue, Feb 28, 2012 7:00 pm",Washington Wizards,Milwaukee Bucks
+"Tue, Feb 28, 2012 7:00 pm",Utah Jazz,Sacramento Kings
+"Wed, Feb 29, 2012 7:30 pm",Golden State Warriors,Atlanta Hawks
+"Wed, Feb 29, 2012 7:30 pm",Milwaukee Bucks,Boston Celtics
+"Wed, Feb 29, 2012 7:00 pm",Portland Trail Blazers,Denver Nuggets
+"Wed, Feb 29, 2012 7:30 pm",Charlotte Bobcats,Detroit Pistons
+"Wed, Feb 29, 2012 7:30 pm",Minnesota Timberwolves,Los Angeles Lakers
+"Wed, Feb 29, 2012 7:00 pm",Dallas Mavericks,Memphis Grizzlies
+"Wed, Feb 29, 2012 7:00 pm",Toronto Raptors,New Orleans Hornets
+"Wed, Feb 29, 2012 7:30 pm",Cleveland Cavaliers,New York Knicks
+"Wed, Feb 29, 2012 7:00 pm",Oklahoma City Thunder,Philadelphia 76ers
+"Wed, Feb 29, 2012 8:00 pm",Chicago Bulls,San Antonio Spurs
+"Wed, Feb 29, 2012 7:00 pm",Houston Rockets,Utah Jazz
+"Wed, Feb 29, 2012 7:00 pm",Orlando Magic,Washington Wizards
+"Thu, Mar 1, 2012 8:00 pm",Oklahoma City Thunder,Orlando Magic
+"Thu, Mar 1, 2012 7:00 pm",Minnesota Timberwolves,Phoenix Suns
+"Thu, Mar 1, 2012 7:30 pm",Miami Heat,Portland Trail Blazers
+"Thu, Mar 1, 2012 7:00 pm",Los Angeles Clippers,Sacramento Kings
+"Fri, Mar 2, 2012 7:30 pm",Milwaukee Bucks,Atlanta Hawks
+"Fri, Mar 2, 2012 7:30 pm",New Jersey Nets,Boston Celtics
+"Fri, Mar 2, 2012 7:30 pm",Chicago Bulls,Cleveland Cavaliers
+"Fri, Mar 2, 2012 7:00 pm",Denver Nuggets,Houston Rockets
+"Fri, Mar 2, 2012 7:30 pm",Sacramento Kings,Los Angeles Lakers
+"Fri, Mar 2, 2012 7:00 pm",Dallas Mavericks,New Orleans Hornets
+"Fri, Mar 2, 2012 8:00 pm",Golden State Warriors,Philadelphia 76ers
+"Fri, Mar 2, 2012 8:30 pm",Los Angeles Clippers,Phoenix Suns
+"Fri, Mar 2, 2012 7:30 pm",Charlotte Bobcats,San Antonio Spurs
+"Fri, Mar 2, 2012 7:00 pm",Memphis Grizzlies,Toronto Raptors
+"Fri, Mar 2, 2012 7:00 pm",Miami Heat,Utah Jazz
+"Sat, Mar 3, 2012 7:00 pm",Oklahoma City Thunder,Atlanta Hawks
+"Sat, Mar 3, 2012 7:30 pm",Utah Jazz,Dallas Mavericks
+"Sat, Mar 3, 2012 7:00 pm",Detroit Pistons,Memphis Grizzlies
+"Sat, Mar 3, 2012 7:00 pm",Indiana Pacers,New Orleans Hornets
+"Sat, Mar 3, 2012 7:00 pm",Milwaukee Bucks,Orlando Magic
+"Sat, Mar 3, 2012 7:00 pm",Minnesota Timberwolves,Portland Trail Blazers
+"Sat, Mar 3, 2012 7:00 pm",Cleveland Cavaliers,Washington Wizards
+"Sun, Mar 4, 2012 1:00 pm",New York Knicks,Boston Celtics
+"Sun, Mar 4, 2012 6:00 pm",New Jersey Nets,Charlotte Bobcats
+"Sun, Mar 4, 2012 6:00 pm",Los Angeles Clippers,Houston Rockets
+"Sun, Mar 4, 2012 12:30 pm",Miami Heat,Los Angeles Lakers
+"Sun, Mar 4, 2012 7:00 pm",Chicago Bulls,Philadelphia 76ers
+"Sun, Mar 4, 2012 6:00 pm",Sacramento Kings,Phoenix Suns
+"Sun, Mar 4, 2012 8:30 pm",Denver Nuggets,San Antonio Spurs
+"Sun, Mar 4, 2012 6:00 pm",Golden State Warriors,Toronto Raptors
+"Mon, Mar 5, 2012 7:00 pm",Indiana Pacers,Chicago Bulls
+"Mon, Mar 5, 2012 7:00 pm",Utah Jazz,Cleveland Cavaliers
+"Mon, Mar 5, 2012 7:00 pm",Sacramento Kings,Denver Nuggets
+"Mon, Mar 5, 2012 7:00 pm",Philadelphia 76ers,Milwaukee Bucks
+"Mon, Mar 5, 2012 7:00 pm",Los Angeles Clippers,Minnesota Timberwolves
+"Mon, Mar 5, 2012 7:00 pm",Dallas Mavericks,Oklahoma City Thunder
+"Mon, Mar 5, 2012 7:00 pm",New Orleans Hornets,Portland Trail Blazers
+"Mon, Mar 5, 2012 7:00 pm",Orlando Magic,Toronto Raptors
+"Mon, Mar 5, 2012 7:00 pm",Golden State Warriors,Washington Wizards
+"Tue, Mar 6, 2012 7:30 pm",Houston Rockets,Boston Celtics
+"Tue, Mar 6, 2012 7:00 pm",Orlando Magic,Charlotte Bobcats
+"Tue, Mar 6, 2012 7:30 pm",New York Knicks,Dallas Mavericks
+"Tue, Mar 6, 2012 7:30 pm",Los Angeles Lakers,Detroit Pistons
+"Tue, Mar 6, 2012 7:00 pm",Atlanta Hawks,Indiana Pacers
+"Tue, Mar 6, 2012 7:30 pm",New Jersey Nets,Miami Heat
+"Wed, Mar 7, 2012 7:00 pm",Utah Jazz,Charlotte Bobcats
+"Wed, Mar 7, 2012 7:00 pm",Cleveland Cavaliers,Denver Nuggets
+"Wed, Mar 7, 2012 7:30 pm",Memphis Grizzlies,Golden State Warriors
+"Wed, Mar 7, 2012 7:30 pm",Atlanta Hawks,Miami Heat
+"Wed, Mar 7, 2012 7:00 pm",Chicago Bulls,Milwaukee Bucks
+"Wed, Mar 7, 2012 7:00 pm",Portland Trail Blazers,Minnesota Timberwolves
+"Wed, Mar 7, 2012 8:00 pm",Los Angeles Clippers,New Jersey Nets
+"Wed, Mar 7, 2012 7:00 pm",Phoenix Suns,Oklahoma City Thunder
+"Wed, Mar 7, 2012 7:00 pm",Boston Celtics,Philadelphia 76ers
+"Wed, Mar 7, 2012 7:00 pm",New Orleans Hornets,Sacramento Kings
+"Wed, Mar 7, 2012 7:30 pm",New York Knicks,San Antonio Spurs
+"Wed, Mar 7, 2012 7:00 pm",Houston Rockets,Toronto Raptors
+"Wed, Mar 7, 2012 7:00 pm",Los Angeles Lakers,Washington Wizards
+"Thu, Mar 8, 2012 7:00 pm",Orlando Magic,Chicago Bulls
+"Thu, Mar 8, 2012 8:30 pm",Dallas Mavericks,Phoenix Suns
+"Fri, Mar 9, 2012 7:30 pm",Portland Trail Blazers,Boston Celtics
+"Fri, Mar 9, 2012 7:00 pm",New Jersey Nets,Charlotte Bobcats
+"Fri, Mar 9, 2012 7:00 pm",New Orleans Hornets,Denver Nuggets
+"Fri, Mar 9, 2012 7:30 pm",Atlanta Hawks,Detroit Pistons
+"Fri, Mar 9, 2012 7:30 pm",New York Knicks,Milwaukee Bucks
+"Fri, Mar 9, 2012 7:00 pm",Los Angeles Lakers,Minnesota Timberwolves
+"Fri, Mar 9, 2012 7:00 pm",Cleveland Cavaliers,Oklahoma City Thunder
+"Fri, Mar 9, 2012 7:00 pm",Utah Jazz,Philadelphia 76ers
+"Fri, Mar 9, 2012 7:00 pm",Dallas Mavericks,Sacramento Kings
+"Fri, Mar 9, 2012 7:30 pm",Los Angeles Clippers,San Antonio Spurs
+"Sat, Mar 10, 2012 7:00 pm",Utah Jazz,Chicago Bulls
+"Sat, Mar 10, 2012 7:30 pm",Toronto Raptors,Detroit Pistons
+"Sat, Mar 10, 2012 7:30 pm",Dallas Mavericks,Golden State Warriors
+"Sat, Mar 10, 2012 7:30 pm",Indiana Pacers,Miami Heat
+"Sat, Mar 10, 2012 7:00 pm",New Orleans Hornets,Minnesota Timberwolves
+"Sat, Mar 10, 2012 8:00 pm",Houston Rockets,New Jersey Nets
+"Sat, Mar 10, 2012 7:00 pm",Charlotte Bobcats,Oklahoma City Thunder
+"Sat, Mar 10, 2012 7:00 pm",Memphis Grizzlies,Phoenix Suns
+"Sat, Mar 10, 2012 7:00 pm",Portland Trail Blazers,Washington Wizards
+"Sun, Mar 11, 2012 6:00 pm",Houston Rockets,Cleveland Cavaliers
+"Sun, Mar 11, 2012 6:00 pm",Memphis Grizzlies,Denver Nuggets
+"Sun, Mar 11, 2012 6:30 pm",Golden State Warriors,Los Angeles Clippers
+"Sun, Mar 11, 2012 12:30 pm",Boston Celtics,Los Angeles Lakers
+"Sun, Mar 11, 2012 12:00 pm",Philadelphia 76ers,New York Knicks
+"Sun, Mar 11, 2012 6:00 pm",Indiana Pacers,Orlando Magic
+"Sun, Mar 11, 2012 6:00 pm",Atlanta Hawks,Sacramento Kings
+"Sun, Mar 11, 2012 6:00 pm",Milwaukee Bucks,Toronto Raptors
+"Mon, Mar 12, 2012 7:00 pm",New York Knicks,Chicago Bulls
+"Mon, Mar 12, 2012 7:30 pm",Boston Celtics,Los Angeles Clippers
+"Mon, Mar 12, 2012 7:30 pm",Milwaukee Bucks,New Jersey Nets
+"Mon, Mar 12, 2012 7:00 pm",Charlotte Bobcats,New Orleans Hornets
+"Mon, Mar 12, 2012 7:00 pm",Minnesota Timberwolves,Phoenix Suns
+"Mon, Mar 12, 2012 7:30 pm",Washington Wizards,San Antonio Spurs
+"Mon, Mar 12, 2012 7:00 pm",Detroit Pistons,Utah Jazz
+"Tue, Mar 13, 2012 7:00 pm",Toronto Raptors,Cleveland Cavaliers
+"Tue, Mar 13, 2012 7:30 pm",Washington Wizards,Dallas Mavericks
+"Tue, Mar 13, 2012 7:00 pm",Atlanta Hawks,Denver Nuggets
+"Tue, Mar 13, 2012 7:00 pm",Portland Trail Blazers,Indiana Pacers
+"Tue, Mar 13, 2012 7:00 pm",Los Angeles Lakers,Memphis Grizzlies
+"Tue, Mar 13, 2012 7:00 pm",Houston Rockets,Oklahoma City Thunder
+"Tue, Mar 13, 2012 7:00 pm",Miami Heat,Orlando Magic
+"Tue, Mar 13, 2012 7:00 pm",Golden State Warriors,Sacramento Kings
+"Wed, Mar 14, 2012 8:30 pm",Miami Heat,Chicago Bulls
+"Wed, Mar 14, 2012 7:30 pm",Boston Celtics,Golden State Warriors
+"Wed, Mar 14, 2012 7:00 pm",Charlotte Bobcats,Houston Rockets
+"Wed, Mar 14, 2012 7:00 pm",Philadelphia 76ers,Indiana Pacers
+"Wed, Mar 14, 2012 7:30 pm",Atlanta Hawks,Los Angeles Clippers
+"Wed, Mar 14, 2012 7:00 pm",Cleveland Cavaliers,Milwaukee Bucks
+"Wed, Mar 14, 2012 7:30 pm",Toronto Raptors,New Jersey Nets
+"Wed, Mar 14, 2012 7:00 pm",Los Angeles Lakers,New Orleans Hornets
+"Wed, Mar 14, 2012 7:30 pm",Portland Trail Blazers,New York Knicks
+"Wed, Mar 14, 2012 7:30 pm",Utah Jazz,Phoenix Suns
+"Wed, Mar 14, 2012 7:00 pm",Detroit Pistons,Sacramento Kings
+"Wed, Mar 14, 2012 7:30 pm",Orlando Magic,San Antonio Spurs
+"Thu, Mar 15, 2012 7:30 pm",Charlotte Bobcats,Dallas Mavericks
+"Thu, Mar 15, 2012 7:00 pm",Oklahoma City Thunder,Denver Nuggets
+"Thu, Mar 15, 2012 7:30 pm",Phoenix Suns,Los Angeles Clippers
+"Thu, Mar 15, 2012 7:00 pm",Washington Wizards,New Orleans Hornets
+"Thu, Mar 15, 2012 7:00 pm",Minnesota Timberwolves,Utah Jazz
+"Fri, Mar 16, 2012 7:30 pm",Washington Wizards,Atlanta Hawks
+"Fri, Mar 16, 2012 7:00 pm",Portland Trail Blazers,Chicago Bulls
+"Fri, Mar 16, 2012 7:30 pm",Milwaukee Bucks,Golden State Warriors
+"Fri, Mar 16, 2012 7:30 pm",Minnesota Timberwolves,Los Angeles Lakers
+"Fri, Mar 16, 2012 7:00 pm",Toronto Raptors,Memphis Grizzlies
+"Fri, Mar 16, 2012 7:30 pm",Indiana Pacers,New York Knicks
+"Fri, Mar 16, 2012 8:30 pm",San Antonio Spurs,Oklahoma City Thunder
+"Fri, Mar 16, 2012 7:00 pm",New Jersey Nets,Orlando Magic
+"Fri, Mar 16, 2012 7:00 pm",Miami Heat,Philadelphia 76ers
+"Fri, Mar 16, 2012 7:00 pm",Detroit Pistons,Phoenix Suns
+"Fri, Mar 16, 2012 7:00 pm",Boston Celtics,Sacramento Kings
+"Sat, Mar 17, 2012 7:00 pm",Toronto Raptors,Charlotte Bobcats
+"Sat, Mar 17, 2012 7:00 pm",Philadelphia 76ers,Chicago Bulls
+"Sat, Mar 17, 2012 8:00 pm",San Antonio Spurs,Dallas Mavericks
+"Sat, Mar 17, 2012 7:00 pm",Boston Celtics,Denver Nuggets
+"Sat, Mar 17, 2012 7:00 pm",New York Knicks,Indiana Pacers
+"Sat, Mar 17, 2012 12:30 pm",Houston Rockets,Los Angeles Clippers
+"Sat, Mar 17, 2012 8:00 pm",New Orleans Hornets,New Jersey Nets
+"Sat, Mar 17, 2012 7:00 pm",Golden State Warriors,Utah Jazz
+"Sun, Mar 18, 2012 3:00 pm",Atlanta Hawks,Cleveland Cavaliers
+"Sun, Mar 18, 2012 12:30 pm",Detroit Pistons,Los Angeles Clippers
+"Sun, Mar 18, 2012 6:30 pm",Utah Jazz,Los Angeles Lakers
+"Sun, Mar 18, 2012 5:00 pm",Washington Wizards,Memphis Grizzlies
+"Sun, Mar 18, 2012 7:00 pm",Orlando Magic,Miami Heat
+"Sun, Mar 18, 2012 8:30 pm",Portland Trail Blazers,Oklahoma City Thunder
+"Sun, Mar 18, 2012 6:00 pm",Houston Rockets,Phoenix Suns
+"Sun, Mar 18, 2012 3:00 pm",Minnesota Timberwolves,Sacramento Kings
+"Mon, Mar 19, 2012 7:30 pm",Boston Celtics,Atlanta Hawks
+"Mon, Mar 19, 2012 7:00 pm",Philadelphia 76ers,Charlotte Bobcats
+"Mon, Mar 19, 2012 8:30 pm",Dallas Mavericks,Denver Nuggets
+"Mon, Mar 19, 2012 7:30 pm",Minnesota Timberwolves,Golden State Warriors
+"Mon, Mar 19, 2012 7:30 pm",Cleveland Cavaliers,New Jersey Nets
+"Mon, Mar 19, 2012 8:00 pm",Chicago Bulls,Orlando Magic
+"Tue, Mar 20, 2012 7:00 pm",Los Angeles Lakers,Houston Rockets
+"Tue, Mar 20, 2012 7:00 pm",Los Angeles Clippers,Indiana Pacers
+"Tue, Mar 20, 2012 7:30 pm",Phoenix Suns,Miami Heat
+"Tue, Mar 20, 2012 7:30 pm",Toronto Raptors,New York Knicks
+"Tue, Mar 20, 2012 7:00 pm",Milwaukee Bucks,Portland Trail Blazers
+"Tue, Mar 20, 2012 7:00 pm",Memphis Grizzlies,Sacramento Kings
+"Tue, Mar 20, 2012 7:00 pm",Oklahoma City Thunder,Utah Jazz
+"Wed, Mar 21, 2012 7:30 pm",Cleveland Cavaliers,Atlanta Hawks
+"Wed, Mar 21, 2012 8:30 pm",Los Angeles Lakers,Dallas Mavericks
+"Wed, Mar 21, 2012 7:00 pm",Detroit Pistons,Denver Nuggets
+"Wed, Mar 21, 2012 7:30 pm",Washington Wizards,New Jersey Nets
+"Wed, Mar 21, 2012 7:00 pm",Golden State Warriors,New Orleans Hornets
+"Wed, Mar 21, 2012 7:00 pm",Los Angeles Clippers,Oklahoma City Thunder
+"Wed, Mar 21, 2012 7:00 pm",Phoenix Suns,Orlando Magic
+"Wed, Mar 21, 2012 7:00 pm",New York Knicks,Philadelphia 76ers
+"Wed, Mar 21, 2012 7:30 pm",Minnesota Timberwolves,San Antonio Spurs
+"Wed, Mar 21, 2012 7:00 pm",Chicago Bulls,Toronto Raptors
+"Thu, Mar 22, 2012 7:00 pm",Golden State Warriors,Houston Rockets
+"Thu, Mar 22, 2012 7:00 pm",Boston Celtics,Milwaukee Bucks
+"Thu, Mar 22, 2012 7:00 pm",Los Angeles Clippers,New Orleans Hornets
+"Thu, Mar 22, 2012 7:00 pm",Memphis Grizzlies,Portland Trail Blazers
+"Thu, Mar 22, 2012 7:00 pm",Utah Jazz,Sacramento Kings
+"Thu, Mar 22, 2012 7:00 pm",Indiana Pacers,Washington Wizards
+"Fri, Mar 23, 2012 7:30 pm",New Jersey Nets,Atlanta Hawks
+"Fri, Mar 23, 2012 7:00 pm",Milwaukee Bucks,Charlotte Bobcats
+"Fri, Mar 23, 2012 7:30 pm",Miami Heat,Detroit Pistons
+"Fri, Mar 23, 2012 7:00 pm",Phoenix Suns,Indiana Pacers
+"Fri, Mar 23, 2012 7:30 pm",Portland Trail Blazers,Los Angeles Lakers
+"Fri, Mar 23, 2012 7:00 pm",Minnesota Timberwolves,Oklahoma City Thunder
+"Fri, Mar 23, 2012 7:00 pm",Cleveland Cavaliers,Orlando Magic
+"Fri, Mar 23, 2012 8:00 pm",Boston Celtics,Philadelphia 76ers
+"Fri, Mar 23, 2012 7:30 pm",Dallas Mavericks,San Antonio Spurs
+"Fri, Mar 23, 2012 7:00 pm",New York Knicks,Toronto Raptors
+"Fri, Mar 23, 2012 8:30 pm",Denver Nuggets,Utah Jazz
+"Sat, Mar 24, 2012 7:00 pm",Toronto Raptors,Chicago Bulls
+"Sat, Mar 24, 2012 7:30 pm",Sacramento Kings,Golden State Warriors
+"Sat, Mar 24, 2012 7:00 pm",Dallas Mavericks,Houston Rockets
+"Sat, Mar 24, 2012 12:00 pm",Memphis Grizzlies,Los Angeles Clippers
+"Sat, Mar 24, 2012 7:30 pm",Indiana Pacers,Milwaukee Bucks
+"Sat, Mar 24, 2012 7:30 pm",Charlotte Bobcats,New Jersey Nets
+"Sat, Mar 24, 2012 7:00 pm",San Antonio Spurs,New Orleans Hornets
+"Sat, Mar 24, 2012 7:30 pm",Detroit Pistons,New York Knicks
+"Sat, Mar 24, 2012 7:00 pm",Atlanta Hawks,Washington Wizards
+"Sun, Mar 25, 2012 6:00 pm",Utah Jazz,Atlanta Hawks
+"Sun, Mar 25, 2012 6:00 pm",Washington Wizards,Boston Celtics
+"Sun, Mar 25, 2012 3:00 pm",Phoenix Suns,Cleveland Cavaliers
+"Sun, Mar 25, 2012 7:30 pm",Memphis Grizzlies,Los Angeles Lakers
+"Sun, Mar 25, 2012 2:30 pm",Denver Nuggets,Minnesota Timberwolves
+"Sun, Mar 25, 2012 7:00 pm",Miami Heat,Oklahoma City Thunder
+"Sun, Mar 25, 2012 6:00 pm",Golden State Warriors,Portland Trail Blazers
+"Sun, Mar 25, 2012 6:00 pm",Philadelphia 76ers,San Antonio Spurs
+"Mon, Mar 26, 2012 7:00 pm",Boston Celtics,Charlotte Bobcats
+"Mon, Mar 26, 2012 7:00 pm",Denver Nuggets,Chicago Bulls
+"Mon, Mar 26, 2012 7:00 pm",Sacramento Kings,Houston Rockets
+"Mon, Mar 26, 2012 7:00 pm",Miami Heat,Indiana Pacers
+"Mon, Mar 26, 2012 7:30 pm",New Orleans Hornets,Los Angeles Clippers
+"Mon, Mar 26, 2012 7:30 pm",Utah Jazz,New Jersey Nets
+"Mon, Mar 26, 2012 7:30 pm",Milwaukee Bucks,New York Knicks
+"Mon, Mar 26, 2012 7:00 pm",Orlando Magic,Toronto Raptors
+"Mon, Mar 26, 2012 7:00 pm",Detroit Pistons,Washington Wizards
+"Tue, Mar 27, 2012 7:30 pm",Houston Rockets,Dallas Mavericks
+"Tue, Mar 27, 2012 7:30 pm",Los Angeles Lakers,Golden State Warriors
+"Tue, Mar 27, 2012 7:00 pm",Minnesota Timberwolves,Memphis Grizzlies
+"Tue, Mar 27, 2012 7:00 pm",Atlanta Hawks,Milwaukee Bucks
+"Tue, Mar 27, 2012 7:00 pm",Cleveland Cavaliers,Philadelphia 76ers
+"Tue, Mar 27, 2012 7:00 pm",San Antonio Spurs,Phoenix Suns
+"Tue, Mar 27, 2012 7:00 pm",Oklahoma City Thunder,Portland Trail Blazers
+"Wed, Mar 28, 2012 7:30 pm",Chicago Bulls,Atlanta Hawks
+"Wed, Mar 28, 2012 7:30 pm",Utah Jazz,Boston Celtics
+"Wed, Mar 28, 2012 7:00 pm",Minnesota Timberwolves,Charlotte Bobcats
+"Wed, Mar 28, 2012 7:00 pm",Detroit Pistons,Cleveland Cavaliers
+"Wed, Mar 28, 2012 7:30 pm",New Orleans Hornets,Golden State Warriors
+"Wed, Mar 28, 2012 7:30 pm",Phoenix Suns,Los Angeles Clippers
+"Wed, Mar 28, 2012 7:30 pm",Indiana Pacers,New Jersey Nets
+"Wed, Mar 28, 2012 7:00 pm",Orlando Magic,New York Knicks
+"Wed, Mar 28, 2012 7:00 pm",San Antonio Spurs,Sacramento Kings
+"Wed, Mar 28, 2012 7:00 pm",Denver Nuggets,Toronto Raptors
+"Thu, Mar 29, 2012 7:00 pm",Washington Wizards,Indiana Pacers
+"Thu, Mar 29, 2012 7:30 pm",Oklahoma City Thunder,Los Angeles Lakers
+"Thu, Mar 29, 2012 8:00 pm",Dallas Mavericks,Miami Heat
+"Thu, Mar 29, 2012 7:00 pm",New Orleans Hornets,Portland Trail Blazers
+"Fri, Mar 30, 2012 7:30 pm",New York Knicks,Atlanta Hawks
+"Fri, Mar 30, 2012 7:00 pm",Denver Nuggets,Charlotte Bobcats
+"Fri, Mar 30, 2012 7:00 pm",Detroit Pistons,Chicago Bulls
+"Fri, Mar 30, 2012 7:30 pm",Milwaukee Bucks,Cleveland Cavaliers
+"Fri, Mar 30, 2012 7:30 pm",New Jersey Nets,Golden State Warriors
+"Fri, Mar 30, 2012 7:00 pm",Memphis Grizzlies,Houston Rockets
+"Fri, Mar 30, 2012 7:30 pm",Portland Trail Blazers,Los Angeles Clippers
+"Fri, Mar 30, 2012 7:00 pm",Boston Celtics,Minnesota Timberwolves
+"Fri, Mar 30, 2012 8:00 pm",Dallas Mavericks,Orlando Magic
+"Fri, Mar 30, 2012 7:00 pm",Miami Heat,Toronto Raptors
+"Fri, Mar 30, 2012 7:00 pm",Sacramento Kings,Utah Jazz
+"Fri, Mar 30, 2012 7:00 pm",Philadelphia 76ers,Washington Wizards
+"Sat, Mar 31, 2012 7:30 pm",Charlotte Bobcats,Detroit Pistons
+"Sat, Mar 31, 2012 7:30 pm",Utah Jazz,Los Angeles Clippers
+"Sat, Mar 31, 2012 12:30 pm",New Orleans Hornets,Los Angeles Lakers
+"Sat, Mar 31, 2012 7:30 pm",Memphis Grizzlies,Milwaukee Bucks
+"Sat, Mar 31, 2012 7:30 pm",Cleveland Cavaliers,New York Knicks
+"Sat, Mar 31, 2012 7:30 pm",Atlanta Hawks,Philadelphia 76ers
+"Sat, Mar 31, 2012 7:00 pm",New Jersey Nets,Sacramento Kings
+"Sat, Mar 31, 2012 7:30 pm",Indiana Pacers,San Antonio Spurs
+"Sun, Apr 1, 2012 3:30 pm",Miami Heat,Boston Celtics
+"Sun, Apr 1, 2012 6:00 pm",Indiana Pacers,Houston Rockets
+"Sun, Apr 1, 2012 6:30 pm",Golden State Warriors,Los Angeles Lakers
+"Sun, Apr 1, 2012 12:00 pm",Chicago Bulls,Oklahoma City Thunder
+"Sun, Apr 1, 2012 6:00 pm",Denver Nuggets,Orlando Magic
+"Sun, Apr 1, 2012 6:00 pm",New Orleans Hornets,Phoenix Suns
+"Sun, Apr 1, 2012 6:00 pm",Minnesota Timberwolves,Portland Trail Blazers
+"Sun, Apr 1, 2012 6:00 pm",Washington Wizards,Toronto Raptors
+"Mon, Apr 2, 2012 7:00 pm",Houston Rockets,Chicago Bulls
+"Mon, Apr 2, 2012 7:30 pm",Los Angeles Clippers,Dallas Mavericks
+"Mon, Apr 2, 2012 7:00 pm",Memphis Grizzlies,Oklahoma City Thunder
+"Mon, Apr 2, 2012 7:00 pm",Utah Jazz,Portland Trail Blazers
+"Mon, Apr 2, 2012 7:00 pm",Minnesota Timberwolves,Sacramento Kings
+"Mon, Apr 2, 2012 7:00 pm",Milwaukee Bucks,Washington Wizards
+"Tue, Apr 3, 2012 7:00 pm",San Antonio Spurs,Cleveland Cavaliers
+"Tue, Apr 3, 2012 7:30 pm",Orlando Magic,Detroit Pistons
+"Tue, Apr 3, 2012 7:00 pm",New York Knicks,Indiana Pacers
+"Tue, Apr 3, 2012 7:30 pm",New Jersey Nets,Los Angeles Lakers
+"Tue, Apr 3, 2012 7:00 pm",Golden State Warriors,Memphis Grizzlies
+"Tue, Apr 3, 2012 7:30 pm",Philadelphia 76ers,Miami Heat
+"Tue, Apr 3, 2012 7:00 pm",Phoenix Suns,Sacramento Kings
+"Tue, Apr 3, 2012 7:00 pm",Charlotte Bobcats,Toronto Raptors
+"Wed, Apr 4, 2012 7:30 pm",Charlotte Bobcats,Atlanta Hawks
+"Wed, Apr 4, 2012 7:30 pm",San Antonio Spurs,Boston Celtics
+"Wed, Apr 4, 2012 7:30 pm",Memphis Grizzlies,Dallas Mavericks
+"Wed, Apr 4, 2012 7:30 pm",Los Angeles Lakers,Los Angeles Clippers
+"Wed, Apr 4, 2012 8:00 pm",Oklahoma City Thunder,Miami Heat
+"Wed, Apr 4, 2012 7:00 pm",Cleveland Cavaliers,Milwaukee Bucks
+"Wed, Apr 4, 2012 7:00 pm",Golden State Warriors,Minnesota Timberwolves
+"Wed, Apr 4, 2012 7:00 pm",Denver Nuggets,New Orleans Hornets
+"Wed, Apr 4, 2012 7:00 pm",Toronto Raptors,Philadelphia 76ers
+"Wed, Apr 4, 2012 7:00 pm",New Jersey Nets,Portland Trail Blazers
+"Wed, Apr 4, 2012 7:00 pm",Phoenix Suns,Utah Jazz
+"Wed, Apr 4, 2012 7:00 pm",Indiana Pacers,Washington Wizards
+"Thu, Apr 5, 2012 8:30 pm",Boston Celtics,Chicago Bulls
+"Thu, Apr 5, 2012 7:30 pm",Washington Wizards,Detroit Pistons
+"Thu, Apr 5, 2012 7:00 pm",New York Knicks,Orlando Magic
+"Thu, Apr 5, 2012 7:00 pm",Los Angeles Clippers,Sacramento Kings
+"Fri, Apr 6, 2012 7:30 pm",Detroit Pistons,Atlanta Hawks
+"Fri, Apr 6, 2012 7:30 pm",Portland Trail Blazers,Dallas Mavericks
+"Fri, Apr 6, 2012 7:00 pm",Phoenix Suns,Denver Nuggets
+"Fri, Apr 6, 2012 7:00 pm",Oklahoma City Thunder,Indiana Pacers
+"Fri, Apr 6, 2012 7:30 pm",Houston Rockets,Los Angeles Lakers
+"Fri, Apr 6, 2012 7:30 pm",Memphis Grizzlies,Miami Heat
+"Fri, Apr 6, 2012 7:30 pm",Charlotte Bobcats,Milwaukee Bucks
+"Fri, Apr 6, 2012 7:30 pm",Washington Wizards,New Jersey Nets
+"Fri, Apr 6, 2012 7:30 pm",New Orleans Hornets,San Antonio Spurs
+"Fri, Apr 6, 2012 7:30 pm",Cleveland Cavaliers,Toronto Raptors
+"Fri, Apr 6, 2012 7:00 pm",Golden State Warriors,Utah Jazz
+"Sat, Apr 7, 2012 8:00 pm",Atlanta Hawks,Charlotte Bobcats
+"Sat, Apr 7, 2012 7:30 pm",Denver Nuggets,Golden State Warriors
+"Sat, Apr 7, 2012 7:00 pm",Boston Celtics,Indiana Pacers
+"Sat, Apr 7, 2012 7:30 pm",Sacramento Kings,Los Angeles Clippers
+"Sat, Apr 7, 2012 7:00 pm",Dallas Mavericks,Memphis Grizzlies
+"Sat, Apr 7, 2012 7:30 pm",Portland Trail Blazers,Milwaukee Bucks
+"Sat, Apr 7, 2012 7:00 pm",Minnesota Timberwolves,New Orleans Hornets
+"Sat, Apr 7, 2012 8:00 pm",Orlando Magic,Philadelphia 76ers
+"Sat, Apr 7, 2012 7:00 pm",Los Angeles Lakers,Phoenix Suns
+"Sun, Apr 8, 2012 6:00 pm",Philadelphia 76ers,Boston Celtics
+"Sun, Apr 8, 2012 6:00 pm",Detroit Pistons,Miami Heat
+"Sun, Apr 8, 2012 6:00 pm",Cleveland Cavaliers,New Jersey Nets
+"Sun, Apr 8, 2012 1:00 pm",Chicago Bulls,New York Knicks
+"Sun, Apr 8, 2012 6:00 pm",Toronto Raptors,Oklahoma City Thunder
+"Sun, Apr 8, 2012 6:00 pm",Houston Rockets,Sacramento Kings
+"Sun, Apr 8, 2012 6:00 pm",Utah Jazz,San Antonio Spurs
+"Mon, Apr 9, 2012 7:00 pm",Washington Wizards,Charlotte Bobcats
+"Mon, Apr 9, 2012 7:00 pm",Golden State Warriors,Denver Nuggets
+"Mon, Apr 9, 2012 7:00 pm",Toronto Raptors,Indiana Pacers
+"Mon, Apr 9, 2012 7:00 pm",Los Angeles Clippers,Memphis Grizzlies
+"Mon, Apr 9, 2012 7:00 pm",Oklahoma City Thunder,Milwaukee Bucks
+"Mon, Apr 9, 2012 8:00 pm",Phoenix Suns,Minnesota Timberwolves
+"Mon, Apr 9, 2012 7:00 pm",Los Angeles Lakers,New Orleans Hornets
+"Mon, Apr 9, 2012 7:00 pm",Detroit Pistons,Orlando Magic
+"Mon, Apr 9, 2012 7:00 pm",Houston Rockets,Portland Trail Blazers
+"Mon, Apr 9, 2012 7:00 pm",San Antonio Spurs,Utah Jazz
+"Tue, Apr 10, 2012 8:30 pm",New York Knicks,Chicago Bulls
+"Tue, Apr 10, 2012 7:00 pm",Charlotte Bobcats,Cleveland Cavaliers
+"Tue, Apr 10, 2012 7:30 pm",Sacramento Kings,Dallas Mavericks
+"Tue, Apr 10, 2012 7:00 pm",Boston Celtics,Miami Heat
+"Tue, Apr 10, 2012 7:30 pm",Philadelphia 76ers,New Jersey Nets
+"Tue, Apr 10, 2012 7:00 pm",Orlando Magic,Washington Wizards
+"Wed, Apr 11, 2012 8:00 pm",Atlanta Hawks,Boston Celtics
+"Wed, Apr 11, 2012 7:00 pm",Indiana Pacers,Cleveland Cavaliers
+"Wed, Apr 11, 2012 7:00 pm",Minnesota Timberwolves,Denver Nuggets
+"Wed, Apr 11, 2012 7:00 pm",Utah Jazz,Houston Rockets
+"Wed, Apr 11, 2012 7:00 pm",Phoenix Suns,Memphis Grizzlies
+"Wed, Apr 11, 2012 7:00 pm",New York Knicks,Milwaukee Bucks
+"Wed, Apr 11, 2012 7:00 pm",Sacramento Kings,New Orleans Hornets
+"Wed, Apr 11, 2012 7:00 pm",Los Angeles Clippers,Oklahoma City Thunder
+"Wed, Apr 11, 2012 7:30 pm",Golden State Warriors,Portland Trail Blazers
+"Wed, Apr 11, 2012 7:30 pm",Los Angeles Lakers,San Antonio Spurs
+"Wed, Apr 11, 2012 7:00 pm",Philadelphia 76ers,Toronto Raptors
+"Thu, Apr 12, 2012 7:00 pm",Detroit Pistons,Charlotte Bobcats
+"Thu, Apr 12, 2012 7:00 pm",Miami Heat,Chicago Bulls
+"Thu, Apr 12, 2012 7:30 pm",Dallas Mavericks,Golden State Warriors
+"Thu, Apr 12, 2012 7:00 pm",Los Angeles Clippers,Minnesota Timberwolves
+"Thu, Apr 12, 2012 7:30 pm",Memphis Grizzlies,San Antonio Spurs
+"Fri, Apr 13, 2012 8:00 pm",Milwaukee Bucks,Detroit Pistons
+"Fri, Apr 13, 2012 7:00 pm",Phoenix Suns,Houston Rockets
+"Fri, Apr 13, 2012 7:00 pm",Cleveland Cavaliers,Indiana Pacers
+"Fri, Apr 13, 2012 7:30 pm",Denver Nuggets,Los Angeles Lakers
+"Fri, Apr 13, 2012 7:30 pm",Charlotte Bobcats,Miami Heat
+"Fri, Apr 13, 2012 7:00 pm",Utah Jazz,New Orleans Hornets
+"Fri, Apr 13, 2012 7:30 pm",Washington Wizards,New York Knicks
+"Fri, Apr 13, 2012 7:00 pm",Sacramento Kings,Oklahoma City Thunder
+"Fri, Apr 13, 2012 7:00 pm",Atlanta Hawks,Orlando Magic
+"Fri, Apr 13, 2012 7:00 pm",New Jersey Nets,Philadelphia 76ers
+"Fri, Apr 13, 2012 7:30 pm",Dallas Mavericks,Portland Trail Blazers
+"Fri, Apr 13, 2012 7:00 pm",Boston Celtics,Toronto Raptors
+"Sat, Apr 14, 2012 12:30 pm",Golden State Warriors,Los Angeles Clippers
+"Sat, Apr 14, 2012 7:00 pm",Utah Jazz,Memphis Grizzlies
+"Sat, Apr 14, 2012 7:30 pm",Indiana Pacers,Milwaukee Bucks
+"Sat, Apr 14, 2012 7:00 pm",Oklahoma City Thunder,Minnesota Timberwolves
+"Sat, Apr 14, 2012 7:30 pm",Boston Celtics,New Jersey Nets
+"Sat, Apr 14, 2012 8:00 pm",Phoenix Suns,San Antonio Spurs
+"Sat, Apr 14, 2012 7:00 pm",Cleveland Cavaliers,Washington Wizards
+"Sun, Apr 15, 2012 6:00 pm",Toronto Raptors,Atlanta Hawks
+"Sun, Apr 15, 2012 6:00 pm",Boston Celtics,Charlotte Bobcats
+"Sun, Apr 15, 2012 6:00 pm",Orlando Magic,Cleveland Cavaliers
+"Sun, Apr 15, 2012 6:00 pm",Houston Rockets,Denver Nuggets
+"Sun, Apr 15, 2012 6:00 pm",Chicago Bulls,Detroit Pistons
+"Sun, Apr 15, 2012 12:30 pm",Dallas Mavericks,Los Angeles Lakers
+"Sun, Apr 15, 2012 6:00 pm",Memphis Grizzlies,New Orleans Hornets
+"Sun, Apr 15, 2012 1:00 pm",Miami Heat,New York Knicks
+"Sun, Apr 15, 2012 3:00 pm",Portland Trail Blazers,Sacramento Kings
+"Mon, Apr 16, 2012 7:00 pm",New Orleans Hornets,Charlotte Bobcats
+"Mon, Apr 16, 2012 7:00 pm",Washington Wizards,Chicago Bulls
+"Mon, Apr 16, 2012 7:30 pm",San Antonio Spurs,Golden State Warriors
+"Mon, Apr 16, 2012 7:00 pm",Denver Nuggets,Houston Rockets
+"Mon, Apr 16, 2012 7:00 pm",Minnesota Timberwolves,Indiana Pacers
+"Mon, Apr 16, 2012 7:30 pm",Oklahoma City Thunder,Los Angeles Clippers
+"Mon, Apr 16, 2012 7:30 pm",Miami Heat,New Jersey Nets
+"Mon, Apr 16, 2012 7:00 pm",Philadelphia 76ers,Orlando Magic
+"Mon, Apr 16, 2012 7:00 pm",Portland Trail Blazers,Phoenix Suns
+"Mon, Apr 16, 2012 7:00 pm",Atlanta Hawks,Toronto Raptors
+"Mon, Apr 16, 2012 7:00 pm",Dallas Mavericks,Utah Jazz
+"Tue, Apr 17, 2012 7:30 pm",Cleveland Cavaliers,Detroit Pistons
+"Tue, Apr 17, 2012 7:30 pm",San Antonio Spurs,Los Angeles Lakers
+"Tue, Apr 17, 2012 7:00 pm",Memphis Grizzlies,Minnesota Timberwolves
+"Tue, Apr 17, 2012 8:00 pm",Boston Celtics,New York Knicks
+"Tue, Apr 17, 2012 7:00 pm",Indiana Pacers,Philadelphia 76ers
+"Wed, Apr 18, 2012 7:30 pm",Detroit Pistons,Atlanta Hawks
+"Wed, Apr 18, 2012 8:00 pm",Orlando Magic,Boston Celtics
+"Wed, Apr 18, 2012 7:00 pm",Chicago Bulls,Charlotte Bobcats
+"Wed, Apr 18, 2012 7:00 pm",Philadelphia 76ers,Cleveland Cavaliers
+"Wed, Apr 18, 2012 7:30 pm",Houston Rockets,Dallas Mavericks
+"Wed, Apr 18, 2012 7:00 pm",Los Angeles Clippers,Denver Nuggets
+"Wed, Apr 18, 2012 7:30 pm",Los Angeles Lakers,Golden State Warriors
+"Wed, Apr 18, 2012 7:00 pm",New Orleans Hornets,Memphis Grizzlies
+"Wed, Apr 18, 2012 7:30 pm",Toronto Raptors,Miami Heat
+"Wed, Apr 18, 2012 7:30 pm",New York Knicks,New Jersey Nets
+"Wed, Apr 18, 2012 7:00 pm",Oklahoma City Thunder,Phoenix Suns
+"Wed, Apr 18, 2012 7:00 pm",Utah Jazz,Portland Trail Blazers
+"Wed, Apr 18, 2012 7:00 pm",San Antonio Spurs,Sacramento Kings
+"Wed, Apr 18, 2012 7:00 pm",Milwaukee Bucks,Washington Wizards
+"Thu, Apr 19, 2012 7:30 pm",Minnesota Timberwolves,Detroit Pistons
+"Thu, Apr 19, 2012 7:00 pm",Milwaukee Bucks,Indiana Pacers
+"Thu, Apr 19, 2012 8:00 pm",Chicago Bulls,Miami Heat
+"Thu, Apr 19, 2012 7:00 pm",Houston Rockets,New Orleans Hornets
+"Thu, Apr 19, 2012 7:30 pm",Los Angeles Clippers,Phoenix Suns
+"Fri, Apr 20, 2012 7:00 pm",Boston Celtics,Atlanta Hawks
+"Fri, Apr 20, 2012 7:00 pm",Memphis Grizzlies,Charlotte Bobcats
+"Fri, Apr 20, 2012 7:30 pm",New York Knicks,Cleveland Cavaliers
+"Fri, Apr 20, 2012 7:30 pm",Golden State Warriors,Dallas Mavericks
+"Fri, Apr 20, 2012 7:00 pm",Oklahoma City Thunder,Sacramento Kings
+"Fri, Apr 20, 2012 8:30 pm",Los Angeles Lakers,San Antonio Spurs
+"Sat, Apr 21, 2012 7:00 pm",Dallas Mavericks,Chicago Bulls
+"Sat, Apr 21, 2012 7:00 pm",Golden State Warriors,Houston Rockets
+"Sat, Apr 21, 2012 7:00 pm",Philadelphia 76ers,Indiana Pacers
+"Sat, Apr 21, 2012 7:00 pm",Portland Trail Blazers,Memphis Grizzlies
+"Sat, Apr 21, 2012 7:30 pm",Washington Wizards,Miami Heat
+"Sat, Apr 21, 2012 7:30 pm",New Jersey Nets,Milwaukee Bucks
+"Sat, Apr 21, 2012 2:30 pm",Denver Nuggets,Phoenix Suns
+"Sat, Apr 21, 2012 8:30 pm",Orlando Magic,Utah Jazz
+"Sun, Apr 22, 2012 1:00 pm",New York Knicks,Atlanta Hawks
+"Sun, Apr 22, 2012 6:00 pm",Sacramento Kings,Charlotte Bobcats
+"Sun, Apr 22, 2012 6:00 pm",Orlando Magic,Denver Nuggets
+"Sun, Apr 22, 2012 6:00 pm",Toronto Raptors,Detroit Pistons
+"Sun, Apr 22, 2012 6:30 pm",New Orleans Hornets,Los Angeles Clippers
+"Sun, Apr 22, 2012 12:30 pm",Oklahoma City Thunder,Los Angeles Lakers
+"Sun, Apr 22, 2012 6:00 pm",Houston Rockets,Miami Heat
+"Sun, Apr 22, 2012 6:00 pm",Golden State Warriors,Minnesota Timberwolves
+"Sun, Apr 22, 2012 6:00 pm",Cleveland Cavaliers,San Antonio Spurs
+"Mon, Apr 23, 2012 7:00 pm",Detroit Pistons,Indiana Pacers
+"Mon, Apr 23, 2012 7:00 pm",Cleveland Cavaliers,Memphis Grizzlies
+"Mon, Apr 23, 2012 7:00 pm",Toronto Raptors,Milwaukee Bucks
+"Mon, Apr 23, 2012 7:30 pm",Philadelphia 76ers,New Jersey Nets
+"Mon, Apr 23, 2012 7:30 pm",Portland Trail Blazers,San Antonio Spurs
+"Mon, Apr 23, 2012 7:00 pm",Charlotte Bobcats,Washington Wizards
+"Tue, Apr 24, 2012 7:30 pm",Los Angeles Clippers,Atlanta Hawks
+"Tue, Apr 24, 2012 8:00 pm",Miami Heat,Boston Celtics
+"Tue, Apr 24, 2012 7:30 pm",New Orleans Hornets,Golden State Warriors
+"Tue, Apr 24, 2012 7:00 pm",Sacramento Kings,Oklahoma City Thunder
+"Tue, Apr 24, 2012 8:30 pm",Phoenix Suns,Utah Jazz
+"Wed, Apr 25, 2012 7:00 pm",Washington Wizards,Cleveland Cavaliers
+"Wed, Apr 25, 2012 7:00 pm",Chicago Bulls,Indiana Pacers
+"Wed, Apr 25, 2012 7:00 pm",Philadelphia 76ers,Milwaukee Bucks
+"Wed, Apr 25, 2012 8:00 pm",Los Angeles Clippers,New York Knicks
+"Wed, Apr 25, 2012 7:00 pm",Denver Nuggets,Oklahoma City Thunder
+"Wed, Apr 25, 2012 7:00 pm",Charlotte Bobcats,Orlando Magic
+"Wed, Apr 25, 2012 7:30 pm",San Antonio Spurs,Phoenix Suns
+"Thu, Apr 26, 2012 8:00 pm",Dallas Mavericks,Atlanta Hawks
+"Thu, Apr 26, 2012 8:00 pm",Milwaukee Bucks,Boston Celtics
+"Thu, Apr 26, 2012 8:00 pm",New York Knicks,Charlotte Bobcats
+"Thu, Apr 26, 2012 7:00 pm",Cleveland Cavaliers,Chicago Bulls
+"Thu, Apr 26, 2012 8:00 pm",Philadelphia 76ers,Detroit Pistons
+"Thu, Apr 26, 2012 7:30 pm",San Antonio Spurs,Golden State Warriors
+"Thu, Apr 26, 2012 7:00 pm",New Orleans Hornets,Houston Rockets
+"Thu, Apr 26, 2012 7:00 pm",Orlando Magic,Memphis Grizzlies
+"Thu, Apr 26, 2012 7:00 pm",Denver Nuggets,Minnesota Timberwolves
+"Thu, Apr 26, 2012 7:30 pm",Los Angeles Lakers,Sacramento Kings
+"Thu, Apr 26, 2012 7:00 pm",New Jersey Nets,Toronto Raptors
+"Thu, Apr 26, 2012 6:00 pm",Portland Trail Blazers,Utah Jazz
+"Thu, Apr 26, 2012 8:00 pm",Miami Heat,Washington Wizards

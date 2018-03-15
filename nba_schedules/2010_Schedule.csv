@@ -1,0 +1,1231 @@
+DateTime,Away,Home
+"Tue, Oct 27, 2009 7:30 pm",Boston Celtics,Cleveland Cavaliers
+"Tue, Oct 27, 2009 7:30 pm",Washington Wizards,Dallas Mavericks
+"Tue, Oct 27, 2009 7:30 pm",Los Angeles Clippers,Los Angeles Lakers
+"Tue, Oct 27, 2009 7:00 pm",Houston Rockets,Portland Trail Blazers
+"Wed, Oct 28, 2009 7:00 pm",Indiana Pacers,Atlanta Hawks
+"Wed, Oct 28, 2009 7:30 pm",Charlotte Bobcats,Boston Celtics
+"Wed, Oct 28, 2009 8:30 pm",Utah Jazz,Denver Nuggets
+"Wed, Oct 28, 2009 7:30 pm",Houston Rockets,Golden State Warriors
+"Wed, Oct 28, 2009 7:30 pm",Phoenix Suns,Los Angeles Clippers
+"Wed, Oct 28, 2009 7:00 pm",Detroit Pistons,Memphis Grizzlies
+"Wed, Oct 28, 2009 7:30 pm",New York Knicks,Miami Heat
+"Wed, Oct 28, 2009 7:00 pm",New Jersey Nets,Minnesota Timberwolves
+"Wed, Oct 28, 2009 7:00 pm",Sacramento Kings,Oklahoma City Thunder
+"Wed, Oct 28, 2009 7:00 pm",Philadelphia 76ers,Orlando Magic
+"Wed, Oct 28, 2009 7:00 pm",New Orleans Hornets,San Antonio Spurs
+"Wed, Oct 28, 2009 7:00 pm",Cleveland Cavaliers,Toronto Raptors
+"Thu, Oct 29, 2009 7:00 pm",San Antonio Spurs,Chicago Bulls
+"Thu, Oct 29, 2009 7:30 pm",Denver Nuggets,Portland Trail Blazers
+"Fri, Oct 30, 2009 7:30 pm",Washington Wizards,Atlanta Hawks
+"Fri, Oct 30, 2009 8:00 pm",Chicago Bulls,Boston Celtics
+"Fri, Oct 30, 2009 7:00 pm",New York Knicks,Charlotte Bobcats
+"Fri, Oct 30, 2009 8:00 pm",Oklahoma City Thunder,Detroit Pistons
+"Fri, Oct 30, 2009 8:00 pm",Miami Heat,Indiana Pacers
+"Fri, Oct 30, 2009 7:30 pm",Dallas Mavericks,Los Angeles Lakers
+"Fri, Oct 30, 2009 7:00 pm",Toronto Raptors,Memphis Grizzlies
+"Fri, Oct 30, 2009 7:00 pm",Cleveland Cavaliers,Minnesota Timberwolves
+"Fri, Oct 30, 2009 8:00 pm",Orlando Magic,New Jersey Nets
+"Fri, Oct 30, 2009 7:00 pm",Sacramento Kings,New Orleans Hornets
+"Fri, Oct 30, 2009 7:00 pm",Milwaukee Bucks,Philadelphia 76ers
+"Fri, Oct 30, 2009 7:00 pm",Golden State Warriors,Phoenix Suns
+"Fri, Oct 30, 2009 7:00 pm",Los Angeles Clippers,Utah Jazz
+"Sat, Oct 31, 2009 7:30 pm",Charlotte Bobcats,Cleveland Cavaliers
+"Sat, Oct 31, 2009 7:30 pm",Portland Trail Blazers,Houston Rockets
+"Sat, Oct 31, 2009 7:30 pm",Dallas Mavericks,Los Angeles Clippers
+"Sat, Oct 31, 2009 7:30 pm",Detroit Pistons,Milwaukee Bucks
+"Sat, Oct 31, 2009 7:30 pm",Philadelphia 76ers,New York Knicks
+"Sat, Oct 31, 2009 7:30 pm",Sacramento Kings,San Antonio Spurs
+"Sat, Oct 31, 2009 7:00 pm",New Jersey Nets,Washington Wizards
+"Sun, Nov 1, 2009 6:00 pm",New Orleans Hornets,Boston Celtics
+"Sun, Nov 1, 2009 6:00 pm",Memphis Grizzlies,Denver Nuggets
+"Sun, Nov 1, 2009 6:30 pm",Atlanta Hawks,Los Angeles Lakers
+"Sun, Nov 1, 2009 6:00 pm",Chicago Bulls,Miami Heat
+"Sun, Nov 1, 2009 6:00 pm",Portland Trail Blazers,Oklahoma City Thunder
+"Sun, Nov 1, 2009 6:00 pm",Minnesota Timberwolves,Phoenix Suns
+"Sun, Nov 1, 2009 1:00 pm",Orlando Magic,Toronto Raptors
+"Mon, Nov 2, 2009 7:00 pm",New Jersey Nets,Charlotte Bobcats
+"Mon, Nov 2, 2009 7:30 pm",Minnesota Timberwolves,Los Angeles Clippers
+"Mon, Nov 2, 2009 7:30 pm",New Orleans Hornets,New York Knicks
+"Mon, Nov 2, 2009 7:00 pm",Memphis Grizzlies,Sacramento Kings
+"Mon, Nov 2, 2009 7:00 pm",Houston Rockets,Utah Jazz
+"Tue, Nov 3, 2009 7:00 pm",Milwaukee Bucks,Chicago Bulls
+"Tue, Nov 3, 2009 7:00 pm",Washington Wizards,Cleveland Cavaliers
+"Tue, Nov 3, 2009 7:30 pm",Utah Jazz,Dallas Mavericks
+"Tue, Nov 3, 2009 7:30 pm",Orlando Magic,Detroit Pistons
+"Tue, Nov 3, 2009 7:00 pm",Denver Nuggets,Indiana Pacers
+"Tue, Nov 3, 2009 7:30 pm",Phoenix Suns,Miami Heat
+"Tue, Nov 3, 2009 7:00 pm",Los Angeles Lakers,Oklahoma City Thunder
+"Tue, Nov 3, 2009 7:00 pm",Boston Celtics,Philadelphia 76ers
+"Tue, Nov 3, 2009 7:00 pm",Atlanta Hawks,Portland Trail Blazers
+"Wed, Nov 4, 2009 7:30 pm",Memphis Grizzlies,Golden State Warriors
+"Wed, Nov 4, 2009 7:30 pm",Los Angeles Lakers,Houston Rockets
+"Wed, Nov 4, 2009 7:00 pm",Boston Celtics,Minnesota Timberwolves
+"Wed, Nov 4, 2009 7:30 pm",Denver Nuggets,New Jersey Nets
+"Wed, Nov 4, 2009 8:30 pm",Dallas Mavericks,New Orleans Hornets
+"Wed, Nov 4, 2009 7:30 pm",Indiana Pacers,New York Knicks
+"Wed, Nov 4, 2009 7:00 pm",Phoenix Suns,Orlando Magic
+"Wed, Nov 4, 2009 7:00 pm",Atlanta Hawks,Sacramento Kings
+"Wed, Nov 4, 2009 7:00 pm",Detroit Pistons,Toronto Raptors
+"Wed, Nov 4, 2009 7:00 pm",Miami Heat,Washington Wizards
+"Thu, Nov 5, 2009 8:00 pm",Chicago Bulls,Cleveland Cavaliers
+"Thu, Nov 5, 2009 8:30 pm",San Antonio Spurs,Utah Jazz
+"Fri, Nov 6, 2009 7:30 pm",Phoenix Suns,Boston Celtics
+"Fri, Nov 6, 2009 7:00 pm",Atlanta Hawks,Charlotte Bobcats
+"Fri, Nov 6, 2009 7:30 pm",Los Angeles Clippers,Golden State Warriors
+"Fri, Nov 6, 2009 7:30 pm",Oklahoma City Thunder,Houston Rockets
+"Fri, Nov 6, 2009 7:00 pm",Washington Wizards,Indiana Pacers
+"Fri, Nov 6, 2009 7:30 pm",Memphis Grizzlies,Los Angeles Lakers
+"Fri, Nov 6, 2009 7:30 pm",Denver Nuggets,Miami Heat
+"Fri, Nov 6, 2009 7:00 pm",Milwaukee Bucks,Minnesota Timberwolves
+"Fri, Nov 6, 2009 7:00 pm",Toronto Raptors,New Orleans Hornets
+"Fri, Nov 6, 2009 8:00 pm",Cleveland Cavaliers,New York Knicks
+"Fri, Nov 6, 2009 7:00 pm",Detroit Pistons,Orlando Magic
+"Fri, Nov 6, 2009 7:00 pm",New Jersey Nets,Philadelphia 76ers
+"Fri, Nov 6, 2009 7:30 pm",San Antonio Spurs,Portland Trail Blazers
+"Sat, Nov 7, 2009 7:00 pm",Denver Nuggets,Atlanta Hawks
+"Sat, Nov 7, 2009 7:00 pm",Charlotte Bobcats,Chicago Bulls
+"Sat, Nov 7, 2009 7:30 pm",Toronto Raptors,Dallas Mavericks
+"Sat, Nov 7, 2009 7:30 pm",Memphis Grizzlies,Los Angeles Clippers
+"Sat, Nov 7, 2009 7:30 pm",New York Knicks,Milwaukee Bucks
+"Sat, Nov 7, 2009 7:30 pm",Boston Celtics,New Jersey Nets
+"Sat, Nov 7, 2009 7:00 pm",Sacramento Kings,Utah Jazz
+"Sun, Nov 8, 2009 1:00 pm",Philadelphia 76ers,Detroit Pistons
+"Sun, Nov 8, 2009 6:30 pm",New Orleans Hornets,Los Angeles Lakers
+"Sun, Nov 8, 2009 6:00 pm",Orlando Magic,Oklahoma City Thunder
+"Sun, Nov 8, 2009 6:00 pm",Minnesota Timberwolves,Portland Trail Blazers
+"Sun, Nov 8, 2009 6:00 pm",Golden State Warriors,Sacramento Kings
+"Sun, Nov 8, 2009 1:00 pm",Phoenix Suns,Washington Wizards
+"Mon, Nov 9, 2009 7:30 pm",Minnesota Timberwolves,Golden State Warriors
+"Mon, Nov 9, 2009 7:30 pm",New Orleans Hornets,Los Angeles Clippers
+"Mon, Nov 9, 2009 7:30 pm",Utah Jazz,New York Knicks
+"Mon, Nov 9, 2009 7:00 pm",Phoenix Suns,Philadelphia 76ers
+"Mon, Nov 9, 2009 7:30 pm",Toronto Raptors,San Antonio Spurs
+"Tue, Nov 10, 2009 7:00 pm",Orlando Magic,Charlotte Bobcats
+"Tue, Nov 10, 2009 7:00 pm",Denver Nuggets,Chicago Bulls
+"Tue, Nov 10, 2009 7:30 pm",Houston Rockets,Dallas Mavericks
+"Tue, Nov 10, 2009 7:00 pm",Portland Trail Blazers,Memphis Grizzlies
+"Tue, Nov 10, 2009 7:30 pm",Washington Wizards,Miami Heat
+"Tue, Nov 10, 2009 7:00 pm",Oklahoma City Thunder,Sacramento Kings
+"Wed, Nov 11, 2009 7:30 pm",Utah Jazz,Boston Celtics
+"Wed, Nov 11, 2009 7:30 pm",Charlotte Bobcats,Detroit Pistons
+"Wed, Nov 11, 2009 7:30 pm",Memphis Grizzlies,Houston Rockets
+"Wed, Nov 11, 2009 7:00 pm",Golden State Warriors,Indiana Pacers
+"Wed, Nov 11, 2009 7:30 pm",Oklahoma City Thunder,Los Angeles Clippers
+"Wed, Nov 11, 2009 7:00 pm",Denver Nuggets,Milwaukee Bucks
+"Wed, Nov 11, 2009 7:00 pm",Portland Trail Blazers,Minnesota Timberwolves
+"Wed, Nov 11, 2009 7:30 pm",Philadelphia 76ers,New Jersey Nets
+"Wed, Nov 11, 2009 7:30 pm",Atlanta Hawks,New York Knicks
+"Wed, Nov 11, 2009 8:00 pm",Cleveland Cavaliers,Orlando Magic
+"Wed, Nov 11, 2009 8:30 pm",New Orleans Hornets,Phoenix Suns
+"Wed, Nov 11, 2009 7:30 pm",Dallas Mavericks,San Antonio Spurs
+"Wed, Nov 11, 2009 7:00 pm",Chicago Bulls,Toronto Raptors
+"Thu, Nov 12, 2009 7:30 pm",Phoenix Suns,Los Angeles Lakers
+"Thu, Nov 12, 2009 8:00 pm",Cleveland Cavaliers,Miami Heat
+"Fri, Nov 13, 2009 8:00 pm",Atlanta Hawks,Boston Celtics
+"Fri, Nov 13, 2009 8:30 pm",Los Angeles Lakers,Denver Nuggets
+"Fri, Nov 13, 2009 7:30 pm",Toronto Raptors,Los Angeles Clippers
+"Fri, Nov 13, 2009 7:00 pm",Dallas Mavericks,Minnesota Timberwolves
+"Fri, Nov 13, 2009 7:00 pm",Portland Trail Blazers,New Orleans Hornets
+"Fri, Nov 13, 2009 7:30 pm",Golden State Warriors,New York Knicks
+"Fri, Nov 13, 2009 7:00 pm",New Jersey Nets,Orlando Magic
+"Fri, Nov 13, 2009 7:00 pm",Utah Jazz,Philadelphia 76ers
+"Fri, Nov 13, 2009 7:00 pm",Houston Rockets,Sacramento Kings
+"Sat, Nov 14, 2009 7:00 pm",New Orleans Hornets,Atlanta Hawks
+"Sat, Nov 14, 2009 7:00 pm",Portland Trail Blazers,Charlotte Bobcats
+"Sat, Nov 14, 2009 7:00 pm",Philadelphia 76ers,Chicago Bulls
+"Sat, Nov 14, 2009 7:30 pm",Utah Jazz,Cleveland Cavaliers
+"Sat, Nov 14, 2009 7:00 pm",Boston Celtics,Indiana Pacers
+"Sat, Nov 14, 2009 7:00 pm",Minnesota Timberwolves,Memphis Grizzlies
+"Sat, Nov 14, 2009 7:30 pm",New Jersey Nets,Miami Heat
+"Sat, Nov 14, 2009 7:30 pm",Golden State Warriors,Milwaukee Bucks
+"Sat, Nov 14, 2009 7:30 pm",Oklahoma City Thunder,San Antonio Spurs
+"Sat, Nov 14, 2009 7:00 pm",Detroit Pistons,Washington Wizards
+"Sun, Nov 15, 2009 6:00 pm",Dallas Mavericks,Detroit Pistons
+"Sun, Nov 15, 2009 6:30 pm",Houston Rockets,Los Angeles Lakers
+"Sun, Nov 15, 2009 6:00 pm",Los Angeles Clippers,Oklahoma City Thunder
+"Sun, Nov 15, 2009 6:00 pm",Toronto Raptors,Phoenix Suns
+"Mon, Nov 16, 2009 7:00 pm",Portland Trail Blazers,Atlanta Hawks
+"Mon, Nov 16, 2009 7:00 pm",Dallas Mavericks,Milwaukee Bucks
+"Mon, Nov 16, 2009 7:00 pm",Charlotte Bobcats,Orlando Magic
+"Tue, Nov 17, 2009 7:00 pm",Golden State Warriors,Cleveland Cavaliers
+"Tue, Nov 17, 2009 7:00 pm",Toronto Raptors,Denver Nuggets
+"Tue, Nov 17, 2009 7:30 pm",Phoenix Suns,Houston Rockets
+"Tue, Nov 17, 2009 7:30 pm",Detroit Pistons,Los Angeles Lakers
+"Tue, Nov 17, 2009 7:30 pm",Oklahoma City Thunder,Miami Heat
+"Tue, Nov 17, 2009 7:30 pm",Indiana Pacers,New Jersey Nets
+"Tue, Nov 17, 2009 7:00 pm",Los Angeles Clippers,New Orleans Hornets
+"Tue, Nov 17, 2009 7:00 pm",Chicago Bulls,Sacramento Kings
+"Wed, Nov 18, 2009 7:00 pm",Miami Heat,Atlanta Hawks
+"Wed, Nov 18, 2009 7:30 pm",Golden State Warriors,Boston Celtics
+"Wed, Nov 18, 2009 8:30 pm",San Antonio Spurs,Dallas Mavericks
+"Wed, Nov 18, 2009 7:00 pm",New York Knicks,Indiana Pacers
+"Wed, Nov 18, 2009 7:00 pm",Los Angeles Clippers,Memphis Grizzlies
+"Wed, Nov 18, 2009 7:00 pm",New Jersey Nets,Milwaukee Bucks
+"Wed, Nov 18, 2009 7:00 pm",Houston Rockets,Minnesota Timberwolves
+"Wed, Nov 18, 2009 7:00 pm",Oklahoma City Thunder,Orlando Magic
+"Wed, Nov 18, 2009 7:00 pm",Charlotte Bobcats,Philadelphia 76ers
+"Wed, Nov 18, 2009 7:00 pm",Detroit Pistons,Portland Trail Blazers
+"Wed, Nov 18, 2009 7:00 pm",Toronto Raptors,Utah Jazz
+"Wed, Nov 18, 2009 7:00 pm",Cleveland Cavaliers,Washington Wizards
+"Thu, Nov 19, 2009 7:30 pm",Chicago Bulls,Los Angeles Lakers
+"Thu, Nov 19, 2009 7:00 pm",Phoenix Suns,New Orleans Hornets
+"Thu, Nov 19, 2009 7:30 pm",Utah Jazz,San Antonio Spurs
+"Fri, Nov 20, 2009 7:30 pm",Houston Rockets,Atlanta Hawks
+"Fri, Nov 20, 2009 8:00 pm",Orlando Magic,Boston Celtics
+"Fri, Nov 20, 2009 7:30 pm",Sacramento Kings,Dallas Mavericks
+"Fri, Nov 20, 2009 7:30 pm",Portland Trail Blazers,Golden State Warriors
+"Fri, Nov 20, 2009 7:00 pm",Cleveland Cavaliers,Indiana Pacers
+"Fri, Nov 20, 2009 7:30 pm",Denver Nuggets,Los Angeles Clippers
+"Fri, Nov 20, 2009 7:30 pm",Charlotte Bobcats,Milwaukee Bucks
+"Fri, Nov 20, 2009 7:00 pm",Washington Wizards,Oklahoma City Thunder
+"Fri, Nov 20, 2009 7:00 pm",Memphis Grizzlies,Philadelphia 76ers
+"Fri, Nov 20, 2009 7:00 pm",Miami Heat,Toronto Raptors
+"Sat, Nov 21, 2009 7:30 pm",Philadelphia 76ers,Cleveland Cavaliers
+"Sat, Nov 21, 2009 7:00 pm",Chicago Bulls,Denver Nuggets
+"Sat, Nov 21, 2009 7:30 pm",Sacramento Kings,Houston Rockets
+"Sat, Nov 21, 2009 7:00 pm",Milwaukee Bucks,Memphis Grizzlies
+"Sat, Nov 21, 2009 1:00 pm",New York Knicks,New Jersey Nets
+"Sat, Nov 21, 2009 7:00 pm",Atlanta Hawks,New Orleans Hornets
+"Sat, Nov 21, 2009 7:00 pm",Minnesota Timberwolves,Portland Trail Blazers
+"Sat, Nov 21, 2009 7:30 pm",Washington Wizards,San Antonio Spurs
+"Sat, Nov 21, 2009 7:00 pm",Detroit Pistons,Utah Jazz
+"Sun, Nov 22, 2009 5:00 pm",Indiana Pacers,Charlotte Bobcats
+"Sun, Nov 22, 2009 6:30 pm",Oklahoma City Thunder,Los Angeles Lakers
+"Sun, Nov 22, 2009 6:00 pm",New Orleans Hornets,Miami Heat
+"Sun, Nov 22, 2009 1:00 pm",Boston Celtics,New York Knicks
+"Sun, Nov 22, 2009 6:00 pm",Detroit Pistons,Phoenix Suns
+"Sun, Nov 22, 2009 12:30 pm",Orlando Magic,Toronto Raptors
+"Mon, Nov 23, 2009 7:30 pm",Minnesota Timberwolves,Los Angeles Clippers
+"Mon, Nov 23, 2009 7:00 pm",Sacramento Kings,Memphis Grizzlies
+"Mon, Nov 23, 2009 7:00 pm",Chicago Bulls,Portland Trail Blazers
+"Mon, Nov 23, 2009 7:30 pm",Milwaukee Bucks,San Antonio Spurs
+"Tue, Nov 24, 2009 7:30 pm",Golden State Warriors,Dallas Mavericks
+"Tue, Nov 24, 2009 7:00 pm",New Jersey Nets,Denver Nuggets
+"Tue, Nov 24, 2009 7:30 pm",New York Knicks,Los Angeles Lakers
+"Tue, Nov 24, 2009 7:00 pm",Indiana Pacers,Toronto Raptors
+"Tue, Nov 24, 2009 7:00 pm",Oklahoma City Thunder,Utah Jazz
+"Tue, Nov 24, 2009 7:00 pm",Philadelphia 76ers,Washington Wizards
+"Wed, Nov 25, 2009 7:30 pm",Philadelphia 76ers,Boston Celtics
+"Wed, Nov 25, 2009 7:00 pm",Toronto Raptors,Charlotte Bobcats
+"Wed, Nov 25, 2009 8:00 pm",Cleveland Cavaliers,Detroit Pistons
+"Wed, Nov 25, 2009 7:30 pm",Dallas Mavericks,Houston Rockets
+"Wed, Nov 25, 2009 7:00 pm",Los Angeles Clippers,Indiana Pacers
+"Wed, Nov 25, 2009 7:00 pm",Denver Nuggets,Minnesota Timberwolves
+"Wed, Nov 25, 2009 7:00 pm",Milwaukee Bucks,New Orleans Hornets
+"Wed, Nov 25, 2009 7:30 pm",Miami Heat,Orlando Magic
+"Wed, Nov 25, 2009 7:00 pm",Memphis Grizzlies,Phoenix Suns
+"Wed, Nov 25, 2009 7:00 pm",New Jersey Nets,Portland Trail Blazers
+"Wed, Nov 25, 2009 7:00 pm",New York Knicks,Sacramento Kings
+"Wed, Nov 25, 2009 7:30 pm",Golden State Warriors,San Antonio Spurs
+"Thu, Nov 26, 2009 8:00 pm",Orlando Magic,Atlanta Hawks
+"Thu, Nov 26, 2009 8:30 pm",Chicago Bulls,Utah Jazz
+"Fri, Nov 27, 2009 7:30 pm",Toronto Raptors,Boston Celtics
+"Fri, Nov 27, 2009 7:00 pm",Cleveland Cavaliers,Charlotte Bobcats
+"Fri, Nov 27, 2009 7:00 pm",New York Knicks,Denver Nuggets
+"Fri, Nov 27, 2009 8:00 pm",Los Angeles Clippers,Detroit Pistons
+"Fri, Nov 27, 2009 7:30 pm",San Antonio Spurs,Houston Rockets
+"Fri, Nov 27, 2009 8:00 pm",Dallas Mavericks,Indiana Pacers
+"Fri, Nov 27, 2009 7:00 pm",Washington Wizards,Miami Heat
+"Fri, Nov 27, 2009 8:30 pm",Phoenix Suns,Minnesota Timberwolves
+"Fri, Nov 27, 2009 8:30 pm",Milwaukee Bucks,Oklahoma City Thunder
+"Fri, Nov 27, 2009 7:30 pm",Atlanta Hawks,Philadelphia 76ers
+"Fri, Nov 27, 2009 7:00 pm",Memphis Grizzlies,Portland Trail Blazers
+"Fri, Nov 27, 2009 7:00 pm",New Jersey Nets,Sacramento Kings
+"Sat, Nov 28, 2009 7:30 pm",Dallas Mavericks,Cleveland Cavaliers
+"Sat, Nov 28, 2009 7:30 pm",Los Angeles Lakers,Golden State Warriors
+"Sat, Nov 28, 2009 8:00 pm",Orlando Magic,Milwaukee Bucks
+"Sat, Nov 28, 2009 7:00 pm",Portland Trail Blazers,Utah Jazz
+"Sat, Nov 28, 2009 7:00 pm",Charlotte Bobcats,Washington Wizards
+"Sun, Nov 29, 2009 6:00 pm",Minnesota Timberwolves,Denver Nuggets
+"Sun, Nov 29, 2009 1:00 pm",Atlanta Hawks,Detroit Pistons
+"Sun, Nov 29, 2009 12:30 pm",Memphis Grizzlies,Los Angeles Clippers
+"Sun, Nov 29, 2009 6:30 pm",New Jersey Nets,Los Angeles Lakers
+"Sun, Nov 29, 2009 6:00 pm",Boston Celtics,Miami Heat
+"Sun, Nov 29, 2009 6:00 pm",Orlando Magic,New York Knicks
+"Sun, Nov 29, 2009 6:00 pm",Houston Rockets,Oklahoma City Thunder
+"Sun, Nov 29, 2009 6:00 pm",New Orleans Hornets,Sacramento Kings
+"Sun, Nov 29, 2009 6:00 pm",Philadelphia 76ers,San Antonio Spurs
+"Sun, Nov 29, 2009 1:00 pm",Phoenix Suns,Toronto Raptors
+"Mon, Nov 30, 2009 7:30 pm",Philadelphia 76ers,Dallas Mavericks
+"Mon, Nov 30, 2009 7:30 pm",Indiana Pacers,Golden State Warriors
+"Mon, Nov 30, 2009 7:00 pm",Chicago Bulls,Milwaukee Bucks
+"Mon, Nov 30, 2009 7:00 pm",Memphis Grizzlies,Utah Jazz
+"Tue, Dec 1, 2009 7:00 pm",Boston Celtics,Charlotte Bobcats
+"Tue, Dec 1, 2009 7:00 pm",Golden State Warriors,Denver Nuggets
+"Tue, Dec 1, 2009 7:30 pm",New Orleans Hornets,Los Angeles Lakers
+"Tue, Dec 1, 2009 7:30 pm",Phoenix Suns,New York Knicks
+"Tue, Dec 1, 2009 7:00 pm",Miami Heat,Portland Trail Blazers
+"Tue, Dec 1, 2009 7:00 pm",Washington Wizards,Toronto Raptors
+"Wed, Dec 2, 2009 7:00 pm",Toronto Raptors,Atlanta Hawks
+"Wed, Dec 2, 2009 7:00 pm",Detroit Pistons,Chicago Bulls
+"Wed, Dec 2, 2009 7:00 pm",Phoenix Suns,Cleveland Cavaliers
+"Wed, Dec 2, 2009 7:30 pm",Houston Rockets,Los Angeles Clippers
+"Wed, Dec 2, 2009 7:00 pm",Memphis Grizzlies,Minnesota Timberwolves
+"Wed, Dec 2, 2009 7:30 pm",Dallas Mavericks,New Jersey Nets
+"Wed, Dec 2, 2009 7:00 pm",Philadelphia 76ers,Oklahoma City Thunder
+"Wed, Dec 2, 2009 7:00 pm",New York Knicks,Orlando Magic
+"Wed, Dec 2, 2009 7:00 pm",Indiana Pacers,Sacramento Kings
+"Wed, Dec 2, 2009 7:00 pm",Milwaukee Bucks,Washington Wizards
+"Thu, Dec 3, 2009 8:30 pm",Miami Heat,Denver Nuggets
+"Thu, Dec 3, 2009 7:30 pm",Houston Rockets,Golden State Warriors
+"Thu, Dec 3, 2009 7:00 pm",Boston Celtics,San Antonio Spurs
+"Fri, Dec 4, 2009 7:30 pm",New York Knicks,Atlanta Hawks
+"Fri, Dec 4, 2009 8:00 pm",Chicago Bulls,Cleveland Cavaliers
+"Fri, Dec 4, 2009 8:00 pm",Milwaukee Bucks,Detroit Pistons
+"Fri, Dec 4, 2009 7:30 pm",Miami Heat,Los Angeles Lakers
+"Fri, Dec 4, 2009 7:00 pm",Dallas Mavericks,Memphis Grizzlies
+"Fri, Dec 4, 2009 8:00 pm",Charlotte Bobcats,New Jersey Nets
+"Fri, Dec 4, 2009 7:00 pm",Minnesota Timberwolves,New Orleans Hornets
+"Fri, Dec 4, 2009 7:00 pm",Boston Celtics,Oklahoma City Thunder
+"Fri, Dec 4, 2009 7:00 pm",Indiana Pacers,Utah Jazz
+"Fri, Dec 4, 2009 7:00 pm",Toronto Raptors,Washington Wizards
+"Sat, Dec 5, 2009 7:00 pm",Philadelphia 76ers,Charlotte Bobcats
+"Sat, Dec 5, 2009 7:00 pm",Toronto Raptors,Chicago Bulls
+"Sat, Dec 5, 2009 8:00 pm",Atlanta Hawks,Dallas Mavericks
+"Sat, Dec 5, 2009 7:30 pm",Orlando Magic,Golden State Warriors
+"Sat, Dec 5, 2009 7:30 pm",Indiana Pacers,Los Angeles Clippers
+"Sat, Dec 5, 2009 7:00 pm",Utah Jazz,Minnesota Timberwolves
+"Sat, Dec 5, 2009 7:00 pm",Sacramento Kings,Phoenix Suns
+"Sat, Dec 5, 2009 7:00 pm",Houston Rockets,Portland Trail Blazers
+"Sat, Dec 5, 2009 7:30 pm",Denver Nuggets,San Antonio Spurs
+"Sun, Dec 6, 2009 6:00 pm",Washington Wizards,Detroit Pistons
+"Sun, Dec 6, 2009 6:30 pm",Phoenix Suns,Los Angeles Lakers
+"Sun, Dec 6, 2009 2:00 pm",Cleveland Cavaliers,Milwaukee Bucks
+"Sun, Dec 6, 2009 12:00 pm",New Jersey Nets,New York Knicks
+"Sun, Dec 6, 2009 6:00 pm",Miami Heat,Sacramento Kings
+"Mon, Dec 7, 2009 7:30 pm",Portland Trail Blazers,New York Knicks
+"Mon, Dec 7, 2009 7:00 pm",Golden State Warriors,Oklahoma City Thunder
+"Mon, Dec 7, 2009 7:00 pm",Denver Nuggets,Philadelphia 76ers
+"Mon, Dec 7, 2009 7:00 pm",San Antonio Spurs,Utah Jazz
+"Tue, Dec 8, 2009 7:30 pm",Milwaukee Bucks,Boston Celtics
+"Tue, Dec 8, 2009 7:00 pm",Denver Nuggets,Charlotte Bobcats
+"Tue, Dec 8, 2009 7:00 pm",New Jersey Nets,Chicago Bulls
+"Tue, Dec 8, 2009 7:30 pm",Phoenix Suns,Dallas Mavericks
+"Tue, Dec 8, 2009 7:30 pm",Orlando Magic,Los Angeles Clippers
+"Tue, Dec 8, 2009 7:00 pm",Cleveland Cavaliers,Memphis Grizzlies
+"Tue, Dec 8, 2009 7:00 pm",Sacramento Kings,New Orleans Hornets
+"Tue, Dec 8, 2009 7:00 pm",Minnesota Timberwolves,Toronto Raptors
+"Wed, Dec 9, 2009 7:00 pm",Chicago Bulls,Atlanta Hawks
+"Wed, Dec 9, 2009 7:30 pm",Cleveland Cavaliers,Houston Rockets
+"Wed, Dec 9, 2009 7:00 pm",Portland Trail Blazers,Indiana Pacers
+"Wed, Dec 9, 2009 7:30 pm",Utah Jazz,Los Angeles Lakers
+"Wed, Dec 9, 2009 7:00 pm",Toronto Raptors,Milwaukee Bucks
+"Wed, Dec 9, 2009 7:00 pm",New Orleans Hornets,Minnesota Timberwolves
+"Wed, Dec 9, 2009 7:30 pm",Golden State Warriors,New Jersey Nets
+"Wed, Dec 9, 2009 7:00 pm",Detroit Pistons,Philadelphia 76ers
+"Wed, Dec 9, 2009 7:30 pm",Sacramento Kings,San Antonio Spurs
+"Thu, Dec 10, 2009 7:30 pm",Denver Nuggets,Detroit Pistons
+"Thu, Dec 10, 2009 8:30 pm",Orlando Magic,Utah Jazz
+"Thu, Dec 10, 2009 8:00 pm",Boston Celtics,Washington Wizards
+"Fri, Dec 11, 2009 7:00 pm",Golden State Warriors,Chicago Bulls
+"Fri, Dec 11, 2009 8:00 pm",Portland Trail Blazers,Cleveland Cavaliers
+"Fri, Dec 11, 2009 7:00 pm",New Jersey Nets,Indiana Pacers
+"Fri, Dec 11, 2009 7:30 pm",Minnesota Timberwolves,Los Angeles Lakers
+"Fri, Dec 11, 2009 7:00 pm",Oklahoma City Thunder,Memphis Grizzlies
+"Fri, Dec 11, 2009 7:30 pm",Dallas Mavericks,Miami Heat
+"Fri, Dec 11, 2009 7:00 pm",New York Knicks,New Orleans Hornets
+"Fri, Dec 11, 2009 7:00 pm",Houston Rockets,Philadelphia 76ers
+"Fri, Dec 11, 2009 8:30 pm",Orlando Magic,Phoenix Suns
+"Fri, Dec 11, 2009 7:30 pm",Charlotte Bobcats,San Antonio Spurs
+"Fri, Dec 11, 2009 7:00 pm",Atlanta Hawks,Toronto Raptors
+"Sat, Dec 12, 2009 7:00 pm",Boston Celtics,Chicago Bulls
+"Sat, Dec 12, 2009 7:30 pm",Charlotte Bobcats,Dallas Mavericks
+"Sat, Dec 12, 2009 7:00 pm",Phoenix Suns,Denver Nuggets
+"Sat, Dec 12, 2009 7:30 pm",Golden State Warriors,Detroit Pistons
+"Sat, Dec 12, 2009 7:30 pm",Portland Trail Blazers,Milwaukee Bucks
+"Sat, Dec 12, 2009 7:00 pm",Minnesota Timberwolves,Sacramento Kings
+"Sat, Dec 12, 2009 7:00 pm",Los Angeles Lakers,Utah Jazz
+"Sat, Dec 12, 2009 7:00 pm",Indiana Pacers,Washington Wizards
+"Sun, Dec 13, 2009 5:00 pm",New Jersey Nets,Atlanta Hawks
+"Sun, Dec 13, 2009 6:30 pm",San Antonio Spurs,Los Angeles Clippers
+"Sun, Dec 13, 2009 6:00 pm",Memphis Grizzlies,Miami Heat
+"Sun, Dec 13, 2009 6:00 pm",Cleveland Cavaliers,Oklahoma City Thunder
+"Sun, Dec 13, 2009 12:30 pm",Houston Rockets,Toronto Raptors
+"Mon, Dec 14, 2009 7:30 pm",New Orleans Hornets,Dallas Mavericks
+"Mon, Dec 14, 2009 7:00 pm",Oklahoma City Thunder,Denver Nuggets
+"Mon, Dec 14, 2009 7:30 pm",Washington Wizards,Los Angeles Clippers
+"Mon, Dec 14, 2009 7:00 pm",Boston Celtics,Memphis Grizzlies
+"Mon, Dec 14, 2009 7:00 pm",Indiana Pacers,Orlando Magic
+"Mon, Dec 14, 2009 7:00 pm",Golden State Warriors,Philadelphia 76ers
+"Mon, Dec 14, 2009 7:00 pm",Minnesota Timberwolves,Utah Jazz
+"Tue, Dec 15, 2009 7:00 pm",New York Knicks,Charlotte Bobcats
+"Tue, Dec 15, 2009 7:00 pm",Los Angeles Lakers,Chicago Bulls
+"Tue, Dec 15, 2009 7:00 pm",New Jersey Nets,Cleveland Cavaliers
+"Tue, Dec 15, 2009 7:30 pm",Detroit Pistons,Houston Rockets
+"Tue, Dec 15, 2009 7:30 pm",Toronto Raptors,Miami Heat
+"Tue, Dec 15, 2009 7:00 pm",San Antonio Spurs,Phoenix Suns
+"Tue, Dec 15, 2009 7:00 pm",Sacramento Kings,Portland Trail Blazers
+"Wed, Dec 16, 2009 7:00 pm",Memphis Grizzlies,Atlanta Hawks
+"Wed, Dec 16, 2009 7:00 pm",Houston Rockets,Denver Nuggets
+"Wed, Dec 16, 2009 7:30 pm",San Antonio Spurs,Golden State Warriors
+"Wed, Dec 16, 2009 7:00 pm",Charlotte Bobcats,Indiana Pacers
+"Wed, Dec 16, 2009 7:00 pm",Los Angeles Lakers,Milwaukee Bucks
+"Wed, Dec 16, 2009 7:00 pm",Los Angeles Clippers,Minnesota Timberwolves
+"Wed, Dec 16, 2009 7:30 pm",Utah Jazz,New Jersey Nets
+"Wed, Dec 16, 2009 7:00 pm",Detroit Pistons,New Orleans Hornets
+"Wed, Dec 16, 2009 7:00 pm",Dallas Mavericks,Oklahoma City Thunder
+"Wed, Dec 16, 2009 7:00 pm",Toronto Raptors,Orlando Magic
+"Wed, Dec 16, 2009 7:00 pm",Cleveland Cavaliers,Philadelphia 76ers
+"Wed, Dec 16, 2009 7:30 pm",Washington Wizards,Sacramento Kings
+"Thu, Dec 17, 2009 7:00 pm",New York Knicks,Chicago Bulls
+"Thu, Dec 17, 2009 8:00 pm",Orlando Magic,Miami Heat
+"Thu, Dec 17, 2009 7:30 pm",Phoenix Suns,Portland Trail Blazers
+"Fri, Dec 18, 2009 7:30 pm",Utah Jazz,Atlanta Hawks
+"Fri, Dec 18, 2009 7:30 pm",Philadelphia 76ers,Boston Celtics
+"Fri, Dec 18, 2009 8:00 pm",Milwaukee Bucks,Cleveland Cavaliers
+"Fri, Dec 18, 2009 7:30 pm",Houston Rockets,Dallas Mavericks
+"Fri, Dec 18, 2009 7:30 pm",Washington Wizards,Golden State Warriors
+"Fri, Dec 18, 2009 7:00 pm",Indiana Pacers,Memphis Grizzlies
+"Fri, Dec 18, 2009 7:00 pm",Sacramento Kings,Minnesota Timberwolves
+"Fri, Dec 18, 2009 7:00 pm",Denver Nuggets,New Orleans Hornets
+"Fri, Dec 18, 2009 8:00 pm",Los Angeles Clippers,New York Knicks
+"Fri, Dec 18, 2009 7:00 pm",Detroit Pistons,Oklahoma City Thunder
+"Fri, Dec 18, 2009 7:00 pm",New Jersey Nets,Toronto Raptors
+"Sat, Dec 19, 2009 7:00 pm",Utah Jazz,Charlotte Bobcats
+"Sat, Dec 19, 2009 7:00 pm",Atlanta Hawks,Chicago Bulls
+"Sat, Dec 19, 2009 7:30 pm",Oklahoma City Thunder,Houston Rockets
+"Sat, Dec 19, 2009 7:30 pm",Sacramento Kings,Milwaukee Bucks
+"Sat, Dec 19, 2009 8:00 pm",Los Angeles Lakers,New Jersey Nets
+"Sat, Dec 19, 2009 7:00 pm",Portland Trail Blazers,Orlando Magic
+"Sat, Dec 19, 2009 7:30 pm",Los Angeles Clippers,Philadelphia 76ers
+"Sat, Dec 19, 2009 7:00 pm",Washington Wizards,Phoenix Suns
+"Sat, Dec 19, 2009 7:30 pm",Indiana Pacers,San Antonio Spurs
+"Sun, Dec 20, 2009 6:00 pm",Minnesota Timberwolves,Boston Celtics
+"Sun, Dec 20, 2009 6:30 pm",Cleveland Cavaliers,Dallas Mavericks
+"Sun, Dec 20, 2009 6:00 pm",Los Angeles Lakers,Detroit Pistons
+"Sun, Dec 20, 2009 3:00 pm",Denver Nuggets,Memphis Grizzlies
+"Sun, Dec 20, 2009 6:00 pm",Portland Trail Blazers,Miami Heat
+"Sun, Dec 20, 2009 7:30 pm",Charlotte Bobcats,New York Knicks
+"Sun, Dec 20, 2009 12:30 pm",New Orleans Hornets,Toronto Raptors
+"Mon, Dec 21, 2009 7:00 pm",Sacramento Kings,Chicago Bulls
+"Mon, Dec 21, 2009 7:00 pm",Milwaukee Bucks,Indiana Pacers
+"Mon, Dec 21, 2009 7:00 pm",Utah Jazz,Orlando Magic
+"Mon, Dec 21, 2009 7:00 pm",Cleveland Cavaliers,Phoenix Suns
+"Mon, Dec 21, 2009 7:30 pm",Los Angeles Clippers,San Antonio Spurs
+"Tue, Dec 22, 2009 7:30 pm",Indiana Pacers,Boston Celtics
+"Tue, Dec 22, 2009 7:00 pm",Detroit Pistons,Charlotte Bobcats
+"Tue, Dec 22, 2009 7:30 pm",Portland Trail Blazers,Dallas Mavericks
+"Tue, Dec 22, 2009 7:30 pm",Los Angeles Clippers,Houston Rockets
+"Tue, Dec 22, 2009 7:30 pm",Oklahoma City Thunder,Los Angeles Lakers
+"Tue, Dec 22, 2009 7:00 pm",Golden State Warriors,Memphis Grizzlies
+"Tue, Dec 22, 2009 7:00 pm",Atlanta Hawks,Minnesota Timberwolves
+"Tue, Dec 22, 2009 7:30 pm",Chicago Bulls,New York Knicks
+"Tue, Dec 22, 2009 7:00 pm",Philadelphia 76ers,Washington Wizards
+"Wed, Dec 23, 2009 7:00 pm",Atlanta Hawks,Denver Nuggets
+"Wed, Dec 23, 2009 7:30 pm",Toronto Raptors,Detroit Pistons
+"Wed, Dec 23, 2009 7:30 pm",Utah Jazz,Miami Heat
+"Wed, Dec 23, 2009 7:00 pm",Washington Wizards,Milwaukee Bucks
+"Wed, Dec 23, 2009 7:30 pm",Minnesota Timberwolves,New Jersey Nets
+"Wed, Dec 23, 2009 7:00 pm",Golden State Warriors,New Orleans Hornets
+"Wed, Dec 23, 2009 7:00 pm",Houston Rockets,Orlando Magic
+"Wed, Dec 23, 2009 7:00 pm",Oklahoma City Thunder,Phoenix Suns
+"Wed, Dec 23, 2009 7:00 pm",Cleveland Cavaliers,Sacramento Kings
+"Wed, Dec 23, 2009 7:30 pm",Portland Trail Blazers,San Antonio Spurs
+"Fri, Dec 25, 2009 2:00 pm",Cleveland Cavaliers,Los Angeles Lakers
+"Fri, Dec 25, 2009 12:00 pm",Miami Heat,New York Knicks
+"Fri, Dec 25, 2009 2:30 pm",Boston Celtics,Orlando Magic
+"Fri, Dec 25, 2009 6:00 pm",Los Angeles Clippers,Phoenix Suns
+"Fri, Dec 25, 2009 7:30 pm",Denver Nuggets,Portland Trail Blazers
+"Sat, Dec 26, 2009 7:00 pm",New Orleans Hornets,Chicago Bulls
+"Sat, Dec 26, 2009 2:00 pm",Memphis Grizzlies,Dallas Mavericks
+"Sat, Dec 26, 2009 7:30 pm",Phoenix Suns,Golden State Warriors
+"Sat, Dec 26, 2009 7:00 pm",Atlanta Hawks,Indiana Pacers
+"Sat, Dec 26, 2009 7:30 pm",San Antonio Spurs,Milwaukee Bucks
+"Sat, Dec 26, 2009 7:00 pm",Washington Wizards,Minnesota Timberwolves
+"Sat, Dec 26, 2009 7:30 pm",Houston Rockets,New Jersey Nets
+"Sat, Dec 26, 2009 7:00 pm",Charlotte Bobcats,Oklahoma City Thunder
+"Sat, Dec 26, 2009 7:00 pm",Los Angeles Lakers,Sacramento Kings
+"Sat, Dec 26, 2009 7:00 pm",Philadelphia 76ers,Utah Jazz
+"Sun, Dec 27, 2009 6:00 pm",Houston Rockets,Cleveland Cavaliers
+"Sun, Dec 27, 2009 6:00 pm",Dallas Mavericks,Denver Nuggets
+"Sun, Dec 27, 2009 6:30 pm",Boston Celtics,Los Angeles Clippers
+"Sun, Dec 27, 2009 6:00 pm",Indiana Pacers,Miami Heat
+"Sun, Dec 27, 2009 6:00 pm",San Antonio Spurs,New York Knicks
+"Sun, Dec 27, 2009 1:00 pm",Detroit Pistons,Toronto Raptors
+"Mon, Dec 28, 2009 7:00 pm",Milwaukee Bucks,Charlotte Bobcats
+"Mon, Dec 28, 2009 7:30 pm",Boston Celtics,Golden State Warriors
+"Mon, Dec 28, 2009 7:00 pm",Washington Wizards,Memphis Grizzlies
+"Mon, Dec 28, 2009 7:30 pm",Oklahoma City Thunder,New Jersey Nets
+"Mon, Dec 28, 2009 7:00 pm",Los Angeles Lakers,Phoenix Suns
+"Mon, Dec 28, 2009 7:00 pm",Philadelphia 76ers,Portland Trail Blazers
+"Mon, Dec 28, 2009 7:00 pm",Denver Nuggets,Sacramento Kings
+"Tue, Dec 29, 2009 7:00 pm",Cleveland Cavaliers,Atlanta Hawks
+"Tue, Dec 29, 2009 7:00 pm",Indiana Pacers,Chicago Bulls
+"Tue, Dec 29, 2009 7:30 pm",New York Knicks,Detroit Pistons
+"Tue, Dec 29, 2009 7:30 pm",New Orleans Hornets,Houston Rockets
+"Tue, Dec 29, 2009 7:30 pm",Golden State Warriors,Los Angeles Lakers
+"Tue, Dec 29, 2009 7:30 pm",Minnesota Timberwolves,San Antonio Spurs
+"Tue, Dec 29, 2009 7:00 pm",Oklahoma City Thunder,Washington Wizards
+"Wed, Dec 30, 2009 7:00 pm",Atlanta Hawks,Cleveland Cavaliers
+"Wed, Dec 30, 2009 7:00 pm",Memphis Grizzlies,Indiana Pacers
+"Wed, Dec 30, 2009 7:00 pm",Utah Jazz,Minnesota Timberwolves
+"Wed, Dec 30, 2009 7:30 pm",New York Knicks,New Jersey Nets
+"Wed, Dec 30, 2009 7:00 pm",Miami Heat,New Orleans Hornets
+"Wed, Dec 30, 2009 7:00 pm",Milwaukee Bucks,Orlando Magic
+"Wed, Dec 30, 2009 7:00 pm",Boston Celtics,Phoenix Suns
+"Wed, Dec 30, 2009 7:00 pm",Los Angeles Clippers,Portland Trail Blazers
+"Wed, Dec 30, 2009 7:00 pm",Philadelphia 76ers,Sacramento Kings
+"Wed, Dec 30, 2009 7:00 pm",Charlotte Bobcats,Toronto Raptors
+"Thu, Dec 31, 2009 3:00 pm",Chicago Bulls,Detroit Pistons
+"Thu, Dec 31, 2009 6:00 pm",Dallas Mavericks,Houston Rockets
+"Thu, Dec 31, 2009 6:30 pm",Philadelphia 76ers,Los Angeles Clippers
+"Thu, Dec 31, 2009 7:00 pm",Utah Jazz,Oklahoma City Thunder
+"Thu, Dec 31, 2009 6:00 pm",Miami Heat,San Antonio Spurs
+"Fri, Jan 1, 2010 7:30 pm",New York Knicks,Atlanta Hawks
+"Fri, Jan 1, 2010 7:30 pm",Sacramento Kings,Los Angeles Lakers
+"Fri, Jan 1, 2010 7:00 pm",Orlando Magic,Minnesota Timberwolves
+"Sat, Jan 2, 2010 7:30 pm",Toronto Raptors,Boston Celtics
+"Sat, Jan 2, 2010 7:00 pm",Orlando Magic,Chicago Bulls
+"Sat, Jan 2, 2010 7:00 pm",Minnesota Timberwolves,Indiana Pacers
+"Sat, Jan 2, 2010 3:30 pm",Charlotte Bobcats,Miami Heat
+"Sat, Jan 2, 2010 7:30 pm",Oklahoma City Thunder,Milwaukee Bucks
+"Sat, Jan 2, 2010 1:00 pm",Cleveland Cavaliers,New Jersey Nets
+"Sat, Jan 2, 2010 7:00 pm",Houston Rockets,New Orleans Hornets
+"Sat, Jan 2, 2010 7:00 pm",Memphis Grizzlies,Phoenix Suns
+"Sat, Jan 2, 2010 7:00 pm",Golden State Warriors,Portland Trail Blazers
+"Sat, Jan 2, 2010 7:00 pm",Dallas Mavericks,Sacramento Kings
+"Sat, Jan 2, 2010 7:00 pm",Denver Nuggets,Utah Jazz
+"Sat, Jan 2, 2010 7:00 pm",San Antonio Spurs,Washington Wizards
+"Sun, Jan 3, 2010 6:00 pm",Charlotte Bobcats,Cleveland Cavaliers
+"Sun, Jan 3, 2010 6:00 pm",Philadelphia 76ers,Denver Nuggets
+"Sun, Jan 3, 2010 6:30 pm",Dallas Mavericks,Los Angeles Lakers
+"Sun, Jan 3, 2010 6:00 pm",Indiana Pacers,New York Knicks
+"Sun, Jan 3, 2010 6:00 pm",San Antonio Spurs,Toronto Raptors
+"Mon, Jan 4, 2010 7:00 pm",Oklahoma City Thunder,Chicago Bulls
+"Mon, Jan 4, 2010 7:30 pm",Portland Trail Blazers,Los Angeles Clippers
+"Mon, Jan 4, 2010 7:30 pm",Atlanta Hawks,Miami Heat
+"Mon, Jan 4, 2010 7:00 pm",New Orleans Hornets,Utah Jazz
+"Tue, Jan 5, 2010 7:00 pm",Chicago Bulls,Charlotte Bobcats
+"Tue, Jan 5, 2010 7:30 pm",Detroit Pistons,Dallas Mavericks
+"Tue, Jan 5, 2010 7:00 pm",Golden State Warriors,Denver Nuggets
+"Tue, Jan 5, 2010 7:00 pm",Orlando Magic,Indiana Pacers
+"Tue, Jan 5, 2010 7:30 pm",Houston Rockets,Los Angeles Lakers
+"Tue, Jan 5, 2010 7:30 pm",Milwaukee Bucks,New Jersey Nets
+"Tue, Jan 5, 2010 7:00 pm",Washington Wizards,Philadelphia 76ers
+"Tue, Jan 5, 2010 7:00 pm",Memphis Grizzlies,Portland Trail Blazers
+"Tue, Jan 5, 2010 7:00 pm",Phoenix Suns,Sacramento Kings
+"Wed, Jan 6, 2010 7:00 pm",New Jersey Nets,Atlanta Hawks
+"Wed, Jan 6, 2010 7:00 pm",Washington Wizards,Cleveland Cavaliers
+"Wed, Jan 6, 2010 7:30 pm",Los Angeles Lakers,Los Angeles Clippers
+"Wed, Jan 6, 2010 7:30 pm",Boston Celtics,Miami Heat
+"Wed, Jan 6, 2010 7:00 pm",Golden State Warriors,Minnesota Timberwolves
+"Wed, Jan 6, 2010 7:00 pm",New Orleans Hornets,Oklahoma City Thunder
+"Wed, Jan 6, 2010 7:00 pm",Toronto Raptors,Orlando Magic
+"Wed, Jan 6, 2010 7:00 pm",Houston Rockets,Phoenix Suns
+"Wed, Jan 6, 2010 7:30 pm",Detroit Pistons,San Antonio Spurs
+"Wed, Jan 6, 2010 7:00 pm",Memphis Grizzlies,Utah Jazz
+"Thu, Jan 7, 2010 7:30 pm",Charlotte Bobcats,New York Knicks
+"Fri, Jan 8, 2010 8:00 pm",Boston Celtics,Atlanta Hawks
+"Fri, Jan 8, 2010 8:30 pm",Cleveland Cavaliers,Denver Nuggets
+"Fri, Jan 8, 2010 7:30 pm",Sacramento Kings,Golden State Warriors
+"Fri, Jan 8, 2010 7:00 pm",Utah Jazz,Memphis Grizzlies
+"Fri, Jan 8, 2010 7:30 pm",Chicago Bulls,Milwaukee Bucks
+"Fri, Jan 8, 2010 7:00 pm",Indiana Pacers,Minnesota Timberwolves
+"Fri, Jan 8, 2010 7:00 pm",New Jersey Nets,New Orleans Hornets
+"Fri, Jan 8, 2010 7:00 pm",Toronto Raptors,Philadelphia 76ers
+"Fri, Jan 8, 2010 7:00 pm",Miami Heat,Phoenix Suns
+"Fri, Jan 8, 2010 7:00 pm",Los Angeles Lakers,Portland Trail Blazers
+"Fri, Jan 8, 2010 7:30 pm",Dallas Mavericks,San Antonio Spurs
+"Fri, Jan 8, 2010 7:00 pm",Orlando Magic,Washington Wizards
+"Sat, Jan 9, 2010 7:00 pm",Memphis Grizzlies,Charlotte Bobcats
+"Sat, Jan 9, 2010 7:00 pm",Minnesota Timberwolves,Chicago Bulls
+"Sat, Jan 9, 2010 7:30 pm",Utah Jazz,Dallas Mavericks
+"Sat, Jan 9, 2010 7:30 pm",Philadelphia 76ers,Detroit Pistons
+"Sat, Jan 9, 2010 7:30 pm",New York Knicks,Houston Rockets
+"Sat, Jan 9, 2010 7:00 pm",Indiana Pacers,Oklahoma City Thunder
+"Sat, Jan 9, 2010 7:00 pm",Atlanta Hawks,Orlando Magic
+"Sat, Jan 9, 2010 7:00 pm",Denver Nuggets,Sacramento Kings
+"Sun, Jan 10, 2010 12:30 pm",Miami Heat,Los Angeles Clippers
+"Sun, Jan 10, 2010 6:30 pm",Milwaukee Bucks,Los Angeles Lakers
+"Sun, Jan 10, 2010 6:00 pm",Cleveland Cavaliers,Portland Trail Blazers
+"Sun, Jan 10, 2010 6:00 pm",New Jersey Nets,San Antonio Spurs
+"Sun, Jan 10, 2010 1:00 pm",Boston Celtics,Toronto Raptors
+"Sun, Jan 10, 2010 1:00 pm",New Orleans Hornets,Washington Wizards
+"Mon, Jan 11, 2010 7:30 pm",Atlanta Hawks,Boston Celtics
+"Mon, Jan 11, 2010 7:00 pm",Detroit Pistons,Chicago Bulls
+"Mon, Jan 11, 2010 7:00 pm",Minnesota Timberwolves,Denver Nuggets
+"Mon, Jan 11, 2010 7:30 pm",Cleveland Cavaliers,Golden State Warriors
+"Mon, Jan 11, 2010 7:00 pm",Toronto Raptors,Indiana Pacers
+"Mon, Jan 11, 2010 7:00 pm",New York Knicks,Oklahoma City Thunder
+"Mon, Jan 11, 2010 7:00 pm",New Orleans Hornets,Philadelphia 76ers
+"Mon, Jan 11, 2010 7:00 pm",Milwaukee Bucks,Phoenix Suns
+"Mon, Jan 11, 2010 7:00 pm",Miami Heat,Utah Jazz
+"Tue, Jan 12, 2010 7:00 pm",Houston Rockets,Charlotte Bobcats
+"Tue, Jan 12, 2010 7:00 pm",Los Angeles Clippers,Memphis Grizzlies
+"Tue, Jan 12, 2010 7:00 pm",Orlando Magic,Sacramento Kings
+"Tue, Jan 12, 2010 7:30 pm",Los Angeles Lakers,San Antonio Spurs
+"Tue, Jan 12, 2010 7:00 pm",Detroit Pistons,Washington Wizards
+"Wed, Jan 13, 2010 7:00 pm",Washington Wizards,Atlanta Hawks
+"Wed, Jan 13, 2010 7:30 pm",Los Angeles Lakers,Dallas Mavericks
+"Wed, Jan 13, 2010 7:00 pm",Orlando Magic,Denver Nuggets
+"Wed, Jan 13, 2010 7:30 pm",Miami Heat,Golden State Warriors
+"Wed, Jan 13, 2010 7:30 pm",Minnesota Timberwolves,Houston Rockets
+"Wed, Jan 13, 2010 7:00 pm",Phoenix Suns,Indiana Pacers
+"Wed, Jan 13, 2010 7:30 pm",Boston Celtics,New Jersey Nets
+"Wed, Jan 13, 2010 7:00 pm",Los Angeles Clippers,New Orleans Hornets
+"Wed, Jan 13, 2010 7:00 pm",San Antonio Spurs,Oklahoma City Thunder
+"Wed, Jan 13, 2010 7:00 pm",New York Knicks,Philadelphia 76ers
+"Wed, Jan 13, 2010 7:00 pm",Milwaukee Bucks,Portland Trail Blazers
+"Thu, Jan 14, 2010 8:00 pm",Chicago Bulls,Boston Celtics
+"Thu, Jan 14, 2010 8:30 pm",Cleveland Cavaliers,Utah Jazz
+"Fri, Jan 15, 2010 8:00 pm",Phoenix Suns,Atlanta Hawks
+"Fri, Jan 15, 2010 7:00 pm",San Antonio Spurs,Charlotte Bobcats
+"Fri, Jan 15, 2010 7:00 pm",Washington Wizards,Chicago Bulls
+"Fri, Jan 15, 2010 7:30 pm",Oklahoma City Thunder,Dallas Mavericks
+"Fri, Jan 15, 2010 8:00 pm",New Orleans Hornets,Detroit Pistons
+"Fri, Jan 15, 2010 7:30 pm",Milwaukee Bucks,Golden State Warriors
+"Fri, Jan 15, 2010 7:30 pm",Miami Heat,Houston Rockets
+"Fri, Jan 15, 2010 7:30 pm",Los Angeles Clippers,Los Angeles Lakers
+"Fri, Jan 15, 2010 7:00 pm",Minnesota Timberwolves,Memphis Grizzlies
+"Fri, Jan 15, 2010 8:00 pm",Indiana Pacers,New Jersey Nets
+"Fri, Jan 15, 2010 8:00 pm",Toronto Raptors,New York Knicks
+"Fri, Jan 15, 2010 7:00 pm",Sacramento Kings,Philadelphia 76ers
+"Fri, Jan 15, 2010 7:30 pm",Orlando Magic,Portland Trail Blazers
+"Sat, Jan 16, 2010 7:00 pm",Phoenix Suns,Charlotte Bobcats
+"Sat, Jan 16, 2010 7:30 pm",New York Knicks,Detroit Pistons
+"Sat, Jan 16, 2010 6:00 pm",New Orleans Hornets,Indiana Pacers
+"Sat, Jan 16, 2010 7:30 pm",Cleveland Cavaliers,Los Angeles Clippers
+"Sat, Jan 16, 2010 7:00 pm",San Antonio Spurs,Memphis Grizzlies
+"Sat, Jan 16, 2010 7:00 pm",Miami Heat,Oklahoma City Thunder
+"Sat, Jan 16, 2010 7:00 pm",Milwaukee Bucks,Utah Jazz
+"Sat, Jan 16, 2010 7:00 pm",Sacramento Kings,Washington Wizards
+"Sun, Jan 17, 2010 7:00 pm",Utah Jazz,Denver Nuggets
+"Sun, Jan 17, 2010 12:30 pm",Dallas Mavericks,Toronto Raptors
+"Mon, Jan 18, 2010 2:00 pm",Oklahoma City Thunder,Atlanta Hawks
+"Mon, Jan 18, 2010 8:00 pm",Dallas Mavericks,Boston Celtics
+"Mon, Jan 18, 2010 2:00 pm",Sacramento Kings,Charlotte Bobcats
+"Mon, Jan 18, 2010 1:00 pm",Chicago Bulls,Golden State Warriors
+"Mon, Jan 18, 2010 2:00 pm",Milwaukee Bucks,Houston Rockets
+"Mon, Jan 18, 2010 12:30 pm",New Jersey Nets,Los Angeles Clippers
+"Mon, Jan 18, 2010 7:30 pm",Orlando Magic,Los Angeles Lakers
+"Mon, Jan 18, 2010 4:30 pm",Phoenix Suns,Memphis Grizzlies
+"Mon, Jan 18, 2010 2:30 pm",Philadelphia 76ers,Minnesota Timberwolves
+"Mon, Jan 18, 2010 2:30 pm",San Antonio Spurs,New Orleans Hornets
+"Mon, Jan 18, 2010 1:00 pm",Detroit Pistons,New York Knicks
+"Mon, Jan 18, 2010 1:00 pm",Portland Trail Blazers,Washington Wizards
+"Tue, Jan 19, 2010 7:00 pm",Toronto Raptors,Cleveland Cavaliers
+"Tue, Jan 19, 2010 7:30 pm",Indiana Pacers,Miami Heat
+"Wed, Jan 20, 2010 7:00 pm",Sacramento Kings,Atlanta Hawks
+"Wed, Jan 20, 2010 7:00 pm",Miami Heat,Charlotte Bobcats
+"Wed, Jan 20, 2010 7:30 pm",Boston Celtics,Detroit Pistons
+"Wed, Jan 20, 2010 7:30 pm",Denver Nuggets,Golden State Warriors
+"Wed, Jan 20, 2010 7:30 pm",Chicago Bulls,Los Angeles Clippers
+"Wed, Jan 20, 2010 7:00 pm",Toronto Raptors,Milwaukee Bucks
+"Wed, Jan 20, 2010 7:00 pm",Oklahoma City Thunder,Minnesota Timberwolves
+"Wed, Jan 20, 2010 7:00 pm",Memphis Grizzlies,New Orleans Hornets
+"Wed, Jan 20, 2010 7:00 pm",Indiana Pacers,Orlando Magic
+"Wed, Jan 20, 2010 7:00 pm",Portland Trail Blazers,Philadelphia 76ers
+"Wed, Jan 20, 2010 7:00 pm",New Jersey Nets,Phoenix Suns
+"Wed, Jan 20, 2010 8:00 pm",Utah Jazz,San Antonio Spurs
+"Wed, Jan 20, 2010 7:00 pm",Dallas Mavericks,Washington Wizards
+"Thu, Jan 21, 2010 8:00 pm",Los Angeles Lakers,Cleveland Cavaliers
+"Thu, Jan 21, 2010 8:30 pm",Los Angeles Clippers,Denver Nuggets
+"Fri, Jan 22, 2010 7:30 pm",Charlotte Bobcats,Atlanta Hawks
+"Fri, Jan 22, 2010 7:30 pm",Portland Trail Blazers,Boston Celtics
+"Fri, Jan 22, 2010 8:00 pm",Indiana Pacers,Detroit Pistons
+"Fri, Jan 22, 2010 7:30 pm",New Jersey Nets,Golden State Warriors
+"Fri, Jan 22, 2010 7:00 pm",Oklahoma City Thunder,Memphis Grizzlies
+"Fri, Jan 22, 2010 7:00 pm",New Orleans Hornets,Minnesota Timberwolves
+"Fri, Jan 22, 2010 8:00 pm",Los Angeles Lakers,New York Knicks
+"Fri, Jan 22, 2010 7:00 pm",Sacramento Kings,Orlando Magic
+"Fri, Jan 22, 2010 7:00 pm",Dallas Mavericks,Philadelphia 76ers
+"Fri, Jan 22, 2010 8:30 pm",Chicago Bulls,Phoenix Suns
+"Fri, Jan 22, 2010 7:30 pm",Houston Rockets,San Antonio Spurs
+"Fri, Jan 22, 2010 7:00 pm",Milwaukee Bucks,Toronto Raptors
+"Fri, Jan 22, 2010 7:00 pm",Miami Heat,Washington Wizards
+"Sat, Jan 23, 2010 7:00 pm",Orlando Magic,Charlotte Bobcats
+"Sat, Jan 23, 2010 7:30 pm",Oklahoma City Thunder,Cleveland Cavaliers
+"Sat, Jan 23, 2010 7:00 pm",New Orleans Hornets,Denver Nuggets
+"Sat, Jan 23, 2010 7:30 pm",Portland Trail Blazers,Detroit Pistons
+"Sat, Jan 23, 2010 7:30 pm",Chicago Bulls,Houston Rockets
+"Sat, Jan 23, 2010 7:00 pm",Philadelphia 76ers,Indiana Pacers
+"Sat, Jan 23, 2010 7:30 pm",Sacramento Kings,Miami Heat
+"Sat, Jan 23, 2010 7:30 pm",Minnesota Timberwolves,Milwaukee Bucks
+"Sat, Jan 23, 2010 7:00 pm",Golden State Warriors,Phoenix Suns
+"Sat, Jan 23, 2010 7:00 pm",New Jersey Nets,Utah Jazz
+"Sun, Jan 24, 2010 1:00 pm",Dallas Mavericks,New York Knicks
+"Sun, Jan 24, 2010 6:00 pm",Los Angeles Lakers,Toronto Raptors
+"Sun, Jan 24, 2010 1:00 pm",Los Angeles Clippers,Washington Wizards
+"Mon, Jan 25, 2010 7:30 pm",Los Angeles Clippers,Boston Celtics
+"Mon, Jan 25, 2010 7:00 pm",Charlotte Bobcats,Denver Nuggets
+"Mon, Jan 25, 2010 7:30 pm",Atlanta Hawks,Houston Rockets
+"Mon, Jan 25, 2010 7:00 pm",Orlando Magic,Memphis Grizzlies
+"Mon, Jan 25, 2010 7:30 pm",Cleveland Cavaliers,Miami Heat
+"Mon, Jan 25, 2010 7:00 pm",Indiana Pacers,Philadelphia 76ers
+"Mon, Jan 25, 2010 7:00 pm",New Orleans Hornets,Portland Trail Blazers
+"Mon, Jan 25, 2010 7:30 pm",Chicago Bulls,San Antonio Spurs
+"Mon, Jan 25, 2010 7:00 pm",Phoenix Suns,Utah Jazz
+"Tue, Jan 26, 2010 7:30 pm",Milwaukee Bucks,Dallas Mavericks
+"Tue, Jan 26, 2010 7:30 pm",Minnesota Timberwolves,New York Knicks
+"Tue, Jan 26, 2010 7:00 pm",Charlotte Bobcats,Phoenix Suns
+"Tue, Jan 26, 2010 7:00 pm",Golden State Warriors,Sacramento Kings
+"Tue, Jan 26, 2010 7:00 pm",Los Angeles Lakers,Washington Wizards
+"Wed, Jan 27, 2010 7:00 pm",Minnesota Timberwolves,Cleveland Cavaliers
+"Wed, Jan 27, 2010 7:30 pm",Memphis Grizzlies,Detroit Pistons
+"Wed, Jan 27, 2010 7:30 pm",New Orleans Hornets,Golden State Warriors
+"Wed, Jan 27, 2010 7:30 pm",Denver Nuggets,Houston Rockets
+"Wed, Jan 27, 2010 7:00 pm",Los Angeles Lakers,Indiana Pacers
+"Wed, Jan 27, 2010 7:00 pm",Philadelphia 76ers,Milwaukee Bucks
+"Wed, Jan 27, 2010 7:30 pm",Los Angeles Clippers,New Jersey Nets
+"Wed, Jan 27, 2010 7:00 pm",Chicago Bulls,Oklahoma City Thunder
+"Wed, Jan 27, 2010 7:00 pm",Utah Jazz,Portland Trail Blazers
+"Wed, Jan 27, 2010 7:30 pm",Atlanta Hawks,San Antonio Spurs
+"Wed, Jan 27, 2010 7:00 pm",Miami Heat,Toronto Raptors
+"Thu, Jan 28, 2010 7:30 pm",Toronto Raptors,New York Knicks
+"Thu, Jan 28, 2010 8:00 pm",Boston Celtics,Orlando Magic
+"Thu, Jan 28, 2010 8:30 pm",Dallas Mavericks,Phoenix Suns
+"Fri, Jan 29, 2010 7:30 pm",Boston Celtics,Atlanta Hawks
+"Fri, Jan 29, 2010 8:00 pm",Miami Heat,Detroit Pistons
+"Fri, Jan 29, 2010 7:30 pm",Charlotte Bobcats,Golden State Warriors
+"Fri, Jan 29, 2010 7:30 pm",Portland Trail Blazers,Houston Rockets
+"Fri, Jan 29, 2010 7:00 pm",Cleveland Cavaliers,Indiana Pacers
+"Fri, Jan 29, 2010 7:00 pm",Los Angeles Clippers,Minnesota Timberwolves
+"Fri, Jan 29, 2010 8:00 pm",Washington Wizards,New Jersey Nets
+"Fri, Jan 29, 2010 7:00 pm",Chicago Bulls,New Orleans Hornets
+"Fri, Jan 29, 2010 7:00 pm",Denver Nuggets,Oklahoma City Thunder
+"Fri, Jan 29, 2010 7:00 pm",Los Angeles Lakers,Philadelphia 76ers
+"Fri, Jan 29, 2010 7:30 pm",Memphis Grizzlies,San Antonio Spurs
+"Fri, Jan 29, 2010 7:00 pm",Sacramento Kings,Utah Jazz
+"Sat, Jan 30, 2010 8:00 pm",Portland Trail Blazers,Dallas Mavericks
+"Sat, Jan 30, 2010 7:00 pm",New Orleans Hornets,Memphis Grizzlies
+"Sat, Jan 30, 2010 7:30 pm",Miami Heat,Milwaukee Bucks
+"Sat, Jan 30, 2010 7:00 pm",Atlanta Hawks,Orlando Magic
+"Sat, Jan 30, 2010 7:00 pm",Charlotte Bobcats,Sacramento Kings
+"Sat, Jan 30, 2010 8:00 pm",New York Knicks,Washington Wizards
+"Sun, Jan 31, 2010 3:30 pm",Los Angeles Lakers,Boston Celtics
+"Sun, Jan 31, 2010 6:00 pm",Los Angeles Clippers,Cleveland Cavaliers
+"Sun, Jan 31, 2010 6:00 pm",Orlando Magic,Detroit Pistons
+"Sun, Jan 31, 2010 6:00 pm",Phoenix Suns,Houston Rockets
+"Sun, Jan 31, 2010 6:00 pm",New York Knicks,Minnesota Timberwolves
+"Sun, Jan 31, 2010 6:00 pm",Philadelphia 76ers,New Jersey Nets
+"Sun, Jan 31, 2010 6:00 pm",Golden State Warriors,Oklahoma City Thunder
+"Sun, Jan 31, 2010 12:00 pm",Denver Nuggets,San Antonio Spurs
+"Sun, Jan 31, 2010 6:00 pm",Indiana Pacers,Toronto Raptors
+"Mon, Feb 1, 2010 7:00 pm",Sacramento Kings,Denver Nuggets
+"Mon, Feb 1, 2010 7:00 pm",Los Angeles Lakers,Memphis Grizzlies
+"Mon, Feb 1, 2010 7:30 pm",Milwaukee Bucks,Miami Heat
+"Mon, Feb 1, 2010 7:00 pm",Phoenix Suns,New Orleans Hornets
+"Mon, Feb 1, 2010 7:00 pm",Charlotte Bobcats,Portland Trail Blazers
+"Mon, Feb 1, 2010 7:00 pm",Dallas Mavericks,Utah Jazz
+"Mon, Feb 1, 2010 7:00 pm",Boston Celtics,Washington Wizards
+"Tue, Feb 2, 2010 7:00 pm",Los Angeles Clippers,Chicago Bulls
+"Tue, Feb 2, 2010 7:00 pm",Memphis Grizzlies,Cleveland Cavaliers
+"Tue, Feb 2, 2010 7:30 pm",Golden State Warriors,Houston Rockets
+"Tue, Feb 2, 2010 7:00 pm",Toronto Raptors,Indiana Pacers
+"Tue, Feb 2, 2010 7:30 pm",Detroit Pistons,New Jersey Nets
+"Tue, Feb 2, 2010 7:00 pm",Atlanta Hawks,Oklahoma City Thunder
+"Tue, Feb 2, 2010 7:00 pm",Milwaukee Bucks,Orlando Magic
+"Wed, Feb 3, 2010 7:00 pm",Los Angeles Clippers,Atlanta Hawks
+"Wed, Feb 3, 2010 8:00 pm",Miami Heat,Boston Celtics
+"Wed, Feb 3, 2010 7:30 pm",Golden State Warriors,Dallas Mavericks
+"Wed, Feb 3, 2010 8:30 pm",Phoenix Suns,Denver Nuggets
+"Wed, Feb 3, 2010 7:30 pm",Charlotte Bobcats,Los Angeles Lakers
+"Wed, Feb 3, 2010 7:00 pm",Oklahoma City Thunder,New Orleans Hornets
+"Wed, Feb 3, 2010 7:30 pm",Washington Wizards,New York Knicks
+"Wed, Feb 3, 2010 7:00 pm",Chicago Bulls,Philadelphia 76ers
+"Wed, Feb 3, 2010 7:00 pm",San Antonio Spurs,Sacramento Kings
+"Wed, Feb 3, 2010 7:00 pm",New Jersey Nets,Toronto Raptors
+"Wed, Feb 3, 2010 7:00 pm",Portland Trail Blazers,Utah Jazz
+"Thu, Feb 4, 2010 8:00 pm",Miami Heat,Cleveland Cavaliers
+"Thu, Feb 4, 2010 7:30 pm",San Antonio Spurs,Portland Trail Blazers
+"Fri, Feb 5, 2010 8:00 pm",Chicago Bulls,Atlanta Hawks
+"Fri, Feb 5, 2010 7:30 pm",New Jersey Nets,Boston Celtics
+"Fri, Feb 5, 2010 7:30 pm",Minnesota Timberwolves,Dallas Mavericks
+"Fri, Feb 5, 2010 7:00 pm",Detroit Pistons,Indiana Pacers
+"Fri, Feb 5, 2010 7:30 pm",Denver Nuggets,Los Angeles Lakers
+"Fri, Feb 5, 2010 7:00 pm",Houston Rockets,Memphis Grizzlies
+"Fri, Feb 5, 2010 7:00 pm",Philadelphia 76ers,New Orleans Hornets
+"Fri, Feb 5, 2010 7:30 pm",Milwaukee Bucks,New York Knicks
+"Fri, Feb 5, 2010 7:00 pm",Washington Wizards,Orlando Magic
+"Fri, Feb 5, 2010 7:00 pm",Phoenix Suns,Sacramento Kings
+"Sat, Feb 6, 2010 7:00 pm",New Orleans Hornets,Charlotte Bobcats
+"Sat, Feb 6, 2010 7:00 pm",Miami Heat,Chicago Bulls
+"Sat, Feb 6, 2010 7:30 pm",New York Knicks,Cleveland Cavaliers
+"Sat, Feb 6, 2010 7:30 pm",New Jersey Nets,Detroit Pistons
+"Sat, Feb 6, 2010 7:30 pm",Oklahoma City Thunder,Golden State Warriors
+"Sat, Feb 6, 2010 7:30 pm",Philadelphia 76ers,Houston Rockets
+"Sat, Feb 6, 2010 7:30 pm",San Antonio Spurs,Los Angeles Clippers
+"Sat, Feb 6, 2010 7:30 pm",Indiana Pacers,Milwaukee Bucks
+"Sat, Feb 6, 2010 7:00 pm",Memphis Grizzlies,Minnesota Timberwolves
+"Sat, Feb 6, 2010 7:00 pm",Los Angeles Lakers,Portland Trail Blazers
+"Sat, Feb 6, 2010 7:00 pm",Denver Nuggets,Utah Jazz
+"Sun, Feb 7, 2010 2:30 pm",Orlando Magic,Boston Celtics
+"Sun, Feb 7, 2010 12:00 pm",Sacramento Kings,Toronto Raptors
+"Mon, Feb 8, 2010 7:30 pm",Dallas Mavericks,Golden State Warriors
+"Mon, Feb 8, 2010 7:30 pm",San Antonio Spurs,Los Angeles Lakers
+"Mon, Feb 8, 2010 8:00 pm",New Orleans Hornets,Orlando Magic
+"Tue, Feb 9, 2010 7:00 pm",Washington Wizards,Charlotte Bobcats
+"Tue, Feb 9, 2010 7:00 pm",New Jersey Nets,Cleveland Cavaliers
+"Tue, Feb 9, 2010 7:00 pm",Dallas Mavericks,Denver Nuggets
+"Tue, Feb 9, 2010 7:00 pm",Chicago Bulls,Indiana Pacers
+"Tue, Feb 9, 2010 7:30 pm",Utah Jazz,Los Angeles Clippers
+"Tue, Feb 9, 2010 7:00 pm",Atlanta Hawks,Memphis Grizzlies
+"Tue, Feb 9, 2010 7:30 pm",Houston Rockets,Miami Heat
+"Tue, Feb 9, 2010 7:00 pm",Detroit Pistons,Milwaukee Bucks
+"Tue, Feb 9, 2010 7:30 pm",Sacramento Kings,New York Knicks
+"Tue, Feb 9, 2010 7:00 pm",Minnesota Timberwolves,Philadelphia 76ers
+"Tue, Feb 9, 2010 7:00 pm",Oklahoma City Thunder,Portland Trail Blazers
+"Wed, Feb 10, 2010 7:00 pm",Miami Heat,Atlanta Hawks
+"Wed, Feb 10, 2010 7:00 pm",Orlando Magic,Chicago Bulls
+"Wed, Feb 10, 2010 7:30 pm",Sacramento Kings,Detroit Pistons
+"Wed, Feb 10, 2010 7:30 pm",Los Angeles Clippers,Golden State Warriors
+"Wed, Feb 10, 2010 7:00 pm",Charlotte Bobcats,Minnesota Timberwolves
+"Wed, Feb 10, 2010 7:30 pm",Milwaukee Bucks,New Jersey Nets
+"Wed, Feb 10, 2010 7:00 pm",Boston Celtics,New Orleans Hornets
+"Wed, Feb 10, 2010 7:00 pm",Portland Trail Blazers,Phoenix Suns
+"Wed, Feb 10, 2010 7:00 pm",Philadelphia 76ers,Toronto Raptors
+"Wed, Feb 10, 2010 7:00 pm",Los Angeles Lakers,Utah Jazz
+"Thu, Feb 11, 2010 8:00 pm",Orlando Magic,Cleveland Cavaliers
+"Thu, Feb 11, 2010 8:30 pm",San Antonio Spurs,Denver Nuggets
+"Tue, Feb 16, 2010 7:00 pm",New Jersey Nets,Charlotte Bobcats
+"Tue, Feb 16, 2010 7:00 pm",New York Knicks,Chicago Bulls
+"Tue, Feb 16, 2010 7:30 pm",Minnesota Timberwolves,Detroit Pistons
+"Tue, Feb 16, 2010 7:30 pm",Utah Jazz,Houston Rockets
+"Tue, Feb 16, 2010 7:30 pm",Golden State Warriors,Los Angeles Lakers
+"Tue, Feb 16, 2010 7:00 pm",Phoenix Suns,Memphis Grizzlies
+"Tue, Feb 16, 2010 7:00 pm",Dallas Mavericks,Oklahoma City Thunder
+"Tue, Feb 16, 2010 7:00 pm",Miami Heat,Philadelphia 76ers
+"Tue, Feb 16, 2010 7:00 pm",Los Angeles Clippers,Portland Trail Blazers
+"Tue, Feb 16, 2010 7:00 pm",Boston Celtics,Sacramento Kings
+"Wed, Feb 17, 2010 8:00 pm",Phoenix Suns,Dallas Mavericks
+"Wed, Feb 17, 2010 7:30 pm",Sacramento Kings,Golden State Warriors
+"Wed, Feb 17, 2010 7:00 pm",San Antonio Spurs,Indiana Pacers
+"Wed, Feb 17, 2010 7:30 pm",Atlanta Hawks,Los Angeles Clippers
+"Wed, Feb 17, 2010 7:00 pm",Houston Rockets,Milwaukee Bucks
+"Wed, Feb 17, 2010 7:30 pm",Miami Heat,New Jersey Nets
+"Wed, Feb 17, 2010 7:00 pm",Utah Jazz,New Orleans Hornets
+"Wed, Feb 17, 2010 7:30 pm",Chicago Bulls,New York Knicks
+"Wed, Feb 17, 2010 7:00 pm",Detroit Pistons,Orlando Magic
+"Wed, Feb 17, 2010 7:00 pm",Memphis Grizzlies,Toronto Raptors
+"Wed, Feb 17, 2010 7:00 pm",Minnesota Timberwolves,Washington Wizards
+"Thu, Feb 18, 2010 8:00 pm",Denver Nuggets,Cleveland Cavaliers
+"Thu, Feb 18, 2010 7:30 pm",Boston Celtics,Los Angeles Lakers
+"Fri, Feb 19, 2010 7:00 pm",Cleveland Cavaliers,Charlotte Bobcats
+"Fri, Feb 19, 2010 8:00 pm",Milwaukee Bucks,Detroit Pistons
+"Fri, Feb 19, 2010 7:30 pm",Utah Jazz,Golden State Warriors
+"Fri, Feb 19, 2010 7:00 pm",Miami Heat,Memphis Grizzlies
+"Fri, Feb 19, 2010 7:00 pm",Chicago Bulls,Minnesota Timberwolves
+"Fri, Feb 19, 2010 8:00 pm",Toronto Raptors,New Jersey Nets
+"Fri, Feb 19, 2010 7:00 pm",Indiana Pacers,New Orleans Hornets
+"Fri, Feb 19, 2010 8:00 pm",Dallas Mavericks,Orlando Magic
+"Fri, Feb 19, 2010 7:00 pm",San Antonio Spurs,Philadelphia 76ers
+"Fri, Feb 19, 2010 7:00 pm",Atlanta Hawks,Phoenix Suns
+"Fri, Feb 19, 2010 7:30 pm",Boston Celtics,Portland Trail Blazers
+"Fri, Feb 19, 2010 7:00 pm",Denver Nuggets,Washington Wizards
+"Sat, Feb 20, 2010 7:00 pm",Philadelphia 76ers,Chicago Bulls
+"Sat, Feb 20, 2010 7:30 pm",Miami Heat,Dallas Mavericks
+"Sat, Feb 20, 2010 7:30 pm",Indiana Pacers,Houston Rockets
+"Sat, Feb 20, 2010 7:30 pm",Sacramento Kings,Los Angeles Clippers
+"Sat, Feb 20, 2010 7:30 pm",Charlotte Bobcats,Milwaukee Bucks
+"Sat, Feb 20, 2010 7:30 pm",Oklahoma City Thunder,New York Knicks
+"Sat, Feb 20, 2010 7:00 pm",Washington Wizards,Toronto Raptors
+"Sun, Feb 21, 2010 1:30 pm",Boston Celtics,Denver Nuggets
+"Sun, Feb 21, 2010 6:00 pm",San Antonio Spurs,Detroit Pistons
+"Sun, Feb 21, 2010 5:00 pm",Atlanta Hawks,Golden State Warriors
+"Sun, Feb 21, 2010 6:00 pm",Oklahoma City Thunder,Minnesota Timberwolves
+"Sun, Feb 21, 2010 6:00 pm",Memphis Grizzlies,New Jersey Nets
+"Sun, Feb 21, 2010 6:00 pm",Houston Rockets,New Orleans Hornets
+"Sun, Feb 21, 2010 1:00 pm",Cleveland Cavaliers,Orlando Magic
+"Sun, Feb 21, 2010 6:00 pm",Sacramento Kings,Phoenix Suns
+"Sun, Feb 21, 2010 7:30 pm",Utah Jazz,Portland Trail Blazers
+"Mon, Feb 22, 2010 7:30 pm",Indiana Pacers,Dallas Mavericks
+"Mon, Feb 22, 2010 7:30 pm",Charlotte Bobcats,Los Angeles Clippers
+"Mon, Feb 22, 2010 7:30 pm",Milwaukee Bucks,New York Knicks
+"Mon, Feb 22, 2010 7:00 pm",Atlanta Hawks,Utah Jazz
+"Mon, Feb 22, 2010 7:00 pm",Chicago Bulls,Washington Wizards
+"Tue, Feb 23, 2010 7:30 pm",New York Knicks,Boston Celtics
+"Tue, Feb 23, 2010 7:00 pm",New Orleans Hornets,Cleveland Cavaliers
+"Tue, Feb 23, 2010 7:30 pm",Philadelphia 76ers,Golden State Warriors
+"Tue, Feb 23, 2010 7:00 pm",Los Angeles Lakers,Memphis Grizzlies
+"Tue, Feb 23, 2010 7:30 pm",Minnesota Timberwolves,Miami Heat
+"Tue, Feb 23, 2010 7:30 pm",Portland Trail Blazers,New Jersey Nets
+"Tue, Feb 23, 2010 7:00 pm",Phoenix Suns,Oklahoma City Thunder
+"Tue, Feb 23, 2010 7:00 pm",Detroit Pistons,Sacramento Kings
+"Wed, Feb 24, 2010 7:00 pm",Minnesota Timberwolves,Atlanta Hawks
+"Wed, Feb 24, 2010 7:00 pm",Indiana Pacers,Chicago Bulls
+"Wed, Feb 24, 2010 8:00 pm",Los Angeles Lakers,Dallas Mavericks
+"Wed, Feb 24, 2010 7:30 pm",Orlando Magic,Houston Rockets
+"Wed, Feb 24, 2010 7:30 pm",Detroit Pistons,Los Angeles Clippers
+"Wed, Feb 24, 2010 7:00 pm",New Orleans Hornets,Milwaukee Bucks
+"Wed, Feb 24, 2010 7:00 pm",Philadelphia 76ers,Phoenix Suns
+"Wed, Feb 24, 2010 7:30 pm",Oklahoma City Thunder,San Antonio Spurs
+"Wed, Feb 24, 2010 7:00 pm",Portland Trail Blazers,Toronto Raptors
+"Wed, Feb 24, 2010 7:00 pm",Charlotte Bobcats,Utah Jazz
+"Wed, Feb 24, 2010 7:00 pm",Memphis Grizzlies,Washington Wizards
+"Thu, Feb 25, 2010 8:00 pm",Cleveland Cavaliers,Boston Celtics
+"Thu, Feb 25, 2010 7:30 pm",Denver Nuggets,Golden State Warriors
+"Thu, Feb 25, 2010 7:00 pm",Milwaukee Bucks,Indiana Pacers
+"Fri, Feb 26, 2010 7:00 pm",Dallas Mavericks,Atlanta Hawks
+"Fri, Feb 26, 2010 7:00 pm",Portland Trail Blazers,Chicago Bulls
+"Fri, Feb 26, 2010 7:00 pm",Detroit Pistons,Denver Nuggets
+"Fri, Feb 26, 2010 7:30 pm",San Antonio Spurs,Houston Rockets
+"Fri, Feb 26, 2010 7:30 pm",Philadelphia 76ers,Los Angeles Lakers
+"Fri, Feb 26, 2010 7:00 pm",Charlotte Bobcats,Memphis Grizzlies
+"Fri, Feb 26, 2010 8:30 pm",Orlando Magic,New Orleans Hornets
+"Fri, Feb 26, 2010 7:00 pm",Minnesota Timberwolves,Oklahoma City Thunder
+"Fri, Feb 26, 2010 7:00 pm",Los Angeles Clippers,Phoenix Suns
+"Fri, Feb 26, 2010 7:00 pm",Utah Jazz,Sacramento Kings
+"Fri, Feb 26, 2010 7:00 pm",Cleveland Cavaliers,Toronto Raptors
+"Fri, Feb 26, 2010 7:00 pm",New York Knicks,Washington Wizards
+"Sat, Feb 27, 2010 1:00 pm",New Jersey Nets,Boston Celtics
+"Sat, Feb 27, 2010 7:30 pm",Detroit Pistons,Golden State Warriors
+"Sat, Feb 27, 2010 7:00 pm",Chicago Bulls,Indiana Pacers
+"Sat, Feb 27, 2010 3:30 pm",Milwaukee Bucks,Miami Heat
+"Sat, Feb 27, 2010 7:00 pm",Portland Trail Blazers,Minnesota Timberwolves
+"Sat, Feb 27, 2010 7:30 pm",Memphis Grizzlies,New York Knicks
+"Sat, Feb 27, 2010 7:00 pm",Houston Rockets,Utah Jazz
+"Sun, Feb 28, 2010 6:00 pm",Milwaukee Bucks,Atlanta Hawks
+"Sun, Feb 28, 2010 8:30 pm",New Orleans Hornets,Dallas Mavericks
+"Sun, Feb 28, 2010 12:30 pm",Denver Nuggets,Los Angeles Lakers
+"Sun, Feb 28, 2010 6:00 pm",Washington Wizards,New Jersey Nets
+"Sun, Feb 28, 2010 6:00 pm",Toronto Raptors,Oklahoma City Thunder
+"Sun, Feb 28, 2010 7:00 pm",Miami Heat,Orlando Magic
+"Sun, Feb 28, 2010 6:00 pm",Los Angeles Clippers,Sacramento Kings
+"Sun, Feb 28, 2010 12:00 pm",Phoenix Suns,San Antonio Spurs
+"Mon, Mar 1, 2010 7:00 pm",Dallas Mavericks,Charlotte Bobcats
+"Mon, Mar 1, 2010 7:00 pm",Atlanta Hawks,Chicago Bulls
+"Mon, Mar 1, 2010 7:00 pm",New York Knicks,Cleveland Cavaliers
+"Mon, Mar 1, 2010 7:30 pm",Toronto Raptors,Houston Rockets
+"Mon, Mar 1, 2010 7:30 pm",Utah Jazz,Los Angeles Clippers
+"Mon, Mar 1, 2010 7:00 pm",Portland Trail Blazers,Memphis Grizzlies
+"Mon, Mar 1, 2010 7:00 pm",San Antonio Spurs,New Orleans Hornets
+"Mon, Mar 1, 2010 7:00 pm",Orlando Magic,Philadelphia 76ers
+"Mon, Mar 1, 2010 7:00 pm",Denver Nuggets,Phoenix Suns
+"Tue, Mar 2, 2010 7:30 pm",Boston Celtics,Detroit Pistons
+"Tue, Mar 2, 2010 7:30 pm",Indiana Pacers,Los Angeles Lakers
+"Tue, Mar 2, 2010 7:30 pm",Golden State Warriors,Miami Heat
+"Tue, Mar 2, 2010 7:00 pm",Sacramento Kings,Oklahoma City Thunder
+"Wed, Mar 3, 2010 7:00 pm",Philadelphia 76ers,Atlanta Hawks
+"Wed, Mar 3, 2010 7:30 pm",Charlotte Bobcats,Boston Celtics
+"Wed, Mar 3, 2010 7:30 pm",Minnesota Timberwolves,Dallas Mavericks
+"Wed, Mar 3, 2010 7:00 pm",Oklahoma City Thunder,Denver Nuggets
+"Wed, Mar 3, 2010 7:30 pm",Sacramento Kings,Houston Rockets
+"Wed, Mar 3, 2010 7:30 pm",Phoenix Suns,Los Angeles Clippers
+"Wed, Mar 3, 2010 7:00 pm",Washington Wizards,Milwaukee Bucks
+"Wed, Mar 3, 2010 7:30 pm",Cleveland Cavaliers,New Jersey Nets
+"Wed, Mar 3, 2010 7:00 pm",Memphis Grizzlies,New Orleans Hornets
+"Wed, Mar 3, 2010 7:30 pm",Detroit Pistons,New York Knicks
+"Wed, Mar 3, 2010 7:00 pm",Golden State Warriors,Orlando Magic
+"Wed, Mar 3, 2010 7:00 pm",Indiana Pacers,Portland Trail Blazers
+"Thu, Mar 4, 2010 7:00 pm",Memphis Grizzlies,Chicago Bulls
+"Thu, Mar 4, 2010 8:00 pm",Los Angeles Lakers,Miami Heat
+"Thu, Mar 4, 2010 8:30 pm",Utah Jazz,Phoenix Suns
+"Fri, Mar 5, 2010 7:30 pm",Golden State Warriors,Atlanta Hawks
+"Fri, Mar 5, 2010 7:00 pm",Los Angeles Lakers,Charlotte Bobcats
+"Fri, Mar 5, 2010 7:00 pm",Detroit Pistons,Cleveland Cavaliers
+"Fri, Mar 5, 2010 7:30 pm",Sacramento Kings,Dallas Mavericks
+"Fri, Mar 5, 2010 7:00 pm",Indiana Pacers,Denver Nuggets
+"Fri, Mar 5, 2010 7:30 pm",Oklahoma City Thunder,Los Angeles Clippers
+"Fri, Mar 5, 2010 8:00 pm",Orlando Magic,New Jersey Nets
+"Fri, Mar 5, 2010 7:00 pm",Boston Celtics,Philadelphia 76ers
+"Fri, Mar 5, 2010 8:30 pm",New Orleans Hornets,San Antonio Spurs
+"Fri, Mar 5, 2010 7:00 pm",New York Knicks,Toronto Raptors
+"Fri, Mar 5, 2010 7:00 pm",Milwaukee Bucks,Washington Wizards
+"Sat, Mar 6, 2010 7:00 pm",Golden State Warriors,Charlotte Bobcats
+"Sat, Mar 6, 2010 7:00 pm",Dallas Mavericks,Chicago Bulls
+"Sat, Mar 6, 2010 7:00 pm",San Antonio Spurs,Memphis Grizzlies
+"Sat, Mar 6, 2010 7:30 pm",Atlanta Hawks,Miami Heat
+"Sat, Mar 6, 2010 7:30 pm",Cleveland Cavaliers,Milwaukee Bucks
+"Sat, Mar 6, 2010 7:00 pm",Houston Rockets,Minnesota Timberwolves
+"Sat, Mar 6, 2010 7:30 pm",New Jersey Nets,New York Knicks
+"Sat, Mar 6, 2010 7:00 pm",Indiana Pacers,Phoenix Suns
+"Sat, Mar 6, 2010 7:00 pm",Los Angeles Clippers,Utah Jazz
+"Sun, Mar 7, 2010 8:00 pm",Washington Wizards,Boston Celtics
+"Sun, Mar 7, 2010 8:30 pm",Portland Trail Blazers,Denver Nuggets
+"Sun, Mar 7, 2010 6:00 pm",Houston Rockets,Detroit Pistons
+"Sun, Mar 7, 2010 2:30 pm",Los Angeles Lakers,Orlando Magic
+"Sun, Mar 7, 2010 6:00 pm",Oklahoma City Thunder,Sacramento Kings
+"Sun, Mar 7, 2010 12:00 pm",Philadelphia 76ers,Toronto Raptors
+"Mon, Mar 8, 2010 7:00 pm",San Antonio Spurs,Cleveland Cavaliers
+"Mon, Mar 8, 2010 7:00 pm",New Jersey Nets,Memphis Grizzlies
+"Mon, Mar 8, 2010 7:00 pm",Dallas Mavericks,Minnesota Timberwolves
+"Mon, Mar 8, 2010 7:00 pm",Golden State Warriors,New Orleans Hornets
+"Mon, Mar 8, 2010 7:30 pm",Atlanta Hawks,New York Knicks
+"Tue, Mar 9, 2010 7:00 pm",Miami Heat,Charlotte Bobcats
+"Tue, Mar 9, 2010 7:00 pm",Utah Jazz,Chicago Bulls
+"Tue, Mar 9, 2010 7:00 pm",Philadelphia 76ers,Indiana Pacers
+"Tue, Mar 9, 2010 7:30 pm",Toronto Raptors,Los Angeles Lakers
+"Tue, Mar 9, 2010 7:00 pm",Boston Celtics,Milwaukee Bucks
+"Tue, Mar 9, 2010 7:00 pm",Los Angeles Clippers,Orlando Magic
+"Tue, Mar 9, 2010 7:00 pm",Sacramento Kings,Portland Trail Blazers
+"Tue, Mar 9, 2010 7:00 pm",Houston Rockets,Washington Wizards
+"Wed, Mar 10, 2010 7:30 pm",Memphis Grizzlies,Boston Celtics
+"Wed, Mar 10, 2010 7:30 pm",New Jersey Nets,Dallas Mavericks
+"Wed, Mar 10, 2010 7:30 pm",Utah Jazz,Detroit Pistons
+"Wed, Mar 10, 2010 7:30 pm",Los Angeles Clippers,Miami Heat
+"Wed, Mar 10, 2010 7:00 pm",Denver Nuggets,Minnesota Timberwolves
+"Wed, Mar 10, 2010 7:00 pm",New Orleans Hornets,Oklahoma City Thunder
+"Wed, Mar 10, 2010 7:00 pm",Charlotte Bobcats,Philadelphia 76ers
+"Wed, Mar 10, 2010 7:00 pm",Toronto Raptors,Sacramento Kings
+"Wed, Mar 10, 2010 7:30 pm",New York Knicks,San Antonio Spurs
+"Thu, Mar 11, 2010 7:30 pm",Portland Trail Blazers,Golden State Warriors
+"Thu, Mar 11, 2010 8:00 pm",Chicago Bulls,Orlando Magic
+"Thu, Mar 11, 2010 7:00 pm",Atlanta Hawks,Washington Wizards
+"Fri, Mar 12, 2010 7:30 pm",Indiana Pacers,Boston Celtics
+"Fri, Mar 12, 2010 7:00 pm",Los Angeles Clippers,Charlotte Bobcats
+"Fri, Mar 12, 2010 8:00 pm",Washington Wizards,Detroit Pistons
+"Fri, Mar 12, 2010 7:00 pm",New York Knicks,Memphis Grizzlies
+"Fri, Mar 12, 2010 7:30 pm",Chicago Bulls,Miami Heat
+"Fri, Mar 12, 2010 7:30 pm",Utah Jazz,Milwaukee Bucks
+"Fri, Mar 12, 2010 7:00 pm",San Antonio Spurs,Minnesota Timberwolves
+"Fri, Mar 12, 2010 7:00 pm",Denver Nuggets,New Orleans Hornets
+"Fri, Mar 12, 2010 7:00 pm",New Jersey Nets,Oklahoma City Thunder
+"Fri, Mar 12, 2010 7:00 pm",Cleveland Cavaliers,Philadelphia 76ers
+"Fri, Mar 12, 2010 7:00 pm",Los Angeles Lakers,Phoenix Suns
+"Fri, Mar 12, 2010 7:00 pm",Portland Trail Blazers,Sacramento Kings
+"Sat, Mar 13, 2010 7:00 pm",Detroit Pistons,Atlanta Hawks
+"Sat, Mar 13, 2010 7:30 pm",New York Knicks,Dallas Mavericks
+"Sat, Mar 13, 2010 7:30 pm",Toronto Raptors,Golden State Warriors
+"Sat, Mar 13, 2010 7:30 pm",New Jersey Nets,Houston Rockets
+"Sat, Mar 13, 2010 7:00 pm",Denver Nuggets,Memphis Grizzlies
+"Sat, Mar 13, 2010 7:30 pm",Los Angeles Clippers,San Antonio Spurs
+"Sat, Mar 13, 2010 7:00 pm",Orlando Magic,Washington Wizards
+"Sun, Mar 14, 2010 3:30 pm",Boston Celtics,Cleveland Cavaliers
+"Sun, Mar 14, 2010 6:00 pm",Philadelphia 76ers,Miami Heat
+"Sun, Mar 14, 2010 12:00 pm",Indiana Pacers,Milwaukee Bucks
+"Sun, Mar 14, 2010 6:00 pm",Utah Jazz,Oklahoma City Thunder
+"Sun, Mar 14, 2010 6:00 pm",Charlotte Bobcats,Orlando Magic
+"Sun, Mar 14, 2010 6:00 pm",New Orleans Hornets,Phoenix Suns
+"Sun, Mar 14, 2010 6:00 pm",Toronto Raptors,Portland Trail Blazers
+"Sun, Mar 14, 2010 6:00 pm",Minnesota Timberwolves,Sacramento Kings
+"Mon, Mar 15, 2010 8:00 pm",Detroit Pistons,Boston Celtics
+"Mon, Mar 15, 2010 7:30 pm",Los Angeles Lakers,Golden State Warriors
+"Mon, Mar 15, 2010 7:30 pm",Denver Nuggets,Houston Rockets
+"Mon, Mar 15, 2010 7:30 pm",New Orleans Hornets,Los Angeles Clippers
+"Mon, Mar 15, 2010 7:00 pm",New York Knicks,Philadelphia 76ers
+"Mon, Mar 15, 2010 7:00 pm",Washington Wizards,Utah Jazz
+"Tue, Mar 16, 2010 7:00 pm",Washington Wizards,Denver Nuggets
+"Tue, Mar 16, 2010 7:30 pm",Cleveland Cavaliers,Detroit Pistons
+"Tue, Mar 16, 2010 7:00 pm",Charlotte Bobcats,Indiana Pacers
+"Tue, Mar 16, 2010 7:00 pm",Chicago Bulls,Memphis Grizzlies
+"Tue, Mar 16, 2010 7:30 pm",San Antonio Spurs,Miami Heat
+"Tue, Mar 16, 2010 7:30 pm",Atlanta Hawks,New Jersey Nets
+"Tue, Mar 16, 2010 7:00 pm",Minnesota Timberwolves,Phoenix Suns
+"Tue, Mar 16, 2010 7:00 pm",Los Angeles Lakers,Sacramento Kings
+"Wed, Mar 17, 2010 7:30 pm",New York Knicks,Boston Celtics
+"Wed, Mar 17, 2010 7:00 pm",Oklahoma City Thunder,Charlotte Bobcats
+"Wed, Mar 17, 2010 7:00 pm",Indiana Pacers,Cleveland Cavaliers
+"Wed, Mar 17, 2010 7:30 pm",Chicago Bulls,Dallas Mavericks
+"Wed, Mar 17, 2010 7:30 pm",New Orleans Hornets,Golden State Warriors
+"Wed, Mar 17, 2010 7:30 pm",Memphis Grizzlies,Houston Rockets
+"Wed, Mar 17, 2010 7:30 pm",Milwaukee Bucks,Los Angeles Clippers
+"Wed, Mar 17, 2010 8:00 pm",San Antonio Spurs,Orlando Magic
+"Wed, Mar 17, 2010 7:00 pm",New Jersey Nets,Philadelphia 76ers
+"Wed, Mar 17, 2010 7:00 pm",Atlanta Hawks,Toronto Raptors
+"Wed, Mar 17, 2010 7:00 pm",Minnesota Timberwolves,Utah Jazz
+"Thu, Mar 18, 2010 7:30 pm",New Orleans Hornets,Denver Nuggets
+"Thu, Mar 18, 2010 7:00 pm",Orlando Magic,Miami Heat
+"Fri, Mar 19, 2010 7:30 pm",Charlotte Bobcats,Atlanta Hawks
+"Fri, Mar 19, 2010 7:00 pm",Cleveland Cavaliers,Chicago Bulls
+"Fri, Mar 19, 2010 7:30 pm",Boston Celtics,Houston Rockets
+"Fri, Mar 19, 2010 7:00 pm",Detroit Pistons,Indiana Pacers
+"Fri, Mar 19, 2010 7:30 pm",Minnesota Timberwolves,Los Angeles Lakers
+"Fri, Mar 19, 2010 7:30 pm",Philadelphia 76ers,New York Knicks
+"Fri, Mar 19, 2010 7:00 pm",Utah Jazz,Phoenix Suns
+"Fri, Mar 19, 2010 7:00 pm",Washington Wizards,Portland Trail Blazers
+"Fri, Mar 19, 2010 7:00 pm",Milwaukee Bucks,Sacramento Kings
+"Fri, Mar 19, 2010 7:30 pm",Golden State Warriors,San Antonio Spurs
+"Fri, Mar 19, 2010 7:00 pm",Oklahoma City Thunder,Toronto Raptors
+"Sat, Mar 20, 2010 8:00 pm",Boston Celtics,Dallas Mavericks
+"Sat, Mar 20, 2010 7:00 pm",Milwaukee Bucks,Denver Nuggets
+"Sat, Mar 20, 2010 7:00 pm",Golden State Warriors,Memphis Grizzlies
+"Sat, Mar 20, 2010 7:30 pm",Charlotte Bobcats,Miami Heat
+"Sat, Mar 20, 2010 7:30 pm",Toronto Raptors,New Jersey Nets
+"Sat, Mar 20, 2010 7:00 pm",Chicago Bulls,Philadelphia 76ers
+"Sat, Mar 20, 2010 7:00 pm",New Orleans Hornets,Utah Jazz
+"Sun, Mar 21, 2010 8:00 pm",San Antonio Spurs,Atlanta Hawks
+"Sun, Mar 21, 2010 6:00 pm",Detroit Pistons,Cleveland Cavaliers
+"Sun, Mar 21, 2010 2:30 pm",Oklahoma City Thunder,Indiana Pacers
+"Sun, Mar 21, 2010 12:30 pm",Sacramento Kings,Los Angeles Clippers
+"Sun, Mar 21, 2010 6:30 pm",Washington Wizards,Los Angeles Lakers
+"Sun, Mar 21, 2010 1:00 pm",Houston Rockets,New York Knicks
+"Sun, Mar 21, 2010 7:30 pm",Portland Trail Blazers,Phoenix Suns
+"Mon, Mar 22, 2010 7:00 pm",Houston Rockets,Chicago Bulls
+"Mon, Mar 22, 2010 7:30 pm",Phoenix Suns,Golden State Warriors
+"Mon, Mar 22, 2010 7:00 pm",Atlanta Hawks,Milwaukee Bucks
+"Mon, Mar 22, 2010 7:00 pm",Toronto Raptors,Minnesota Timberwolves
+"Mon, Mar 22, 2010 7:30 pm",Miami Heat,New Jersey Nets
+"Mon, Mar 22, 2010 7:00 pm",Dallas Mavericks,New Orleans Hornets
+"Mon, Mar 22, 2010 7:00 pm",San Antonio Spurs,Oklahoma City Thunder
+"Mon, Mar 22, 2010 7:00 pm",Orlando Magic,Philadelphia 76ers
+"Mon, Mar 22, 2010 7:00 pm",Memphis Grizzlies,Sacramento Kings
+"Mon, Mar 22, 2010 7:00 pm",Boston Celtics,Utah Jazz
+"Tue, Mar 23, 2010 7:30 pm",Los Angeles Clippers,Dallas Mavericks
+"Tue, Mar 23, 2010 7:30 pm",Indiana Pacers,Detroit Pistons
+"Tue, Mar 23, 2010 7:30 pm",Denver Nuggets,New York Knicks
+"Tue, Mar 23, 2010 7:00 pm",Charlotte Bobcats,Washington Wizards
+"Wed, Mar 24, 2010 7:00 pm",Orlando Magic,Atlanta Hawks
+"Wed, Mar 24, 2010 7:00 pm",Denver Nuggets,Boston Celtics
+"Wed, Mar 24, 2010 7:00 pm",Minnesota Timberwolves,Charlotte Bobcats
+"Wed, Mar 24, 2010 7:30 pm",Memphis Grizzlies,Golden State Warriors
+"Wed, Mar 24, 2010 7:00 pm",Washington Wizards,Indiana Pacers
+"Wed, Mar 24, 2010 7:00 pm",Philadelphia 76ers,Milwaukee Bucks
+"Wed, Mar 24, 2010 7:30 pm",Sacramento Kings,New Jersey Nets
+"Wed, Mar 24, 2010 7:00 pm",Cleveland Cavaliers,New Orleans Hornets
+"Wed, Mar 24, 2010 7:00 pm",Houston Rockets,Oklahoma City Thunder
+"Wed, Mar 24, 2010 8:30 pm",Los Angeles Lakers,San Antonio Spurs
+"Wed, Mar 24, 2010 7:00 pm",Utah Jazz,Toronto Raptors
+"Thu, Mar 25, 2010 7:00 pm",Miami Heat,Chicago Bulls
+"Thu, Mar 25, 2010 7:30 pm",Los Angeles Clippers,Houston Rockets
+"Thu, Mar 25, 2010 7:30 pm",Dallas Mavericks,Portland Trail Blazers
+"Fri, Mar 26, 2010 7:30 pm",Sacramento Kings,Boston Celtics
+"Fri, Mar 26, 2010 7:00 pm",Washington Wizards,Charlotte Bobcats
+"Fri, Mar 26, 2010 7:00 pm",Utah Jazz,Indiana Pacers
+"Fri, Mar 26, 2010 7:30 pm",Miami Heat,Milwaukee Bucks
+"Fri, Mar 26, 2010 8:00 pm",Detroit Pistons,New Jersey Nets
+"Fri, Mar 26, 2010 7:00 pm",Los Angeles Lakers,Oklahoma City Thunder
+"Fri, Mar 26, 2010 7:00 pm",Minnesota Timberwolves,Orlando Magic
+"Fri, Mar 26, 2010 7:00 pm",Atlanta Hawks,Philadelphia 76ers
+"Fri, Mar 26, 2010 7:00 pm",New York Knicks,Phoenix Suns
+"Fri, Mar 26, 2010 7:30 pm",Cleveland Cavaliers,San Antonio Spurs
+"Fri, Mar 26, 2010 7:00 pm",Denver Nuggets,Toronto Raptors
+"Sat, Mar 27, 2010 7:00 pm",New Jersey Nets,Chicago Bulls
+"Sat, Mar 27, 2010 7:30 pm",Dallas Mavericks,Golden State Warriors
+"Sat, Mar 27, 2010 7:30 pm",Los Angeles Lakers,Houston Rockets
+"Sat, Mar 27, 2010 7:00 pm",Portland Trail Blazers,New Orleans Hornets
+"Sat, Mar 27, 2010 7:00 pm",Utah Jazz,Washington Wizards
+"Sun, Mar 28, 2010 3:30 pm",Indiana Pacers,Atlanta Hawks
+"Sun, Mar 28, 2010 8:00 pm",San Antonio Spurs,Boston Celtics
+"Sun, Mar 28, 2010 3:00 pm",Sacramento Kings,Cleveland Cavaliers
+"Sun, Mar 28, 2010 6:00 pm",Chicago Bulls,Detroit Pistons
+"Sun, Mar 28, 2010 6:30 pm",Golden State Warriors,Los Angeles Clippers
+"Sun, Mar 28, 2010 6:00 pm",Toronto Raptors,Miami Heat
+"Sun, Mar 28, 2010 2:00 pm",Memphis Grizzlies,Milwaukee Bucks
+"Sun, Mar 28, 2010 6:00 pm",Phoenix Suns,Minnesota Timberwolves
+"Sun, Mar 28, 2010 6:00 pm",Portland Trail Blazers,Oklahoma City Thunder
+"Sun, Mar 28, 2010 6:00 pm",Denver Nuggets,Orlando Magic
+"Mon, Mar 29, 2010 7:00 pm",Toronto Raptors,Charlotte Bobcats
+"Mon, Mar 29, 2010 7:30 pm",Denver Nuggets,Dallas Mavericks
+"Mon, Mar 29, 2010 7:30 pm",San Antonio Spurs,New Jersey Nets
+"Mon, Mar 29, 2010 7:00 pm",Los Angeles Lakers,New Orleans Hornets
+"Mon, Mar 29, 2010 7:00 pm",New York Knicks,Utah Jazz
+"Tue, Mar 30, 2010 7:00 pm",Phoenix Suns,Chicago Bulls
+"Tue, Mar 30, 2010 7:30 pm",Washington Wizards,Houston Rockets
+"Tue, Mar 30, 2010 7:00 pm",Sacramento Kings,Indiana Pacers
+"Tue, Mar 30, 2010 7:00 pm",Los Angeles Clippers,Milwaukee Bucks
+"Tue, Mar 30, 2010 7:00 pm",Oklahoma City Thunder,Philadelphia 76ers
+"Wed, Mar 31, 2010 7:00 pm",Los Angeles Lakers,Atlanta Hawks
+"Wed, Mar 31, 2010 7:30 pm",Oklahoma City Thunder,Boston Celtics
+"Wed, Mar 31, 2010 7:00 pm",Philadelphia 76ers,Charlotte Bobcats
+"Wed, Mar 31, 2010 7:00 pm",Milwaukee Bucks,Cleveland Cavaliers
+"Wed, Mar 31, 2010 7:30 pm",Miami Heat,Detroit Pistons
+"Wed, Mar 31, 2010 7:00 pm",Dallas Mavericks,Memphis Grizzlies
+"Wed, Mar 31, 2010 7:00 pm",Sacramento Kings,Minnesota Timberwolves
+"Wed, Mar 31, 2010 7:30 pm",Phoenix Suns,New Jersey Nets
+"Wed, Mar 31, 2010 7:00 pm",Washington Wizards,New Orleans Hornets
+"Wed, Mar 31, 2010 7:00 pm",New York Knicks,Portland Trail Blazers
+"Wed, Mar 31, 2010 7:30 pm",Houston Rockets,San Antonio Spurs
+"Wed, Mar 31, 2010 7:00 pm",Los Angeles Clippers,Toronto Raptors
+"Wed, Mar 31, 2010 8:00 pm",Golden State Warriors,Utah Jazz
+"Thu, Apr 1, 2010 7:00 pm",Orlando Magic,Dallas Mavericks
+"Thu, Apr 1, 2010 8:30 pm",Portland Trail Blazers,Denver Nuggets
+"Fri, Apr 2, 2010 7:30 pm",Houston Rockets,Boston Celtics
+"Fri, Apr 2, 2010 7:00 pm",Milwaukee Bucks,Charlotte Bobcats
+"Fri, Apr 2, 2010 8:00 pm",Atlanta Hawks,Cleveland Cavaliers
+"Fri, Apr 2, 2010 8:00 pm",Phoenix Suns,Detroit Pistons
+"Fri, Apr 2, 2010 7:30 pm",New York Knicks,Golden State Warriors
+"Fri, Apr 2, 2010 7:00 pm",Miami Heat,Indiana Pacers
+"Fri, Apr 2, 2010 7:30 pm",Utah Jazz,Los Angeles Lakers
+"Fri, Apr 2, 2010 7:00 pm",New Orleans Hornets,Memphis Grizzlies
+"Fri, Apr 2, 2010 7:30 pm",Orlando Magic,San Antonio Spurs
+"Fri, Apr 2, 2010 7:00 pm",Chicago Bulls,Washington Wizards
+"Sat, Apr 3, 2010 7:00 pm",Detroit Pistons,Atlanta Hawks
+"Sat, Apr 3, 2010 7:00 pm",Charlotte Bobcats,Chicago Bulls
+"Sat, Apr 3, 2010 7:30 pm",Oklahoma City Thunder,Dallas Mavericks
+"Sat, Apr 3, 2010 7:00 pm",Los Angeles Clippers,Denver Nuggets
+"Sat, Apr 3, 2010 7:30 pm",Phoenix Suns,Milwaukee Bucks
+"Sat, Apr 3, 2010 7:00 pm",Miami Heat,Minnesota Timberwolves
+"Sat, Apr 3, 2010 7:30 pm",New Orleans Hornets,New Jersey Nets
+"Sat, Apr 3, 2010 1:00 pm",Toronto Raptors,Philadelphia 76ers
+"Sat, Apr 3, 2010 7:00 pm",Portland Trail Blazers,Sacramento Kings
+"Sun, Apr 4, 2010 1:00 pm",Cleveland Cavaliers,Boston Celtics
+"Sun, Apr 4, 2010 6:00 pm",Houston Rockets,Indiana Pacers
+"Sun, Apr 4, 2010 6:30 pm",New York Knicks,Los Angeles Clippers
+"Sun, Apr 4, 2010 12:30 pm",San Antonio Spurs,Los Angeles Lakers
+"Sun, Apr 4, 2010 6:00 pm",Minnesota Timberwolves,Oklahoma City Thunder
+"Sun, Apr 4, 2010 6:00 pm",Memphis Grizzlies,Orlando Magic
+"Sun, Apr 4, 2010 6:00 pm",Golden State Warriors,Toronto Raptors
+"Sun, Apr 4, 2010 6:00 pm",New Jersey Nets,Washington Wizards
+"Tue, Apr 6, 2010 7:00 pm",Atlanta Hawks,Charlotte Bobcats
+"Tue, Apr 6, 2010 7:00 pm",Milwaukee Bucks,Chicago Bulls
+"Tue, Apr 6, 2010 7:00 pm",Toronto Raptors,Cleveland Cavaliers
+"Tue, Apr 6, 2010 7:00 pm",Houston Rockets,Memphis Grizzlies
+"Tue, Apr 6, 2010 7:30 pm",Boston Celtics,New York Knicks
+"Tue, Apr 6, 2010 7:00 pm",Detroit Pistons,Philadelphia 76ers
+"Tue, Apr 6, 2010 7:00 pm",San Antonio Spurs,Sacramento Kings
+"Tue, Apr 6, 2010 7:00 pm",Oklahoma City Thunder,Utah Jazz
+"Tue, Apr 6, 2010 7:00 pm",Golden State Warriors,Washington Wizards
+"Wed, Apr 7, 2010 7:30 pm",Memphis Grizzlies,Dallas Mavericks
+"Wed, Apr 7, 2010 7:30 pm",Atlanta Hawks,Detroit Pistons
+"Wed, Apr 7, 2010 7:00 pm",Utah Jazz,Houston Rockets
+"Wed, Apr 7, 2010 7:00 pm",New York Knicks,Indiana Pacers
+"Wed, Apr 7, 2010 7:30 pm",Portland Trail Blazers,Los Angeles Clippers
+"Wed, Apr 7, 2010 7:30 pm",Philadelphia 76ers,Miami Heat
+"Wed, Apr 7, 2010 7:00 pm",New Jersey Nets,Milwaukee Bucks
+"Wed, Apr 7, 2010 7:00 pm",Golden State Warriors,Minnesota Timberwolves
+"Wed, Apr 7, 2010 7:00 pm",Charlotte Bobcats,New Orleans Hornets
+"Wed, Apr 7, 2010 7:00 pm",Denver Nuggets,Oklahoma City Thunder
+"Wed, Apr 7, 2010 7:00 pm",Washington Wizards,Orlando Magic
+"Wed, Apr 7, 2010 7:30 pm",San Antonio Spurs,Phoenix Suns
+"Wed, Apr 7, 2010 7:00 pm",Boston Celtics,Toronto Raptors
+"Thu, Apr 8, 2010 7:00 pm",Cleveland Cavaliers,Chicago Bulls
+"Thu, Apr 8, 2010 8:30 pm",Los Angeles Lakers,Denver Nuggets
+"Thu, Apr 8, 2010 7:00 pm",Los Angeles Clippers,Sacramento Kings
+"Fri, Apr 9, 2010 7:30 pm",Toronto Raptors,Atlanta Hawks
+"Fri, Apr 9, 2010 7:30 pm",Washington Wizards,Boston Celtics
+"Fri, Apr 9, 2010 7:30 pm",Indiana Pacers,Cleveland Cavaliers
+"Fri, Apr 9, 2010 7:30 pm",Charlotte Bobcats,Houston Rockets
+"Fri, Apr 9, 2010 7:30 pm",Detroit Pistons,Miami Heat
+"Fri, Apr 9, 2010 7:00 pm",Los Angeles Lakers,Minnesota Timberwolves
+"Fri, Apr 9, 2010 8:00 pm",Chicago Bulls,New Jersey Nets
+"Fri, Apr 9, 2010 7:00 pm",Utah Jazz,New Orleans Hornets
+"Fri, Apr 9, 2010 7:00 pm",Phoenix Suns,Oklahoma City Thunder
+"Fri, Apr 9, 2010 7:00 pm",New York Knicks,Orlando Magic
+"Fri, Apr 9, 2010 7:00 pm",Milwaukee Bucks,Philadelphia 76ers
+"Fri, Apr 9, 2010 7:00 pm",Dallas Mavericks,Portland Trail Blazers
+"Fri, Apr 9, 2010 7:30 pm",Memphis Grizzlies,San Antonio Spurs
+"Sat, Apr 10, 2010 7:00 pm",Detroit Pistons,Charlotte Bobcats
+"Sat, Apr 10, 2010 7:00 pm",San Antonio Spurs,Denver Nuggets
+"Sat, Apr 10, 2010 7:00 pm",New Jersey Nets,Indiana Pacers
+"Sat, Apr 10, 2010 7:30 pm",Golden State Warriors,Los Angeles Clippers
+"Sat, Apr 10, 2010 7:00 pm",Philadelphia 76ers,Memphis Grizzlies
+"Sat, Apr 10, 2010 7:30 pm",Boston Celtics,Milwaukee Bucks
+"Sat, Apr 10, 2010 7:00 pm",Dallas Mavericks,Sacramento Kings
+"Sat, Apr 10, 2010 7:00 pm",Atlanta Hawks,Washington Wizards
+"Sun, Apr 11, 2010 1:00 pm",Orlando Magic,Cleveland Cavaliers
+"Sun, Apr 11, 2010 6:00 pm",Oklahoma City Thunder,Golden State Warriors
+"Sun, Apr 11, 2010 12:30 pm",Portland Trail Blazers,Los Angeles Lakers
+"Sun, Apr 11, 2010 6:00 pm",Minnesota Timberwolves,New Orleans Hornets
+"Sun, Apr 11, 2010 6:00 pm",Miami Heat,New York Knicks
+"Sun, Apr 11, 2010 6:00 pm",Houston Rockets,Phoenix Suns
+"Sun, Apr 11, 2010 6:00 pm",Chicago Bulls,Toronto Raptors
+"Mon, Apr 12, 2010 7:00 pm",Memphis Grizzlies,Denver Nuggets
+"Mon, Apr 12, 2010 7:30 pm",Toronto Raptors,Detroit Pistons
+"Mon, Apr 12, 2010 7:00 pm",Orlando Magic,Indiana Pacers
+"Mon, Apr 12, 2010 7:30 pm",Dallas Mavericks,Los Angeles Clippers
+"Mon, Apr 12, 2010 7:00 pm",Atlanta Hawks,Milwaukee Bucks
+"Mon, Apr 12, 2010 7:30 pm",Charlotte Bobcats,New Jersey Nets
+"Mon, Apr 12, 2010 7:30 pm",Washington Wizards,New York Knicks
+"Mon, Apr 12, 2010 7:00 pm",Miami Heat,Philadelphia 76ers
+"Mon, Apr 12, 2010 7:00 pm",Oklahoma City Thunder,Portland Trail Blazers
+"Mon, Apr 12, 2010 7:00 pm",Houston Rockets,Sacramento Kings
+"Mon, Apr 12, 2010 7:30 pm",Minnesota Timberwolves,San Antonio Spurs
+"Tue, Apr 13, 2010 7:00 pm",Boston Celtics,Chicago Bulls
+"Tue, Apr 13, 2010 7:30 pm",Utah Jazz,Golden State Warriors
+"Tue, Apr 13, 2010 7:30 pm",Sacramento Kings,Los Angeles Lakers
+"Tue, Apr 13, 2010 7:30 pm",Denver Nuggets,Phoenix Suns
+"Wed, Apr 14, 2010 8:00 pm",Cleveland Cavaliers,Atlanta Hawks
+"Wed, Apr 14, 2010 8:00 pm",Milwaukee Bucks,Boston Celtics
+"Wed, Apr 14, 2010 8:00 pm",Chicago Bulls,Charlotte Bobcats
+"Wed, Apr 14, 2010 7:00 pm",San Antonio Spurs,Dallas Mavericks
+"Wed, Apr 14, 2010 7:00 pm",New Orleans Hornets,Houston Rockets
+"Wed, Apr 14, 2010 7:30 pm",Los Angeles Lakers,Los Angeles Clippers
+"Wed, Apr 14, 2010 8:00 pm",New Jersey Nets,Miami Heat
+"Wed, Apr 14, 2010 7:00 pm",Detroit Pistons,Minnesota Timberwolves
+"Wed, Apr 14, 2010 7:00 pm",Memphis Grizzlies,Oklahoma City Thunder
+"Wed, Apr 14, 2010 8:00 pm",Philadelphia 76ers,Orlando Magic
+"Wed, Apr 14, 2010 7:30 pm",Golden State Warriors,Portland Trail Blazers
+"Wed, Apr 14, 2010 8:00 pm",New York Knicks,Toronto Raptors
+"Wed, Apr 14, 2010 8:30 pm",Phoenix Suns,Utah Jazz
+"Wed, Apr 14, 2010 8:00 pm",Indiana Pacers,Washington Wizards
