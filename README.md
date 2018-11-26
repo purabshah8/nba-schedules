@@ -1,4 +1,4 @@
-# nba-schedules
+# NBA Schedule & Fatigue
 
 [Jupyter Notebook](https://github.com/purabshah8/nba-schedules/blob/master/NBA%20Fatigue.ipynb)
 
