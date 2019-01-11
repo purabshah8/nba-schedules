@@ -1,0 +1,14 @@
+.DS_store
+__pycache__
+.ipynb_checkpoints
+2017
+2017 Playoffs
+bbref-utils.py
+BoxToTeam.ipynb
+boxtoteam.py
+json_to_csv.py
+NBA Stats.ipynb
+player_stats.csv
+players.csv
+team_stats.csv
+Untitled.ipynb
